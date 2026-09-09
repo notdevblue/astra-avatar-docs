@@ -1,5 +1,7 @@
 # 공유본의 최신 상태
 
+2026-09-10 v062–v069 결과: [v068 선별 검수본·비교·동작](avatar_modeling/v068_upper_delivery/REVIEW.md)에 손 보정·코트 연결·뒤 카라와 소매11면 대각선을 모았습니다. 새644표본에서 소매 새 면적 경고0·기존169해소, 손–소매 교차0을 확인했습니다. 저장 동작385표본 새 경고0·재로드 위치 오차0입니다. 원형과 v038 SMALL 무릎을 유지했습니다. **큰 겨드랑이 접힘·손 잔여 압축/음영은 미해결이며 전체 완료나 사용자 채택이 아닙니다.** [실제 본과 엔진 전달 요건](avatar_modeling/v068_upper_delivery/RUNTIME_HANDOFF.md), [고정 삼각형 조건의 차이](avatar_modeling/v065_frozen_triangles/REVIEW.md)도 기록했습니다. Unity/VRChat 실행은 미검증입니다.
+
 2026-09-10 후속: [v059 선별 검수본과 비교 그림](avatar_modeling/v059_upper_review/REVIEW.md)에 검증된 손·코트 연결·뒤 카라 수정만 모았습니다. 전신1377·저장 동작385표본에서 새 면적 경고0이며 기존 무릎 결과를 유지했습니다. [v060 엄지·손목 추가260검사](avatar_modeling/v060_hand_range/REVIEW.md)는 손 경고9→0을 확인했습니다. [v061 소매 웨이트](avatar_modeling/v061_cuff_weights/REVIEW.md)는 면적 경고를 줄여도 새 손–소매 교차가 생겨 미채택입니다. 소매·팔꿈치의 기존 면 분할을 이어서 검증 중이며 큰 겨드랑이 접힘과 엔진 검증은 남아 있습니다.
 
 2026-09-10 연속 작업: [상세 조사와 모델 비교](avatar_modeling/v042_upper_research/RESEARCH.md), [손 검수 후보](avatar_modeling/v046_finger_topology/REVIEW.md), [옷 보정의 후속 검증](avatar_modeling/v056_upper_refined/REVIEW.md)을 추가했습니다. 손은 새1100표본에서 원본 면적 경고571→3으로 줄었고 전신1377에서 무릎 결과를 유지했습니다. 코트 연결·뒤 카라 정리와 여러 어깨 구조를 비교했지만 자동 옷 보정은 독립 복합 자세에서 경고가 남아 일반 회전의 최종본으로 채택하지 않았습니다. **옷·팔 작업은 계속 진행 중이며 전체 해결·Unity 구동 완료가 아닙니다. v038 SMALL 무릎 채택은 유지합니다.**

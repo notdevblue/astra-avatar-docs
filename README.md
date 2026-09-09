@@ -1,5 +1,7 @@
 # 원형을 보존하며 실시간 아바타 만들기
 
+2026-09-10 v062–v069 결과: [v068 선별 검수본·비교·동작](avatar_modeling/v068_upper_delivery/REVIEW.md)에 손 보정·코트 연결·뒤 카라와 소매11면 대각선을 모았습니다. 새644표본에서 소매 새 면적 경고0·기존169해소, 손–소매 교차0을 확인했습니다. 저장 동작385표본 새 경고0·재로드 위치 오차0입니다. 원형과 v038 SMALL 무릎을 유지했습니다. **큰 겨드랑이 접힘·손 잔여 압축/음영은 미해결이며 전체 완료나 사용자 채택이 아닙니다.** [실제 본과 엔진 전달 요건](avatar_modeling/v068_upper_delivery/RUNTIME_HANDOFF.md), [고정 삼각형 조건의 차이](avatar_modeling/v065_frozen_triangles/REVIEW.md)도 기록했습니다. Unity/VRChat 실행은 미검증입니다.
+
 최신 비교는 [v059 손·코트·카라 선별 검수본과 동작](avatar_modeling/v059_upper_review/REVIEW.md), [v060 엄지·손목 추가 검사](avatar_modeling/v060_hand_range/REVIEW.md), [v061 소매 웨이트의 실패 비교](avatar_modeling/v061_cuff_weights/REVIEW.md)입니다. 큰 겨드랑이 접힘과 소매 후속 작업은 진행 중입니다. 개선된 손과 유지한 원형을 실제 비교 그림으로 확인할 수 있습니다.
 
 2026-09-10 연속 작업: [상세 조사와 모델 비교](avatar_modeling/v042_upper_research/RESEARCH.md), [손 검수 후보](avatar_modeling/v046_finger_topology/REVIEW.md), [옷 보정의 후속 검증](avatar_modeling/v056_upper_refined/REVIEW.md)을 추가했습니다. 손은 새1100표본에서 원본 면적 경고571→3으로 줄었고 전신1377에서 무릎 결과를 유지했습니다. 코트 연결·뒤 카라 정리와 여러 어깨 구조를 비교했지만 자동 옷 보정은 독립 복합 자세에서 경고가 남아 일반 회전의 최종본으로 채택하지 않았습니다. **옷·팔 작업은 계속 진행 중이며 전체 해결·Unity 구동 완료가 아닙니다. v038 SMALL 무릎 채택은 유지합니다.**
@@ -14,7 +16,7 @@
 
 기존 캐릭터 모델을 PC용 Unity / VRChat 아바타로 다듬는 과정의 연구·실험 기록입니다. 텍스처를 다시 맞추고, 본과 웨이트를 조정하고, 실제 포즈에서 결과를 비교합니다. 잘된 변화뿐 아니라 실패해서 채택하지 않은 시도와 남은 문제도 기록합니다.
 
-**공유본 기준: 2026-09-10, v042–v061 연구·실행·미채택 실험까지, v038 SMALL 무릎 채택 유지. 전체 관절·VRChat 구동은 미완료입니다. 아래는 각 이전 단계 당시 기록입니다.**
+**공유본 기준: 2026-09-10, v042–v069 연구·실행·미채택 실험까지, v038 SMALL 무릎 채택 유지. 전체 관절·VRChat 구동은 미완료입니다. 아래는 각 이전 단계 당시 기록입니다.**
 
 [v036 안쪽 홈 수정·비교](avatar_modeling/v036_knee_crease/REVIEW.md).35개 실험에서 본 보정은 수치 검사를 통과해도 홈이 넓어져 미채택했습니다. 기존 정점 자세 보정과 기존 면 컷은 측정 단면의 빈 구간을17.11→8.12mm로 줄였습니다. 원래98본/기존 좌표·웨이트 유지,791점·871면 컷 추가와6자세 키입니다. 전신1377/새256/재생365표본의 무릎 교차0이지만 면적 경고가 남고 Blender 드라이버만 구현되어 최종 채택하지 않았습니다. 아래는 이전 단계 당시 기록입니다.
 
@@ -102,3 +104,16 @@
 각 문서는 해당 단계 당시의 판단을 담습니다. 이전 문서의 “현재”나 “권장”은 후속 결정으로 달라졌을 수 있으므로 [최신 상태](STATUS.md)를 함께 봐주세요. 수치 검증 통과와 자연스러운 외형, 사용자 채택, 실제 엔진 실행은 서로 다른 판단입니다.
 
 이 저장소는 문서와 본문 비교 그림을 모은 공유본입니다. Blender·FBX·원본 텍스처·레퍼런스 원본·실행 코드·검증 원시 데이터는 배포하지 않습니다. 모델을 내려받아 그대로 재현하는 패키지가 아니며, 문서 속 파일명은 작업 과정을 설명하기 위한 기록입니다. [공유 범위와 갱신 방법](SHARING.md) · [파일 목록](INVENTORY.md)
+
+## v062–v069 후속 기록
+
+| 단계 | 문서 |
+|---|---|
+| v062 | [검수](avatar_modeling/v062_sleeve_diagonals/REVIEW.md) |
+| v063 | [검수](avatar_modeling/v063_sleeve_fit/REVIEW.md) |
+| v064 | [검수](avatar_modeling/v064_shoulder_concavity/REVIEW.md) |
+| v065 | [검수](avatar_modeling/v065_frozen_triangles/REVIEW.md) |
+| v066 | [검수](avatar_modeling/v066_shoulder_profile/REVIEW.md) |
+| v067 | [검수](avatar_modeling/v067_hand_normals/REVIEW.md) |
+| v068 | [검수](avatar_modeling/v068_upper_delivery/REVIEW.md) |
+| v069 | [검수](avatar_modeling/v069_hand_mcp_volume/REVIEW.md) |
