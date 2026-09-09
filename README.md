@@ -1,5 +1,7 @@
 # 원형을 보존하며 실시간 아바타 만들기
 
+[옷·팔·손 작업 종합 검수 — 이 문서부터 보기](avatar_modeling/v068_upper_delivery/START_HERE.md). 확인할 파일, 전후 그림, 동작 프레임, v042–v069 전체 실험 지도, 개선·미해결 상태를 한 문서로 모았습니다. 이번 갱신은 안내 문서이며 모델 변경은 없습니다.
+
 2026-09-10 v062–v069 결과: [v068 선별 검수본·비교·동작](avatar_modeling/v068_upper_delivery/REVIEW.md)에 손 보정·코트 연결·뒤 카라와 소매11면 대각선을 모았습니다. 새644표본에서 소매 새 면적 경고0·기존169해소, 손–소매 교차0을 확인했습니다. 저장 동작385표본 새 경고0·재로드 위치 오차0입니다. 원형과 v038 SMALL 무릎을 유지했습니다. **큰 겨드랑이 접힘·손 잔여 압축/음영은 미해결이며 전체 완료나 사용자 채택이 아닙니다.** [실제 본과 엔진 전달 요건](avatar_modeling/v068_upper_delivery/RUNTIME_HANDOFF.md), [고정 삼각형 조건의 차이](avatar_modeling/v065_frozen_triangles/REVIEW.md)도 기록했습니다. Unity/VRChat 실행은 미검증입니다.
 
 최신 비교는 [v059 손·코트·카라 선별 검수본과 동작](avatar_modeling/v059_upper_review/REVIEW.md), [v060 엄지·손목 추가 검사](avatar_modeling/v060_hand_range/REVIEW.md), [v061 소매 웨이트의 실패 비교](avatar_modeling/v061_cuff_weights/REVIEW.md)입니다. 큰 겨드랑이 접힘과 소매 후속 작업은 진행 중입니다. 개선된 손과 유지한 원형을 실제 비교 그림으로 확인할 수 있습니다.
