@@ -2,7 +2,9 @@
 
 기존 캐릭터 모델을 PC용 Unity / VRChat 아바타로 다듬는 과정의 연구·실험 기록입니다. 텍스처를 다시 맞추고, 본과 웨이트를 조정하고, 실제 포즈에서 결과를 비교합니다. 잘된 변화뿐 아니라 실패해서 채택하지 않은 시도와 남은 문제도 기록합니다.
 
-**공유본 기준: 2026-09-09, v035 무릎 두께 개선 후보 제작·검증까지. 기존 메시와94본을 유지하고 보조4개를 추가했습니다. 전체 관절과 실제 엔진 구동은 미완료입니다.**
+**공유본 기준: 2026-09-09, v036 무릎 안쪽 홈 수정 비교까지. 자세 보정 시제품에서 홈이 좁아졌지만 압축과 날카로운 주름이 남으며, 전체 관절과 VRChat 자동 구동은 미완료입니다.**
+
+[v036 안쪽 홈 수정·비교](avatar_modeling/v036_knee_crease/REVIEW.md).35개 실험에서 본 보정은 수치 검사를 통과해도 홈이 넓어져 미채택했습니다. 기존 정점 자세 보정과 기존 면 컷은 측정 단면의 빈 구간을17.11→8.12mm로 줄였습니다. 원래98본/기존 좌표·웨이트 유지,791점·871면 컷 추가와6자세 키입니다. 전신1377/새256/재생365표본의 무릎 교차0이지만 면적 경고가 남고 Blender 드라이버만 구현되어 최종 채택하지 않았습니다. 아래는 이전 단계 당시 기록입니다.
 
 [v034 관절 두께 연구·진단](avatar_modeling/v034_joint_volume_research/REPORT.md) · [개선 실행 계획](avatar_modeling/v034_joint_volume_research/IMPLEMENTATION_PLAN.md). 당시에는 모델을 수정하지 않고 임시 DQ 비교로 LBS 수축의 기여를 확인했습니다. 중심 두께와 접힘을 분리하는 방향을 정리했고 아래 v035에서 실행했습니다. [v033 검수](avatar_modeling/v033_knee_structure/REVIEW.md)의 교차 검사 통과는 자연스러운 형상 합격과 다릅니다.
 
@@ -54,6 +56,7 @@
 | v033 | 기존 무릎6줄 컷·넓은 분담,1377/124/새384/동작 검증 | [최신 검수](avatar_modeling/v033_knee_structure/REVIEW.md) |
 | v034 | 관절 두께 연구·LBS/DQ 읽기 전용 비교, 개선안 기록 | [연구와 진단](avatar_modeling/v034_joint_volume_research/REPORT.md) · [개선 계획](avatar_modeling/v034_joint_volume_research/IMPLEMENTATION_PLAN.md) |
 | v035 | 기존 메시 유지·보조4본, 무릎 두께/접촉 후보와 회귀 검증 | [실행 결과](avatar_modeling/v035_knee_volume/REVIEW.md) |
+| v036 | 안쪽 홈35사본 비교, 기존 정점 자세 보정 시제품과 잔여 압축 | [실행 결과](avatar_modeling/v036_knee_crease/REVIEW.md) |
 
 [YouTube 조사 노트](avatar_modeling/v008_rigging_research/YOUTUBE_NOTES.md) · [출처와 열람 범위](avatar_modeling/v008_rigging_research/SOURCES.md) · [초기 제작 워크플로 조사](docs/NANO_WORKFLOW_RESEARCH.md)
 
