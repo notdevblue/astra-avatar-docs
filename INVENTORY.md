@@ -4,16 +4,16 @@
 
 문서의 비공개 작업 파일 링크는 미포함 표기로 바꾸고 로컬 설치 경로를 생략했습니다.
 
-- 원문 Markdown: 47개
-- 본문 비교 이미지: 141개
+- 원문 Markdown: 49개
+- 본문 비교 이미지: 143개
 - 아래 SHA-256은 공유본 내용 기준입니다. 기존 저장소의 Git 이력은 포함하지 않습니다.
 
 | 파일 | 바이트 | SHA-256 |
 |---|---:|---|
 | `.gitignore` | 120 | `e1a9d489cc271e1e8036508c1fc40b68cb7e1eb006e647a30964452f11d5e743` |
-| `README.md` | 8117 | `cb2357152149a4d23baa8323690ae8507305c8733543905404da00ae174f5f61` |
-| `SHARING.md` | 4283 | `ca6eaea0d2ec0bfb035e6affaf16d03b393c664289a3fb60de7d1d4e08612000` |
-| `STATUS.md` | 3987 | `b220d29983712643e406f364eb7a6fa20afa881ddcb62ce0702ea62c279362a4` |
+| `README.md` | 8595 | `936e5f76d8d49b1acf376348c9083c54dd7efb4124edbc34ad47ac1bdc9faced` |
+| `SHARING.md` | 4723 | `9bed9cd2d155329b3b513e422c0fff35aa7e382148fb7acd5420a3ddee912202` |
+| `STATUS.md` | 4464 | `15e100ff50833cd402abd90ff28fb52efe33112ab76f41279715f0cdafcae7e4` |
 | `avatar_modeling/v001_inspection/REVIEW.md` | 8117 | `620d9818f22eb42f1385752d012abbcba765dbc37f01f303531355f82eae8918` |
 | `avatar_modeling/v001_inspection/rig_trial/01_arms_raised.png` | 664846 | `8826ebeeef920de97836773476767f2d92e290725fdccef45700bdf63be87acb` |
 | `avatar_modeling/v002_refine/05_arms_raised.png` | 649841 | `205a5b29a2063e2ad60fa5741b894e3431f862079893417434d0bed6acbabc5f` |
@@ -201,4 +201,8 @@
 | `avatar_modeling/v033_knee_structure/REVIEW.md` | 12492 | `3639de6b975a5789aadb2dc52c42bc01e71596f37b632053e73b93ec4bf2a24a` |
 | `avatar_modeling/v033_knee_structure/R_COMPARISON.png` | 1605182 | `e08d88cc8f5f10b82e29088a04b57237b246c8f06a018acfd3a9e97f55be7536` |
 | `avatar_modeling/v033_knee_structure/STRUCTURE_TRIALS.png` | 502025 | `d5def7c17e97ba8e99e711dce9374e395103af7562a07ba09e735f87649e9dea` |
+| `avatar_modeling/v034_joint_volume_research/IMPLEMENTATION_PLAN.md` | 12239 | `c8bf7229abcfa5a33dd297a5322a891e9d39ff78200a015d39c8e7557d59ab36` |
+| `avatar_modeling/v034_joint_volume_research/REPORT.md` | 16301 | `576d7e577b7da4c379eff4ebc3ba897aea76691383558e015d1c80177de6f882` |
+| `avatar_modeling/v034_joint_volume_research/RING_DIAGNOSTIC.png` | 212126 | `9b3e4f9be98951d5759e9f5d5e22859085b4f58d8f20df066a5ccfb550ae5cf7` |
+| `avatar_modeling/v034_joint_volume_research/SKINNING_COMPARISON.png` | 873252 | `206de50a766b21802186417666f0e06a46bbe0a82e9354eab885428c60717833` |
 | `docs/NANO_WORKFLOW_RESEARCH.md` | 19300 | `703991b687a1ebd037dffff68e9c9a34672c851541abad4a9861aad4c486f59d` |
