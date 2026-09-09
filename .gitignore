@@ -1,0 +1,9 @@
+# Documentation and explicitly reviewed illustrations only
+*
+!*/
+!*.md
+!*.png
+!*.jpg
+!*.jpeg
+!*.webp
+!.gitignore
