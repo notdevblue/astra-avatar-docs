@@ -4,16 +4,16 @@
 
 문서의 비공개 작업 파일 링크는 미포함 표기로 바꾸고 로컬 설치 경로를 생략했습니다.
 
-- 원문 Markdown: 51개
+- 원문 Markdown: 52개
 - 본문 비교 이미지: 155개
 - 아래 SHA-256은 공유본 내용 기준입니다. 기존 저장소의 Git 이력은 포함하지 않습니다.
 
 | 파일 | 바이트 | SHA-256 |
 |---|---:|---|
 | `.gitignore` | 120 | `e1a9d489cc271e1e8036508c1fc40b68cb7e1eb006e647a30964452f11d5e743` |
-| `README.md` | 9832 | `41023a34afc85d7b820ea59e5bacdcb45d2a80b0d0509bb1988fc4e8d2095127` |
-| `SHARING.md` | 5475 | `2bb1640e8a888de33341664eb84b921382d6b65c0461d7e4baa65ddac54a03bb` |
-| `STATUS.md` | 5849 | `27cd3bec74f4abd22e2f0393e4b1cf4c28e8dd4dca4b84bf429c8cd8940869b9` |
+| `README.md` | 10228 | `e9c33e4a60b30ed11bbd92b62e9b3df38651e77abab3851187c9ae7c7136edfe` |
+| `SHARING.md` | 5716 | `4b6f85b4d9af20112a1392a5e33000a58bb78fcb97f0241de3f79d00b585296e` |
+| `STATUS.md` | 6391 | `1dd55fe5cc63fbbb714b1fb157b344a4b46c86cb5a3a7a37b68207de7cc1423f` |
 | `avatar_modeling/v001_inspection/REVIEW.md` | 8117 | `620d9818f22eb42f1385752d012abbcba765dbc37f01f303531355f82eae8918` |
 | `avatar_modeling/v001_inspection/rig_trial/01_arms_raised.png` | 664846 | `8826ebeeef920de97836773476767f2d92e290725fdccef45700bdf63be87acb` |
 | `avatar_modeling/v002_refine/05_arms_raised.png` | 649841 | `205a5b29a2063e2ad60fa5741b894e3431f862079893417434d0bed6acbabc5f` |
@@ -214,6 +214,7 @@
 | `avatar_modeling/v035_knee_volume/TRIALS.png` | 502243 | `5473529aec986d2783eb5ac7f9d4dfe0fdd3380079a41408af6c1a67711df5cc` |
 | `avatar_modeling/v036_knee_crease/L_COMPARISON.png` | 847721 | `763181ce11fedb0cd026e3e5498155b21c457fed91b91c48c4e8aace0baddfe7` |
 | `avatar_modeling/v036_knee_crease/OTHER_VIEWS.png` | 482000 | `544179dc104bad725efa86943bd8453466f163dbb453f72481b4e767d1dd6794` |
+| `avatar_modeling/v036_knee_crease/RESTART_FROM_V030.md` | 7676 | `d589c9f0e4dbf8a3fc1dff1b5e4f02f1819335d83e3a7834bf03546f104899d6` |
 | `avatar_modeling/v036_knee_crease/REST_COMPARISON.png` | 207096 | `977b84f7aabb34bc2c9cd2ddd16c3f5e28b7b9d046567ad8756c18d45145b180` |
 | `avatar_modeling/v036_knee_crease/REVIEW.md` | 13361 | `1c32c85f4721454e2cd98364d74a0670c1fb8e44320aa7914a72cc8fc96d3d00` |
 | `avatar_modeling/v036_knee_crease/R_COMPARISON.png` | 913789 | `ae7a911c7a2f19dc032703dcfa61144b47606a45b946c747a606b0ff6afc13cf` |
