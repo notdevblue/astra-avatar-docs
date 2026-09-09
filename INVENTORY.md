@@ -11,9 +11,9 @@
 | 파일 | 바이트 | SHA-256 |
 |---|---:|---|
 | `.gitignore` | 120 | `e1a9d489cc271e1e8036508c1fc40b68cb7e1eb006e647a30964452f11d5e743` |
-| `README.md` | 10602 | `9d6873449f93c7414a981bd66f6697620dc1b6bf9d5d61dd4f8c4c6b816203ee` |
-| `SHARING.md` | 6735 | `632aca2b41270571f2121aaa5521c3dc7195842e15bd0e13697499f0992aa385` |
-| `STATUS.md` | 6486 | `4ee922d26ca122fa91b13c65fad139816fb370106b06bd79414d2e4fd4230970` |
+| `README.md` | 10683 | `c3f6bb67970a87e5e6b6b3508c78e1e6c9bfbd64ec4d85edaf0a9636f23c27ee` |
+| `SHARING.md` | 6980 | `244a4c4d7b151f6a006216eb5f97626a0be6957f59450f9e16716ff3f3fc4cab` |
+| `STATUS.md` | 6520 | `9fff2f3a60024cb013567d4a97ff45e702c77f883ee800ded364c6bc611c86b5` |
 | `avatar_modeling/v001_inspection/REVIEW.md` | 8117 | `620d9818f22eb42f1385752d012abbcba765dbc37f01f303531355f82eae8918` |
 | `avatar_modeling/v001_inspection/rig_trial/01_arms_raised.png` | 664846 | `8826ebeeef920de97836773476767f2d92e290725fdccef45700bdf63be87acb` |
 | `avatar_modeling/v002_refine/05_arms_raised.png` | 649841 | `205a5b29a2063e2ad60fa5741b894e3431f862079893417434d0bed6acbabc5f` |
@@ -229,7 +229,7 @@
 | `avatar_modeling/v038_knee_front/DETAIL_120.png` | 254183 | `e52a0d56bea70d0b338f471caeaff1caf1c5f289e675eeaac1c66a6e8e7a3fab` |
 | `avatar_modeling/v038_knee_front/FRONT_COMPARISON.png` | 246946 | `c758ad7c5107f0def8f5822d71fab5545ab435970ac0c628417fc30809c360bd` |
 | `avatar_modeling/v038_knee_front/L_COMPARISON.png` | 754474 | `c41cdec81a9770c097e63805000156e755d544850ab0286cec2a637da850fdb6` |
-| `avatar_modeling/v038_knee_front/REVIEW.md` | 6841 | `a880d96135b91ea1bf9fceb54ad530f49fbda78ced6c2b9675613ae15e9ef407` |
+| `avatar_modeling/v038_knee_front/REVIEW.md` | 7117 | `03d01b3d36da440ff937fedc07d6538d57d58c39ca808d14a0927245599d2e29` |
 | `avatar_modeling/v038_knee_front/R_COMPARISON.png` | 820397 | `15d82c8754762dc28c2f6b7590848ee04967b3fccbd8ce55b55886766d250ee2` |
 | `avatar_modeling/v038_knee_front/TOGGLE_120.gif` | 435732 | `6a59a8781e45ba51d250defe6f67d8beebb1b4eeed0e8fad019ec182dda0307a` |
 | `docs/NANO_WORKFLOW_RESEARCH.md` | 19300 | `703991b687a1ebd037dffff68e9c9a34672c851541abad4a9861aad4c486f59d` |
