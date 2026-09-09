@@ -4,16 +4,16 @@
 
 문서의 비공개 작업 파일 링크는 미포함 표기로 바꾸고 로컬 설치 경로를 생략했습니다.
 
-- 원문 Markdown: 43개
-- 본문 비교 이미지: 128개
+- 원문 Markdown: 45개
+- 본문 비교 이미지: 131개
 - 아래 SHA-256은 공유본 내용 기준입니다. 기존 저장소의 Git 이력은 포함하지 않습니다.
 
 | 파일 | 바이트 | SHA-256 |
 |---|---:|---|
 | `.gitignore` | 120 | `e1a9d489cc271e1e8036508c1fc40b68cb7e1eb006e647a30964452f11d5e743` |
-| `README.md` | 6896 | `dc3fd8f6f1afaea0463900eb30415baee9f54ca85f21d4bdbb30606829479791` |
-| `SHARING.md` | 2989 | `7009a817e491f23244f5b0dc161c2159154d18805015a21faafbe9bf801dc732` |
-| `STATUS.md` | 2574 | `b597144529b6ec8d72858da4af40bd543ad289afa77629b836b9fa778ceb2dad` |
+| `README.md` | 7136 | `9c2d7bd42c756efdced06d08bf4682de99e6a9740c132a180edc4e0a3b142a5b` |
+| `SHARING.md` | 3242 | `196708c76fb5cafddd38438326081d226bacaf4ff70f50a029e2f9da4365d5e2` |
+| `STATUS.md` | 3208 | `226360d35e4772503869a31a7daab1f03ccee31a3c5d0d8895de419a4b46f89e` |
 | `avatar_modeling/body_trials_v010/NEXT_SCOPE.md` | 4210 | `eb1cbb859f439b36429d369c34dbbabc419f7e55a1c25e36edefe1de352d49ce` |
 | `avatar_modeling/body_trials_v010/REVIEW.md` | 7589 | `afcce7f4dde4d62963966df659f04c68871d6387747a9a994a5bbcb1b21a45e6` |
 | `avatar_modeling/body_trials_v010/coat_bones_PROPOSAL_back.png` | 384423 | `edf9155e44e2c62357041c59b7959b9378ebaa03162fdf17d156ac8d3caf0183` |
@@ -184,4 +184,9 @@
 | `avatar_modeling/texture_v005/before_skin_front.png` | 649131 | `4f27b67f550e2fef5865fce0d580fec798562810681d8e0ac185750ada9395d0` |
 | `avatar_modeling/texture_v005/before_skin_other_side.png` | 591503 | `80ef2842d464276641362f97d0fb483651830437a4877bf37d4827d048379b0e` |
 | `avatar_modeling/texture_v005/before_skin_side.png` | 603756 | `e6a0db10942ba22680755017342f030b4b6ac27ccd28ec4aa21291dabd5ad880` |
+| `avatar_modeling/topology_v031/BODY_TOPOLOGY.png` | 495806 | `1330efec7b9dc46b407bc6c94fbccf1d8482e95f78a171813d0cfbd477ad25d0` |
+| `avatar_modeling/topology_v031/DIAGONAL_COMPARISON.png` | 717180 | `dea2346f9bb41c1a68b98237edb05b507b1452ee3b7031670b609e2c8a89a819` |
+| `avatar_modeling/topology_v031/DIRECTION.md` | 8781 | `3d8b11c5abe450fb93beba99f052fa5e6fabfe4e349368a37041dfb21714901c` |
+| `avatar_modeling/topology_v031/HAND_NECK_TOPOLOGY.png` | 389350 | `592641b83e2f59e9b44ba112af07a8c3bf9efa5a20e032d3aefd570452c5b5fd` |
+| `avatar_modeling/topology_v031/REVIEW.md` | 9138 | `bd6e88c2dca0a02dab9dd22eb268f6cff7c5fc09988126ededd2ece54b35eb06` |
 | `docs/NANO_WORKFLOW_RESEARCH.md` | 19300 | `703991b687a1ebd037dffff68e9c9a34672c851541abad4a9861aad4c486f59d` |
