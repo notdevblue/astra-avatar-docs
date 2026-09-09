@@ -31,6 +31,7 @@
 | v012 | 자락 형상·웨이트 개선, 254동작 표본 검사 | [검수](avatar_modeling/coat_v012/REVIEW.md) · [추가 조사](avatar_modeling/coat_v012/RESEARCH_NOTES.md) · [자동 구동 제안](avatar_modeling/coat_v012/NEXT_AUTOMOTION_SCOPE.md) |
 | v013 | 부모4개 추가, 4방법×286표본 비교와 FBX 구조 왕복검사 | [검수와 전후 비교](avatar_modeling/coat_runtime_v013/REVIEW.md) |
 | v014 | 무릎383정점 웨이트 개선,48자세/254동작과 Unity 가져오기 검수 | [전후 결과](avatar_modeling/joint_followup_v014/REVIEW.md) · [추가 조사](avatar_modeling/joint_followup_v014/RESEARCH_NOTES.md) · [미실행 보조 본 제안](avatar_modeling/joint_followup_v014/NEXT_SCOPE.md) |
+| v015 | 전신141자세 진단, 무릎/어깨4보조 본 비교 | [검수](avatar_modeling/full_rig_v015/REVIEW.md) · [참고 자료](avatar_modeling/full_rig_v015/REFERENCES.md) |
 
 [YouTube 조사 노트](avatar_modeling/rigging_research_v008/YOUTUBE_NOTES.md) · [출처와 열람 범위](avatar_modeling/rigging_research_v008/SOURCES.md) · [초기 제작 워크플로 조사](docs/NANO_WORKFLOW_RESEARCH.md)
 
