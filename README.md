@@ -1,10 +1,10 @@
 # 원형을 보존하며 실시간 아바타 만들기
 
-최신 방향 재정렬: [v030 무릎 국소 수정과 실제 제작 사례](avatar_modeling/v036_knee_crease/RESTART_FROM_V030.md). 다음 모델 편집은 v030 사본에서 시작하며, 앞쪽 두께와 뒤쪽 접힘의 목표를 먼저 정합니다. v036을 자동으로 이어 채택하지 않습니다. 이번 추가는 조사·작업 방향 기록이며 모델 수정본은 아닙니다.
+최신 실행: [v037 — v030에서 무릎만 다시 조절한 비교](avatar_modeling/v037_knee_target/REVIEW.md). 원래 정점·94본을 유지하며 국소 웨이트와 기존 사각형5개 대각선을 수정했습니다. 좁은 뒤쪽 접힘과 앞쪽 두께의 균형을 다시 잡은 검수 후보입니다. 전신1377/집중124/새256/재생365표본에서 무릎 교차·면적 경고0, 다른 부위 새 악화0입니다. 각진 주름·사용자 형상 확인·Unity 구동은 남습니다. [재시작 조사와 계획](avatar_modeling/v036_knee_crease/RESTART_FROM_V030.md)을 실행한 결과이며 v035/v036을 자동 채택하지 않았습니다.
 
 기존 캐릭터 모델을 PC용 Unity / VRChat 아바타로 다듬는 과정의 연구·실험 기록입니다. 텍스처를 다시 맞추고, 본과 웨이트를 조정하고, 실제 포즈에서 결과를 비교합니다. 잘된 변화뿐 아니라 실패해서 채택하지 않은 시도와 남은 문제도 기록합니다.
 
-**공유본 기준: 2026-09-09, v036 무릎 안쪽 홈 수정 비교까지. 자세 보정 시제품에서 홈이 좁아졌지만 압축과 날카로운 주름이 남으며, 전체 관절과 VRChat 자동 구동은 미완료입니다.**
+**공유본 기준: 2026-09-09, v037의 v030 국소 수정 실행까지. 사용자 최종 채택과 전체 관절·VRChat 구동은 미완료입니다. 아래는 각 이전 단계 당시 기록입니다.**
 
 [v036 안쪽 홈 수정·비교](avatar_modeling/v036_knee_crease/REVIEW.md).35개 실험에서 본 보정은 수치 검사를 통과해도 홈이 넓어져 미채택했습니다. 기존 정점 자세 보정과 기존 면 컷은 측정 단면의 빈 구간을17.11→8.12mm로 줄였습니다. 원래98본/기존 좌표·웨이트 유지,791점·871면 컷 추가와6자세 키입니다. 전신1377/새256/재생365표본의 무릎 교차0이지만 면적 경고가 남고 Blender 드라이버만 구현되어 최종 채택하지 않았습니다. 아래는 이전 단계 당시 기록입니다.
 
@@ -59,6 +59,7 @@
 | v034 | 관절 두께 연구·LBS/DQ 읽기 전용 비교, 개선안 기록 | [연구와 진단](avatar_modeling/v034_joint_volume_research/REPORT.md) · [개선 계획](avatar_modeling/v034_joint_volume_research/IMPLEMENTATION_PLAN.md) |
 | v035 | 기존 메시 유지·보조4본, 무릎 두께/접촉 후보와 회귀 검증 | [실행 결과](avatar_modeling/v035_knee_volume/REVIEW.md) |
 | v036 | 안쪽 홈35사본 비교, 기존 정점 자세 보정 시제품과 잔여 압축 | [실행 결과](avatar_modeling/v036_knee_crease/REVIEW.md) |
+| v037 | v030 국소 목표·기존 웨이트와5면 대각선 수정, 좁은 접힘·두께 비교 | [실행 결과](avatar_modeling/v037_knee_target/REVIEW.md) |
 
 [YouTube 조사 노트](avatar_modeling/v008_rigging_research/YOUTUBE_NOTES.md) · [출처와 열람 범위](avatar_modeling/v008_rigging_research/SOURCES.md) · [초기 제작 워크플로 조사](docs/NANO_WORKFLOW_RESEARCH.md)
 
