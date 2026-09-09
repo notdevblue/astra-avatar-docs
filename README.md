@@ -2,7 +2,7 @@
 
 기존 캐릭터 모델을 PC용 Unity / VRChat 아바타로 다듬는 과정의 연구·실험 기록입니다. 텍스처를 다시 맞추고, 본과 웨이트를 조정하고, 실제 포즈에서 결과를 비교합니다. 잘된 변화뿐 아니라 실패해서 채택하지 않은 시도와 남은 문제도 기록합니다.
 
-**공유본 기준: 2026-09-09, v025 어깨·복합 회전 보정과 v026 코트 국소 후보 검수까지. 관절 형상·접촉과 실제 자동 구동은 아직 미완료입니다.**
+**공유본 기준: 2026-09-09, v027–v030 손/고관절/무릎 비교와 국소 통합 검수까지. 관절 형상·접촉과 실제 자동 구동은 아직 미완료입니다.**
 
 ## 처음 읽는 분께
 
@@ -13,12 +13,16 @@
 5. [후속 자락 개선 v012](avatar_modeling/coat_v012/REVIEW.md) — 웨이트 분배와 제어 포즈 개선, 검사 결과와 자동 구동의 차이.
 6. [부모 4개 추가 사본 v013](avatar_modeling/coat_runtime_v013/REVIEW.md) — 기존 외형을 유지하며 뿌리 이동을 부모 회전으로 바꾼 비교.
 
-[최신 어깨·복합 회전 검수](avatar_modeling/rotation_review_v025/REVIEW.md) · [제작자 사례 조사](avatar_modeling/rotation_review_v025/RESEARCH_NOTES.md) · [코트 국소 후보와 회귀](avatar_modeling/coat_contact_v026/REVIEW.md). 완성본이 아닙니다.
+[최신 무릎·오른쪽 전완 국소 검수](avatar_modeling/joint_checkpoint_v030/REVIEW.md) · [손 미채택 비교](avatar_modeling/hand_axis_v027/REVIEW.md) · [고관절 회귀](avatar_modeling/rotation_followup_v028/REVIEW.md) · [무릎 보조 중심 비교](avatar_modeling/knee_pivot_v029/REVIEW.md). 완성본이 아닙니다.
 
 ## 단계별 기록
 
 | 단계 | 주제 | 문서 |
 |---|---|---|
+| v027 | 손가락 축·웨이트482표본 비교, 교차 회귀로 미채택 | [검수](avatar_modeling/hand_axis_v027/REVIEW.md) · [참고](avatar_modeling/hand_axis_v027/REFERENCES.md) |
+| v028 | 중간 회전 압축 감소와 코트 관통 회귀, 미채택 | [검수](avatar_modeling/rotation_followup_v028/REVIEW.md) |
+| v029 | 기존 무릎 보조 중심7개×124자세 비교 | [검수](avatar_modeling/knee_pivot_v029/REVIEW.md) |
+| v030 | 무릎/오른쪽 전완 국소 통합,1281몸/124무릎/494프레임 | [최신 검수](avatar_modeling/joint_checkpoint_v030/REVIEW.md) |
 | v001 | 가져오기, 원본 진단, 임시 리그 | [검수](avatar_modeling/inspection_v001/REVIEW.md) |
 | v002 | 국소 색 보정과 몸 웨이트 | [검수](avatar_modeling/refine_v002/REVIEW.md) · [비교](avatar_modeling/refine_v002/GALLERY.md) |
 | v003 | 눈 UV·국소 정점 시험 | [검수](avatar_modeling/eyes_v003/REVIEW.md) · [비교](avatar_modeling/eyes_v003/GALLERY.md) |
