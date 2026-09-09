@@ -4,16 +4,16 @@
 
 문서의 비공개 작업 파일 링크는 미포함 표기로 바꾸고 로컬 설치 경로를 생략했습니다.
 
-- 원문 Markdown: 49개
-- 본문 비교 이미지: 143개
+- 원문 Markdown: 50개
+- 본문 비교 이미지: 149개
 - 아래 SHA-256은 공유본 내용 기준입니다. 기존 저장소의 Git 이력은 포함하지 않습니다.
 
 | 파일 | 바이트 | SHA-256 |
 |---|---:|---|
 | `.gitignore` | 120 | `e1a9d489cc271e1e8036508c1fc40b68cb7e1eb006e647a30964452f11d5e743` |
-| `README.md` | 8595 | `936e5f76d8d49b1acf376348c9083c54dd7efb4124edbc34ad47ac1bdc9faced` |
-| `SHARING.md` | 4723 | `9bed9cd2d155329b3b513e422c0fff35aa7e382148fb7acd5420a3ddee912202` |
-| `STATUS.md` | 4464 | `15e100ff50833cd402abd90ff28fb52efe33112ab76f41279715f0cdafcae7e4` |
+| `README.md` | 9067 | `931d18a13db38b74f6299396b488a94ca40a40cc21e73f2435347203e389403b` |
+| `SHARING.md` | 5125 | `9e5dca4a51b2e3cc4174d7dcac1263a34d5b30e612d1dfd883cb5a0142a1d551` |
+| `STATUS.md` | 5116 | `fea35edd73d20078ed4737d659bd3ecfadc6a47054f9645ae5e800c6dbf3f692` |
 | `avatar_modeling/v001_inspection/REVIEW.md` | 8117 | `620d9818f22eb42f1385752d012abbcba765dbc37f01f303531355f82eae8918` |
 | `avatar_modeling/v001_inspection/rig_trial/01_arms_raised.png` | 664846 | `8826ebeeef920de97836773476767f2d92e290725fdccef45700bdf63be87acb` |
 | `avatar_modeling/v002_refine/05_arms_raised.png` | 649841 | `205a5b29a2063e2ad60fa5741b894e3431f862079893417434d0bed6acbabc5f` |
@@ -205,4 +205,11 @@
 | `avatar_modeling/v034_joint_volume_research/REPORT.md` | 16301 | `576d7e577b7da4c379eff4ebc3ba897aea76691383558e015d1c80177de6f882` |
 | `avatar_modeling/v034_joint_volume_research/RING_DIAGNOSTIC.png` | 212126 | `9b3e4f9be98951d5759e9f5d5e22859085b4f58d8f20df066a5ccfb550ae5cf7` |
 | `avatar_modeling/v034_joint_volume_research/SKINNING_COMPARISON.png` | 873252 | `206de50a766b21802186417666f0e06a46bbe0a82e9354eab885428c60717833` |
+| `avatar_modeling/v035_knee_volume/L_COMPARISON.png` | 833711 | `90e7a46303aa948276fc38fbf5e5e12f7211ec65fb2c0577ea04c3ad5b043b37` |
+| `avatar_modeling/v035_knee_volume/OTHER_VIEWS.png` | 489637 | `e19cbf891e05c62b91384ee0b5bbee70c445d36292fe5277d5e00b700dee120a` |
+| `avatar_modeling/v035_knee_volume/REST_COMPARISON.png` | 208061 | `7a3cc18649860bf474e9fc0748950477e2047bb2f4ae4dfb671fd9a03d66b72b` |
+| `avatar_modeling/v035_knee_volume/REVIEW.md` | 12091 | `ec58a76e85723b0eaea12bf4e493b568dad8c96a535cb53e3705cd840efe88d0` |
+| `avatar_modeling/v035_knee_volume/R_COMPARISON.png` | 902795 | `7fba706fb398bd24afac9c722f3277f1a9b2c0e7eb21a91e5c5882a68a74f0b5` |
+| `avatar_modeling/v035_knee_volume/THICKNESS.png` | 104101 | `59004bda68d3ab3af3dfe6e417fae812dee2287745d1e50fd15a56ae1be6009b` |
+| `avatar_modeling/v035_knee_volume/TRIALS.png` | 502243 | `5473529aec986d2783eb5ac7f9d4dfe0fdd3380079a41408af6c1a67711df5cc` |
 | `docs/NANO_WORKFLOW_RESEARCH.md` | 19300 | `703991b687a1ebd037dffff68e9c9a34672c851541abad4a9861aad4c486f59d` |

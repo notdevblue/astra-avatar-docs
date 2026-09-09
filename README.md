@@ -2,9 +2,11 @@
 
 기존 캐릭터 모델을 PC용 Unity / VRChat 아바타로 다듬는 과정의 연구·실험 기록입니다. 텍스처를 다시 맞추고, 본과 웨이트를 조정하고, 실제 포즈에서 결과를 비교합니다. 잘된 변화뿐 아니라 실패해서 채택하지 않은 시도와 남은 문제도 기록합니다.
 
-**공유본 기준: 2026-09-09, v034 관절 두께 연구·현재 구현 진단까지. v033은 사용자 시각 피드백으로 자동 채택을 보류했습니다. 전체 관절과 실제 자동 구동은 미완료입니다.**
+**공유본 기준: 2026-09-09, v035 무릎 두께 개선 후보 제작·검증까지. 기존 메시와94본을 유지하고 보조4개를 추가했습니다. 전체 관절과 실제 엔진 구동은 미완료입니다.**
 
-[최신 관절 두께 연구·진단](avatar_modeling/v034_joint_volume_research/REPORT.md) · [개선 실행 계획](avatar_modeling/v034_joint_volume_research/IMPLEMENTATION_PLAN.md). v030의 접촉 실루엣 선호와 별개로 두 후보 모두 굽힘 두께 문제가 있습니다. 임시 DQ 비교로 LBS 수축의 기여를 확인했지만 안쪽 홈은 남았습니다. 모델은 수정하지 않았으며 중심 두께와 접힘을 분리하는 보조 구조를 다음 방향으로 정리했습니다. [v033 검수](avatar_modeling/v033_knee_structure/REVIEW.md)의 교차 검사 통과는 자연스러운 형상 합격과 다릅니다.
+[v034 관절 두께 연구·진단](avatar_modeling/v034_joint_volume_research/REPORT.md) · [개선 실행 계획](avatar_modeling/v034_joint_volume_research/IMPLEMENTATION_PLAN.md). 당시에는 모델을 수정하지 않고 임시 DQ 비교로 LBS 수축의 기여를 확인했습니다. 중심 두께와 접힘을 분리하는 방향을 정리했고 아래 v035에서 실행했습니다. [v033 검수](avatar_modeling/v033_knee_structure/REVIEW.md)의 교차 검사 통과는 자연스러운 형상 합격과 다릅니다.
+
+[v035 계획 실행 결과와 비교 그림](avatar_modeling/v035_knee_volume/REVIEW.md).12개 수정 후보를 비교해 짧은 보조 관절과 뒤쪽 분담 후보를 남겼습니다.1377/124/384/새256자세와 재생365표본에서 무릎 교차·면적 이상0입니다. 굽힘 두께는 개선됐지만 작은 각짐과 다른 관절은 남습니다. v030/v033은 비교용으로 보존하며 사용자 최종 채택과 구분합니다.
 
 [최신 토폴로지 조사와 실제 수정 비교](avatar_modeling/v031_topology/REVIEW.md) · [조사 근거와 수정 방향](avatar_modeling/v031_topology/DIRECTION.md). 두 면 컷 사본은 회귀로 미채택이며 기준은 v030입니다.
 
@@ -51,6 +53,7 @@
 | v032 | 양 무릎 국소 웨이트와 다음 구조 편집 제안 | [이전 비교](avatar_modeling/v032_knee_local/REVIEW.md) |
 | v033 | 기존 무릎6줄 컷·넓은 분담,1377/124/새384/동작 검증 | [최신 검수](avatar_modeling/v033_knee_structure/REVIEW.md) |
 | v034 | 관절 두께 연구·LBS/DQ 읽기 전용 비교, 개선안 기록 | [연구와 진단](avatar_modeling/v034_joint_volume_research/REPORT.md) · [개선 계획](avatar_modeling/v034_joint_volume_research/IMPLEMENTATION_PLAN.md) |
+| v035 | 기존 메시 유지·보조4본, 무릎 두께/접촉 후보와 회귀 검증 | [실행 결과](avatar_modeling/v035_knee_volume/REVIEW.md) |
 
 [YouTube 조사 노트](avatar_modeling/v008_rigging_research/YOUTUBE_NOTES.md) · [출처와 열람 범위](avatar_modeling/v008_rigging_research/SOURCES.md) · [초기 제작 워크플로 조사](docs/NANO_WORKFLOW_RESEARCH.md)
 
