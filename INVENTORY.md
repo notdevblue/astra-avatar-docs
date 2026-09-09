@@ -4,16 +4,16 @@
 
 문서의 비공개 작업 파일 링크는 미포함 표기로 바꾸고 로컬 설치 경로를 생략했습니다.
 
-- 원문 Markdown: 33개
-- 본문 비교 이미지: 118개
+- 원문 Markdown: 35개
+- 본문 비교 이미지: 121개
 - 아래 SHA-256은 공유본 내용 기준입니다. 기존 저장소의 Git 이력은 포함하지 않습니다.
 
 | 파일 | 바이트 | SHA-256 |
 |---|---:|---|
 | `.gitignore` | 120 | `e1a9d489cc271e1e8036508c1fc40b68cb7e1eb006e647a30964452f11d5e743` |
-| `README.md` | 5315 | `0b5d75a0bb880222d2e3ce3bb36da8acbb6342874f0652a3a5a60db3d32c7e0b` |
-| `SHARING.md` | 2862 | `fca35d1eeaaa7d5f4243f78204dc7cdb3c7b8b3a5c289448a82457d995a618e1` |
-| `STATUS.md` | 5972 | `bb7d45d7845b0f33fcf5e6fb63bac7be7bd2ec1cecf231ce3ca6a365aae2c8c2` |
+| `README.md` | 5765 | `065e8ccd293f5624c066bf36163402c3c8cc65e06d19418df441a728b6c94922` |
+| `SHARING.md` | 2902 | `bcf2f29d9e5e40226570ae008465d6cb02bec6e9aaf13cfac6495d6964d862d9` |
+| `STATUS.md` | 2668 | `9683f4b462a8a7e13ed23c47114d7bed370f85657bbf113f9fadc3d17b3a53a6` |
 | `avatar_modeling/body_trials_v010/NEXT_SCOPE.md` | 4210 | `eb1cbb859f439b36429d369c34dbbabc419f7e55a1c25e36edefe1de352d49ce` |
 | `avatar_modeling/body_trials_v010/REVIEW.md` | 7589 | `afcce7f4dde4d62963966df659f04c68871d6387747a9a994a5bbcb1b21a45e6` |
 | `avatar_modeling/body_trials_v010/coat_bones_PROPOSAL_back.png` | 384423 | `edf9155e44e2c62357041c59b7959b9378ebaa03162fdf17d156ac8d3caf0183` |
@@ -131,6 +131,11 @@
 | `avatar_modeling/refine_v002/12_after_face_baked.png` | 848852 | `ddc1b144210de3d3a93925aaece9a11f4239e7e23f2b3cf691fcd364984be065` |
 | `avatar_modeling/refine_v002/GALLERY.md` | 1741 | `d2a505c2a39599d9f17ee398588682759d6f8efb569881d28e7602f23e797e23` |
 | `avatar_modeling/refine_v002/REVIEW.md` | 6496 | `73f3290d321048ab1f7af42b6672019fb13ab761ce41d64e60b3dc1e163a75bc` |
+| `avatar_modeling/rig_review_v023/HAND_HAIR_REVIEW.png` | 674835 | `ce3bb6d3ce49b5f153226627fd6b9126c2513dce1c9e5e185de2e6d5c5dfda32` |
+| `avatar_modeling/rig_review_v023/REFERENCES.md` | 4218 | `d4ea5d2cd01d10f8e8995142c0613f13c2badb27db7f8e914b3f22e38d65a4f5` |
+| `avatar_modeling/rig_review_v023/REVIEW.md` | 14965 | `5b53b118de8034155d369179181069411809d365b7acb4e7885025f35a2e149c` |
+| `avatar_modeling/rig_review_v023/RIG_REVIEW.png` | 729087 | `1a2ff1736affbcfa3b5684cc717af5643a3f135ae980101089a49e82dd027d4f` |
+| `avatar_modeling/rig_review_v023/review_coat_sidebend_L_180.png` | 512092 | `eaea978917598bfe051904f87e67234a1eeabbcb955ca2ed84b9390926b174db` |
 | `avatar_modeling/rigging_research_v008/IMPLEMENTATION_PLAN.md` | 17837 | `5bade0403d9f6f11fbcbe2c95f65dff33b1a7f270a0d817fe41cc00b40d4a1d8` |
 | `avatar_modeling/rigging_research_v008/REPORT.md` | 54386 | `8bc20f19778a18fc4581bf3f8ae29bd634488ac28547eb9e42175c503ea522e9` |
 | `avatar_modeling/rigging_research_v008/SOURCES.md` | 15362 | `c68dd1e85477b8faf91adac03f1419a091eb762c6327f0a06befc2b673f2d52d` |
