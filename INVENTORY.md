@@ -4,16 +4,16 @@
 
 문서의 비공개 작업 파일 링크는 미포함 표기로 바꾸고 로컬 설치 경로를 생략했습니다.
 
-- 원문 Markdown: 55개
-- 본문 비교 이미지: 171개
+- 원문 Markdown: 56개
+- 본문 비교 이미지: 175개
 - 아래 SHA-256은 공유본 내용 기준입니다. 기존 저장소의 Git 이력은 포함하지 않습니다.
 
 | 파일 | 바이트 | SHA-256 |
 |---|---:|---|
 | `.gitignore` | 120 | `e1a9d489cc271e1e8036508c1fc40b68cb7e1eb006e647a30964452f11d5e743` |
-| `README.md` | 11428 | `8c090e11f64b002d1436c7dea426e86df6e0f2d2f81ebd4718d45d56161c73b7` |
-| `SHARING.md` | 7475 | `c244ccbb33b76169794d2a36ef73e120fbbf21b6ae558c501a261a6ade21bb84` |
-| `STATUS.md` | 7091 | `2728871d7e4b3b7a86c4fbb550efa3302f77636c7b7103f01f20860cce6e6201` |
+| `README.md` | 12116 | `4368cb28bbe6f55789c89c740657b8884e65881f85f2e60a1416a1eeb757bce1` |
+| `SHARING.md` | 7919 | `7378fd27e8cdea37521eeefc5e55a801d82a0b311987d12014a0de2b6c64a0a3` |
+| `STATUS.md` | 7634 | `c7429913eeca5c77d5614a04477b1d13a37d50d3498d38435992c58a6a8fd13e` |
 | `avatar_modeling/v001_inspection/REVIEW.md` | 8117 | `620d9818f22eb42f1385752d012abbcba765dbc37f01f303531355f82eae8918` |
 | `avatar_modeling/v001_inspection/rig_trial/01_arms_raised.png` | 664846 | `8826ebeeef920de97836773476767f2d92e290725fdccef45700bdf63be87acb` |
 | `avatar_modeling/v002_refine/05_arms_raised.png` | 649841 | `205a5b29a2063e2ad60fa5741b894e3431f862079893417434d0bed6acbabc5f` |
@@ -239,4 +239,9 @@
 | `avatar_modeling/v039_arm_local/REVIEW.md` | 11006 | `95375d75badfe326833276cb6c9060931d38191c065f83027baa3d7769ae1190` |
 | `avatar_modeling/v039_arm_local/SHOULDER_COMPARE.png` | 992890 | `c387d62221c6aa5f673f0d52632e50c32535d67361c5b2bf5601d33cc9b0230f` |
 | `avatar_modeling/v039_arm_local/SHOULDER_REAR.png` | 934706 | `1ffb1a2aa6a2f4af34f064e39e7e8143c095322927044b828827d9152a33ad6c` |
+| `avatar_modeling/v040_mcp_inspection/ARMS_INSPECTION.png` | 827717 | `e2bc9da69a3b8607ef289192bfd1d1715300c8ca9bc167f5ec17935bc865e742` |
+| `avatar_modeling/v040_mcp_inspection/COLLAR_DETAILS.png` | 1492197 | `8948cc978fb5e54073fb7621f282aebc8d84aa31f0179327f19e5bcbc20b19b5` |
+| `avatar_modeling/v040_mcp_inspection/NECK_INSPECTION.png` | 670231 | `0013955f53af65bf924b021717fe059ab88b69126ee30ceb1395fb684fea0855` |
+| `avatar_modeling/v040_mcp_inspection/NORMALS_DIAGNOSTIC.png` | 490820 | `accdd8fae8e6ee38e809b3ca0f3d2a9ee3df2d53fc23e03739138fb29fbe6fcc` |
+| `avatar_modeling/v040_mcp_inspection/REVIEW.md` | 13307 | `b260ff7b0491d14318d2e2880e3f6410e14d0048e1bd55225f50894436cd4134` |
 | `docs/NANO_WORKFLOW_RESEARCH.md` | 19300 | `703991b687a1ebd037dffff68e9c9a34672c851541abad4a9861aad4c486f59d` |
