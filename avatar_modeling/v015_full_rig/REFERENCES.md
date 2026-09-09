@@ -10,6 +10,6 @@
 - [CMU — Real-time skeletal skinning with optimized centers of rotation](https://graphics.cs.cmu.edu/?p=1436): 이번 검색 결과에서 초록을 읽었다. 선형/이중쿼터니언 혼합의 관절 부피·비틀림 문제를 구분하는 참고다. 직접 페이지는 시간 초과했고 논문 전체 알고리즘을 구현하지 않았다.
 - [VRChat PhysBones](https://creators.vrchat.com/common-components/physbones/): 이번 공식 문서를 다시 확인했다. 고정할 뿌리와 흔들릴 본 체인을 분리하고, 같은 오브젝트에 Constraint/PhysBone을 중복 적용하지 않는 구조를 준비한다. 실제 물리/바람 구현 완료가 아니다.
 
-기존 제작자 영상 조사 노트도 재사용한다: [CGDive 손가락/본 축](https://www.youtube.com/watch?v=QnCo0hzXKeQ), [Anthony Gibbs 어깨](https://www.youtube.com/watch?v=c_XM01I6ed0), [팔꿈치 토폴로지](https://www.youtube.com/watch?v=dEvWZwRxeWQ). 이번 턴에 이 영상들을 새로 시청한 것으로 표현하지 않는다. 이전 자막·재생 표본의 열람 범위는 ../rigging_research_v008/YOUTUBE_NOTES.md에 있다.
+기존 제작자 영상 조사 노트도 재사용한다: [CGDive 손가락/본 축](https://www.youtube.com/watch?v=QnCo0hzXKeQ), [Anthony Gibbs 어깨](https://www.youtube.com/watch?v=c_XM01I6ed0), [팔꿈치 토폴로지](https://www.youtube.com/watch?v=dEvWZwRxeWQ). 이번 턴에 이 영상들을 새로 시청한 것으로 표현하지 않는다. 이전 자막·재생 표본의 열람 범위는 ../v008_rigging_research/YOUTUBE_NOTES.md에 있다.
 
 적용 원칙은 회전 중심과 본 축부터 확인하고, 웨이트와 국소 면 구조의 원인을 분리하는 것이다. 다른 캐릭터 강의의 수치/전체 재모델링/Blender 전용 보정 결과를 현재 PC 아바타의 정답으로 복사하지 않는다.

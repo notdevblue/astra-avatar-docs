@@ -8,7 +8,7 @@
 
 | 파일 | 실제 변경 | 채택 상태 |
 |---|---|---|
-| `../refine_v002/bianca_local_refine_v002_baked.blend` | 이번 변경 없음 | 기존 작업 기준 유지 |
+| `../v002_refine/bianca_local_refine_v002_baked.blend` | 이번 변경 없음 | 기존 작업 기준 유지 |
 | `bianca_eyes_v003_UV_ONLY_TRIAL.blend` | 홍채 표면의 UV 468개 코너 조정, 정점 이동 0 | 비교용·미채택 |
 | `bianca_eyes_v003_VERTEX_ONLY_TRIAL.blend` | 홍채 및 붙어 있는 작은 장식 5개 연결 조각의 위치/크기 조정, UV 변경 0 | 별도 정점 시험본·미채택 |
 

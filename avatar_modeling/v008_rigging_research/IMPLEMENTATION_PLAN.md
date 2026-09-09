@@ -10,11 +10,11 @@
 
 | 역할 | 파일 | 사용하는 이유 |
 |---|---|---|
-| 주 진단 기준 | `../deformation_v006/bianca_texture_weights_knee_finish_v006.blend` | 사용자 피드백을 받은 실제 모델 |
-| 컷 없는 비교 | `../deformation_v006/bianca_texture_and_weights_v006.blend` | 무릎 컷의 효과를 본/웨이트 효과와 분리 |
-| 텍스처 단계 보존 | `../texture_v005/bianca_texture_v005.blend` | 관절 이전 형상·텍스처 비교 |
-| 기존 원형 기준 | `../refine_v002/bianca_local_refine_v002_baked.blend` | 원래 형상 보존 확인 |
-| 채택 제외 | `../eyes_ab_v004/bianca_B_MODEL_TO_TEXTURE.blend` | B 정점 변경을 이번 작업에 합치지 않음 |
+| 주 진단 기준 | `../v006_deformation/bianca_texture_weights_knee_finish_v006.blend` | 사용자 피드백을 받은 실제 모델 |
+| 컷 없는 비교 | `../v006_deformation/bianca_texture_and_weights_v006.blend` | 무릎 컷의 효과를 본/웨이트 효과와 분리 |
+| 텍스처 단계 보존 | `../v005_texture/bianca_texture_v005.blend` | 관절 이전 형상·텍스처 비교 |
+| 기존 원형 기준 | `../v002_refine/bianca_local_refine_v002_baked.blend` | 원래 형상 보존 확인 |
+| 채택 제외 | `../v004_eyes_ab/bianca_B_MODEL_TO_TEXTURE.blend` | B 정점 변경을 이번 작업에 합치지 않음 |
 
 후속 파일명은 아래처럼 역할을 드러내는 **예정 이름**으로 사용한다. 현재 이 .blend 파일들은 생성하지 않았다. `BASELINE_COPY`, `RIG_ONLY_TRIAL`, `WEIGHTS_ONLY_TRIAL`, `LOCAL_VERTEX_TRIAL`, `LOCAL_CUT_TRIAL`, `REVIEW_CANDIDATE`를 구분한다. `FINAL`은 실제 런타임·시각 검증과 채택 전에는 사용하지 않는다.
 

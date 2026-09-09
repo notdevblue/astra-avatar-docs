@@ -30,7 +30,7 @@ YouTube 8편의 원본 자막을 확보해 관련 구간을 읽었다. 팔꿈치
 
 | 항목 | 읽기 전용 검사 결과 |
 |---|---|
-| 주 검수본 | `deformation_v006/bianca_texture_weights_knee_finish_v006.blend` |
+| 주 검수본 | `v006_deformation/bianca_texture_weights_knee_finish_v006.blend` |
 | 상태 | 관절 품질 미완료·재작업 대상. 최종 채택본 아님 |
 | 정점 / 면 / 렌더 삼각형 | 34,597 / 17,625 / 31,363 |
 | 모델 높이 | 약 0.999512 m. 실제 사용 크기 변경은 아직 결정하지 않음 |

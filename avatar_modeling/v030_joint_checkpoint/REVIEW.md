@@ -8,7 +8,7 @@
 
 - `bianca_LOCAL_JOINT_REVIEW.blend` — 이번 후속 몸 검수 사본. SHA256 `b69a9a5609c214ba0ce04c14ea38de7bb5589c8a4d61dcef502d9fe6a7197326`
 - `bianca_LOCAL_JOINT_MOTION_REVIEW.blend` — 494개 진단 프레임, 타임라인 자세 이름 표시
-- 손 비교는 `../hand_axis_v027/bianca_HAND_REVIEW_NOT_ADOPTED.blend`와87프레임 재생 사본. **미채택**이다.
+- 손 비교는 `../v027_hand_axis/bianca_HAND_REVIEW_NOT_ADOPTED.blend`와87프레임 재생 사본. **미채택**이다.
 
 v025와 v014 안전 기준을 보존했다. v026 코트 정점 수정, v027 손, v028 바지/왼쪽 전완 수정은 제외했다. 새 메시·정점·면·컷·본을 만들지 않았다.
 
