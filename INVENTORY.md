@@ -4,16 +4,16 @@
 
 문서의 비공개 작업 파일 링크는 미포함 표기로 바꾸고 로컬 설치 경로를 생략했습니다.
 
-- 원문 Markdown: 56개
-- 본문 비교 이미지: 175개
+- 원문 Markdown: 57개
+- 본문 비교 이미지: 180개
 - 아래 SHA-256은 공유본 내용 기준입니다. 기존 저장소의 Git 이력은 포함하지 않습니다.
 
 | 파일 | 바이트 | SHA-256 |
 |---|---:|---|
 | `.gitignore` | 120 | `e1a9d489cc271e1e8036508c1fc40b68cb7e1eb006e647a30964452f11d5e743` |
-| `README.md` | 12116 | `4368cb28bbe6f55789c89c740657b8884e65881f85f2e60a1416a1eeb757bce1` |
-| `SHARING.md` | 7919 | `7378fd27e8cdea37521eeefc5e55a801d82a0b311987d12014a0de2b6c64a0a3` |
-| `STATUS.md` | 7634 | `c7429913eeca5c77d5614a04477b1d13a37d50d3498d38435992c58a6a8fd13e` |
+| `README.md` | 12804 | `5c8a13b0f28c5e5019192e7875616b07a84b067840d6ae07eb48615ddcefb6e7` |
+| `SHARING.md` | 8346 | `b6c57c93c77d343ffbd29d68095d14810c34d36d0a724908672b206a20bebba8` |
+| `STATUS.md` | 8196 | `37f00818f3c33b05f46118162b5fdb321766787c866b79eb83458b3f606ce864` |
 | `avatar_modeling/v001_inspection/REVIEW.md` | 8117 | `620d9818f22eb42f1385752d012abbcba765dbc37f01f303531355f82eae8918` |
 | `avatar_modeling/v001_inspection/rig_trial/01_arms_raised.png` | 664846 | `8826ebeeef920de97836773476767f2d92e290725fdccef45700bdf63be87acb` |
 | `avatar_modeling/v002_refine/05_arms_raised.png` | 649841 | `205a5b29a2063e2ad60fa5741b894e3431f862079893417434d0bed6acbabc5f` |
@@ -244,4 +244,10 @@
 | `avatar_modeling/v040_mcp_inspection/NECK_INSPECTION.png` | 670231 | `0013955f53af65bf924b021717fe059ab88b69126ee30ceb1395fb684fea0855` |
 | `avatar_modeling/v040_mcp_inspection/NORMALS_DIAGNOSTIC.png` | 490820 | `accdd8fae8e6ee38e809b3ca0f3d2a9ee3df2d53fc23e03739138fb29fbe6fcc` |
 | `avatar_modeling/v040_mcp_inspection/REVIEW.md` | 13307 | `b260ff7b0491d14318d2e2880e3f6410e14d0048e1bd55225f50894436cd4134` |
+| `avatar_modeling/v041_lapel_weights/CONTACT_COMPARE.png` | 991806 | `2cb40486485d8621741ede8f86652bd2772b1c7b123a91571b00370a7dfa52f7` |
+| `avatar_modeling/v041_lapel_weights/LAPEL_COMPARE.png` | 1118489 | `90eb52fca7014c06596e1b872794a9a21225ed83d0373899e929a594af67d2f2` |
+| `avatar_modeling/v041_lapel_weights/REJECTED_COMPARE.png` | 597395 | `dc86f675eeb3cc253b19d8476757f76bd94077494c4f680bbbdd92030dcc56c8` |
+| `avatar_modeling/v041_lapel_weights/REST_COMPARE.png` | 502254 | `c957fe40a03eb992e5cd3b0d65558c634e75a3e82f507365aebb66d119ce08b9` |
+| `avatar_modeling/v041_lapel_weights/REVIEW.md` | 9921 | `cb9d23a6988bd354bd487a3184ba0978abd00a0d55b19713186da8c15d046f91` |
+| `avatar_modeling/v041_lapel_weights/ROTATION_COMPARE.png` | 921609 | `6920f2b248290a37c2e25e001fd0e07221092e9f642eb2e3bc163bfba2cfe3ff` |
 | `docs/NANO_WORKFLOW_RESEARCH.md` | 19300 | `703991b687a1ebd037dffff68e9c9a34672c851541abad4a9861aad4c486f59d` |
