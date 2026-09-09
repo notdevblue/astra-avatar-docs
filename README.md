@@ -1,6 +1,8 @@
 # 원형을 보존하며 실시간 아바타 만들기
 
-최신 검수: [v041 — 코트 옷깃 국소 웨이트와 회전 검사](avatar_modeling/v041_lapel_weights/REVIEW.md). 기존208정점/95위치의 웨이트만 작게 조정했습니다. 중립 외형·무릎을 유지했고,120도 팔 올림에서 옷깃 추적 지점 상승은 약1.47mm 줄었습니다. 집중137/전신1377/동작487표본에서 새 면적 경고0이지만, 코트 자기 접촉 집합은 달라지고 큰 어깨·겨드랑이 접힘은 남습니다. **작은 보정 후보이며 사용자 채택·전체 관절 완료는 아닙니다.**
+2026-09-10 연속 작업: [상세 조사와 모델 비교](avatar_modeling/v042_upper_research/RESEARCH.md), [손 검수 후보](avatar_modeling/v046_finger_topology/REVIEW.md), [옷 보정의 후속 검증](avatar_modeling/v056_upper_refined/REVIEW.md)을 추가했습니다. 손은 새1100표본에서 원본 면적 경고571→3으로 줄었고 전신1377에서 무릎 결과를 유지했습니다. 코트 연결·뒤 카라 정리와 여러 어깨 구조를 비교했지만 자동 옷 보정은 독립 복합 자세에서 경고가 남아 일반 회전의 최종본으로 채택하지 않았습니다. **옷·팔 작업은 계속 진행 중이며 전체 해결·Unity 구동 완료가 아닙니다. v038 SMALL 무릎 채택은 유지합니다.**
+
+이전 검수: [v041 — 코트 옷깃 국소 웨이트와 회전 검사](avatar_modeling/v041_lapel_weights/REVIEW.md). 기존208정점/95위치의 웨이트만 작게 조정했습니다. 중립 외형·무릎을 유지했고,120도 팔 올림에서 옷깃 추적 지점 상승은 약1.47mm 줄었습니다. 집중137/전신1377/동작487표본에서 새 면적 경고0이지만, 코트 자기 접촉 집합은 달라지고 큰 어깨·겨드랑이 접힘은 남습니다. **작은 보정 후보이며 사용자 채택·전체 관절 완료는 아닙니다.**
 
 이전 진단: [v040 — Blender MCP와 카라·목·어깨 검사](avatar_modeling/v040_mcp_inspection/REVIEW.md). 실제 MCP로 장면/뷰포트/웨이트·면을 조사했습니다. 팔 올림에서 코트 옷깃이 쇄골·상완에 끌려 뾰족하게 꺾이고, 목 회전의 각진 경계·뒤 카라 요철도 남습니다.24자세 면적 경고0을 형상 합격으로 해석하지 않습니다. **모델을 보정한 단계가 아닌 검사 사본과 계획이며, v039 후보·v038 SMALL 무릎 채택 상태는 유지합니다.**
 
@@ -10,7 +12,7 @@
 
 기존 캐릭터 모델을 PC용 Unity / VRChat 아바타로 다듬는 과정의 연구·실험 기록입니다. 텍스처를 다시 맞추고, 본과 웨이트를 조정하고, 실제 포즈에서 결과를 비교합니다. 잘된 변화뿐 아니라 실패해서 채택하지 않은 시도와 남은 문제도 기록합니다.
 
-**공유본 기준: 2026-09-10, v041 옷깃 국소 보정 후보까지, v038 SMALL 무릎 채택 유지. 전체 관절·VRChat 구동은 미완료입니다. 아래는 각 이전 단계 당시 기록입니다.**
+**공유본 기준: 2026-09-10, v042–v057 연구·실행·미채택 실험까지, v038 SMALL 무릎 채택 유지. 전체 관절·VRChat 구동은 미완료입니다. 아래는 각 이전 단계 당시 기록입니다.**
 
 [v036 안쪽 홈 수정·비교](avatar_modeling/v036_knee_crease/REVIEW.md).35개 실험에서 본 보정은 수치 검사를 통과해도 홈이 넓어져 미채택했습니다. 기존 정점 자세 보정과 기존 면 컷은 측정 단면의 빈 구간을17.11→8.12mm로 줄였습니다. 원래98본/기존 좌표·웨이트 유지,791점·871면 컷 추가와6자세 키입니다. 전신1377/새256/재생365표본의 무릎 교차0이지만 면적 경고가 남고 Blender 드라이버만 구현되어 최종 채택하지 않았습니다. 아래는 이전 단계 당시 기록입니다.
 
@@ -70,6 +72,22 @@
 | v039 | 팔꿈치·전완 국소 웨이트, 기존 두 면 대각선 고정과 어깨/회전 검수 | [실행 결과](avatar_modeling/v039_arm_local/REVIEW.md) |
 | v040 | Blender MCP 연결·카라/목/어깨 상태 진단과 후속 계획 | [진단 결과](avatar_modeling/v040_mcp_inspection/REVIEW.md) |
 | v041 | 코트 옷깃 국소 웨이트와 회전 검사 | [검수](avatar_modeling/v041_lapel_weights/REVIEW.md) |
+| v042 | 옷·팔·손 연구와 실제 모델 비교 | [기록](avatar_modeling/v042_upper_research/RESEARCH.md) |
+| v043 | 엄지 축과 손가락 웨이트 | [기록](avatar_modeling/v043_upper_work/REVIEW.md) |
+| v044 | 기존 코트 자세 목표 | [기록](avatar_modeling/v044_pose_shapes/REVIEW.md) |
+| v045 | 코트 정점 연결과 입력 정정 | [기록](avatar_modeling/v045_coat_connections/REVIEW.md) |
+| v046 | 손 관절·웨이트 최종 후보 | [기록](avatar_modeling/v046_finger_topology/REVIEW.md) |
+| v047 | 넓은 어깨 지지 본 시험 | [기록](avatar_modeling/v047_coat_support/REVIEW.md) |
+| v048 | Corrective Smooth와 DQS 비교 | [기록](avatar_modeling/v048_clothing_correctives/REVIEW.md) |
+| v049 | 어깨 2/4줄 컷 시험 | [기록](avatar_modeling/v049_arm_loops/REVIEW.md) |
+| v050 | 어깨 웨이트 최적화 | [기록](avatar_modeling/v050_shoulder_fit/REVIEW.md) |
+| v051 | 노멀·연결 분리 진단 | [기록](avatar_modeling/v051_pose_normals/REVIEW.md) |
+| v052 | 제한한 자동 옷 자세 보정 | [기록](avatar_modeling/v052_pose_clothing/REVIEW.md) |
+| v053 | 손·코트 자동 노멀 비교 | [기록](avatar_modeling/v053_surface_finish/REVIEW.md) |
+| v054 | 뒤 카라 0.5mm 정리 | [기록](avatar_modeling/v054_collar_local/REVIEW.md) |
+| v055 | 통합 동작과 중간값 검사 | [기록](avatar_modeling/v055_upper_delivery/REVIEW.md) |
+| v056 | 새 표본으로 확인한 자세키 한계 | [기록](avatar_modeling/v056_upper_refined/REVIEW.md) |
+| v057 | 여러 자세의 기본 정점 조정 | [기록](avatar_modeling/v057_coat_rest_fit/REVIEW.md) |
 
 [YouTube 조사 노트](avatar_modeling/v008_rigging_research/YOUTUBE_NOTES.md) · [출처와 열람 범위](avatar_modeling/v008_rigging_research/SOURCES.md) · [초기 제작 워크플로 조사](docs/NANO_WORKFLOW_RESEARCH.md)
 
