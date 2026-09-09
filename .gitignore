@@ -6,4 +6,5 @@
 !*.jpg
 !*.jpeg
 !*.webp
+!*.gif
 !.gitignore
