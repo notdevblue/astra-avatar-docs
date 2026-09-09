@@ -2,9 +2,9 @@
 
 기존 캐릭터 모델을 PC용 Unity / VRChat 아바타로 다듬는 과정의 연구·실험 기록입니다. 텍스처를 다시 맞추고, 본과 웨이트를 조정하고, 실제 포즈에서 결과를 비교합니다. 잘된 변화뿐 아니라 실패해서 채택하지 않은 시도와 남은 문제도 기록합니다.
 
-**공유본 기준: 2026-09-09, v032 양 무릎 국소 수정·검수와 다음 편집 범위 제안까지. 관절 형상·접촉과 실제 자동 구동은 아직 미완료입니다.**
+**공유본 기준: 2026-09-09, v033 기존 무릎 구조 수정·검수까지. 무릎의 깊은 틈과 검사된 교차가 개선됐으며 전체 관절과 실제 자동 구동은 아직 미완료입니다.**
 
-[최신 양 무릎 수정 비교와 다음 범위](avatar_modeling/knee_local_v032/REVIEW.md). 접촉은 크게 줄었지만 각진 틈과130도 교차가 남아 최종 미채택입니다. 기존 면 연결의 넓은 수정은 제안만 준비했습니다.
+[최신 양 무릎 구조 수정과 검증](avatar_modeling/knee_structure_v033/REVIEW.md). 기존 표면을 보존하는6줄 컷과 넓은 변형 분담으로 전신1377/집중124/새384표본의 무릎 교차·면적 이상0,다른 부위 새 악화0입니다. 작은 각진 주름과 다른 관절은 남습니다. [이전 v032 국소 후보](avatar_modeling/knee_local_v032/REVIEW.md)는 당시 미채택 기록입니다.
 
 [최신 토폴로지 조사와 실제 수정 비교](avatar_modeling/topology_v031/REVIEW.md) · [조사 근거와 수정 방향](avatar_modeling/topology_v031/DIRECTION.md). 두 면 컷 사본은 회귀로 미채택이며 기준은 v030입니다.
 
@@ -23,6 +23,9 @@
 
 | 단계 | 주제 | 문서 |
 |---|---|---|
+| v033 | 기존 무릎6줄 컷·넓은 분담,1377/124/새384/동작 검증 | [최신 검수](avatar_modeling/knee_structure_v033/REVIEW.md) |
+| v032 | 양 무릎 국소 웨이트와 다음 구조 편집 제안 | [이전 비교](avatar_modeling/knee_local_v032/REVIEW.md) |
+| v031 | 실제 변형 삼각형·면 흐름 조사와 미채택 대각선 실험 | [검수](avatar_modeling/topology_v031/REVIEW.md) |
 | v027 | 손가락 축·웨이트482표본 비교, 교차 회귀로 미채택 | [검수](avatar_modeling/hand_axis_v027/REVIEW.md) · [참고](avatar_modeling/hand_axis_v027/REFERENCES.md) |
 | v028 | 중간 회전 압축 감소와 코트 관통 회귀, 미채택 | [검수](avatar_modeling/rotation_followup_v028/REVIEW.md) |
 | v029 | 기존 무릎 보조 중심7개×124자세 비교 | [검수](avatar_modeling/knee_pivot_v029/REVIEW.md) |
