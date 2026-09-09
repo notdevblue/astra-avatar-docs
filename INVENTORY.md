@@ -4,16 +4,16 @@
 
 문서의 비공개 작업 파일 링크는 미포함 표기로 바꾸고 로컬 설치 경로를 생략했습니다.
 
-- 원문 Markdown: 28개
-- 본문 비교 이미지: 111개
+- 원문 Markdown: 31개
+- 본문 비교 이미지: 115개
 - 아래 SHA-256은 공유본 내용 기준입니다. 기존 저장소의 Git 이력은 포함하지 않습니다.
 
 | 파일 | 바이트 | SHA-256 |
 |---|---:|---|
 | `.gitignore` | 120 | `e1a9d489cc271e1e8036508c1fc40b68cb7e1eb006e647a30964452f11d5e743` |
-| `README.md` | 4775 | `9d9cf6300f66bd3a6095b3e2819fb01223ca137c721373269c8dff8f4c7ff980` |
-| `SHARING.md` | 2840 | `99e20b858008c2b95ab7109168e80dee83332aec5572a44098cfad860e6c7666` |
-| `STATUS.md` | 4443 | `6a3b86199d9ee1454e6a8e8868068df96286e74d6e0e336e9ff9541653babba5` |
+| `README.md` | 5131 | `8b197bbd2ed6a2c43e030110b6fb142d9d8ba187e85ab878e70686a6fd2f6793` |
+| `SHARING.md` | 2862 | `b1e7d01edb52110814e26a01602a568908a8a1ae6d24e418c9157e89a0e8626e` |
+| `STATUS.md` | 5374 | `64071e5ac3aec8c2e66c10dceb3b49a50ae1ddf07f1fa38a80601d43437acd55` |
 | `avatar_modeling/body_trials_v010/NEXT_SCOPE.md` | 4210 | `eb1cbb859f439b36429d369c34dbbabc419f7e55a1c25e36edefe1de352d49ce` |
 | `avatar_modeling/body_trials_v010/REVIEW.md` | 7589 | `afcce7f4dde4d62963966df659f04c68871d6387747a9a994a5bbcb1b21a45e6` |
 | `avatar_modeling/body_trials_v010/coat_bones_PROPOSAL_back.png` | 384423 | `edf9155e44e2c62357041c59b7959b9378ebaa03162fdf17d156ac8d3caf0183` |
@@ -101,6 +101,13 @@
 | `avatar_modeling/joint_audit_v007/neck_pitch_25.png` | 607871 | `2a4e98c5eaec27e22ba95db3f032fd92353b929b4f819070441a187174aa8e97` |
 | `avatar_modeling/joint_audit_v007/neck_rest.png` | 602019 | `bf35f5892e75f7621e8dad77ce1e3bf72cbe26e8a64cabbd6f18714dfea16a1b` |
 | `avatar_modeling/joint_audit_v007/neck_yaw_30.png` | 575043 | `edd854ebd91362cc67f3695ecb5c4e3f7493a6c680b0bdf6e22d97fe5e4ed7a8` |
+| `avatar_modeling/joint_followup_v014/COLOR_COMPARISON.png` | 616638 | `880f918c4fa2d6b801fa2031885c8fe1b23de5f3f7ffc3609d090c2b0dcab353` |
+| `avatar_modeling/joint_followup_v014/KNEE_COMPARISON.png` | 498450 | `0e9bb3b5fbb6aa3d09014dd48c5f5d4d267f3d302d191b80fccb0b69dfaf1fc9` |
+| `avatar_modeling/joint_followup_v014/NEXT_SCOPE.md` | 3775 | `2c72f8b4e754ef5d29fee03c5061de22d51a4c5ce99c3118c5cc5deca8358396` |
+| `avatar_modeling/joint_followup_v014/REMAINING_CONTACT.png` | 378817 | `2c23563b31902095991ee7a62eb9c70c9723123446141359da7e9894d3bdaa80` |
+| `avatar_modeling/joint_followup_v014/RESEARCH_NOTES.md` | 6867 | `bda8a167fb0266170a8a5e981c8514dbf30d8ebb668d8571e54a0b235ab0f4bb` |
+| `avatar_modeling/joint_followup_v014/REVIEW.md` | 6715 | `00fca80f505845c16b1d7d3edf36708db034a43eca084dc4f7084562c4445683` |
+| `avatar_modeling/joint_followup_v014/Unity_62f2_rest_preview.png` | 195525 | `0568a81607d4d91323d2150f3936ca1e04652687607122c523235ef2fc3fd793` |
 | `avatar_modeling/joint_work_v009/REVIEW.md` | 6611 | `df2ee64de52dd3bf5ff65ef9b99f3bc46f5c8a5e76e8d016d820fd8edd1f97ae` |
 | `avatar_modeling/joint_work_v009/before_color_head_yaw30.png` | 642864 | `9422374a8d1ffe659ec2ced27991c5f1449e94aaaa2de9c9ce146204c4a65284` |
 | `avatar_modeling/joint_work_v009/before_head_back20.png` | 517025 | `c2732ba67c3ba7a2c4132708cef816d8e0c27febbb330415cc46c9e122932f0d` |
