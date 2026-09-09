@@ -4,16 +4,16 @@
 
 문서의 비공개 작업 파일 링크는 미포함 표기로 바꾸고 로컬 설치 경로를 생략했습니다.
 
-- 원문 Markdown: 35개
-- 본문 비교 이미지: 121개
+- 원문 Markdown: 38개
+- 본문 비교 이미지: 125개
 - 아래 SHA-256은 공유본 내용 기준입니다. 기존 저장소의 Git 이력은 포함하지 않습니다.
 
 | 파일 | 바이트 | SHA-256 |
 |---|---:|---|
 | `.gitignore` | 120 | `e1a9d489cc271e1e8036508c1fc40b68cb7e1eb006e647a30964452f11d5e743` |
-| `README.md` | 5765 | `065e8ccd293f5624c066bf36163402c3c8cc65e06d19418df441a728b6c94922` |
-| `SHARING.md` | 2902 | `bcf2f29d9e5e40226570ae008465d6cb02bec6e9aaf13cfac6495d6964d862d9` |
-| `STATUS.md` | 2668 | `9683f4b462a8a7e13ed23c47114d7bed370f85657bbf113f9fadc3d17b3a53a6` |
+| `README.md` | 6253 | `76df140695bb2d687de117e9f6d3d30d8892a7d25aa4ba9ec2e58cd1f2a99080` |
+| `SHARING.md` | 2930 | `4720e1fef54f9c5f2dabd61425ac1dae9dd21fb4e6261a98c6f744a1882c5f7f` |
+| `STATUS.md` | 2800 | `12256f2c22373a905128c440f3e2783d0ed43081c2feca7820c1519a07f227a4` |
 | `avatar_modeling/body_trials_v010/NEXT_SCOPE.md` | 4210 | `eb1cbb859f439b36429d369c34dbbabc419f7e55a1c25e36edefe1de352d49ce` |
 | `avatar_modeling/body_trials_v010/REVIEW.md` | 7589 | `afcce7f4dde4d62963966df659f04c68871d6387747a9a994a5bbcb1b21a45e6` |
 | `avatar_modeling/body_trials_v010/coat_bones_PROPOSAL_back.png` | 384423 | `edf9155e44e2c62357041c59b7959b9378ebaa03162fdf17d156ac8d3caf0183` |
@@ -30,6 +30,9 @@
 | `avatar_modeling/body_trials_v010/shoulder_baseline_side_shared.png` | 583984 | `e64210b474e4e3141a0a6009a62bdae30f8882cac36ca806ea87a2f854fc22ac` |
 | `avatar_modeling/body_trials_v010/shoulder_clavicle_soft_high_shared.png` | 595479 | `0eab0cd5c6ab0f03fa8428c5e49cf2ea1af0c4d1c94367e75cb96e56cd9af629` |
 | `avatar_modeling/body_trials_v010/shoulder_clavicle_soft_side_shared.png` | 585234 | `769997cab3f75cd724dee54bd8495f833b4f6db3c7f4f6c70de3569c565c4cc9` |
+| `avatar_modeling/coat_contact_v026/COAT_POSE_COMPARISON.png` | 437150 | `2a7cb1c03ac7b9e715aeaac31f5827a3a6e1dcdfa5b4527ce2ec2762f3a87595` |
+| `avatar_modeling/coat_contact_v026/COAT_REST_COMPARISON.png` | 269120 | `0666941725217f9e09b6a3e6d157b7d3ff2d3b171d87576feb51df82da2a9866` |
+| `avatar_modeling/coat_contact_v026/REVIEW.md` | 5579 | `1fc2f5bc41f3f3fc6fe2b822b31802b29f7b7bb442f140d0d34d430465a1222b` |
 | `avatar_modeling/coat_rig_v011/COAT_COLOR_COMPARISON.png` | 390571 | `c80b5d174decf0a94e176ac635848efa71ec127d63f39031cb13b188e5992471` |
 | `avatar_modeling/coat_rig_v011/COAT_EXTRA_1.png` | 705370 | `45653244645b9556907cc458b422960af9a073ff9d3514c747c83a2ad2db4b0e` |
 | `avatar_modeling/coat_rig_v011/COAT_EXTRA_2.png` | 581934 | `43fb43fc8842e27182589ad6ff141c91b95b7b5e9635c0bef67a091bf19cad38` |
@@ -144,6 +147,10 @@
 | `avatar_modeling/rigging_research_v008/feet_rest_side.png` | 598773 | `930e56476f9605e583fcdf495f33a3c4410e01991a5690aad03ff14632c5cbf8` |
 | `avatar_modeling/rigging_research_v008/hand_a_front.png` | 525297 | `aebfc6dcc8e5baece02d4768d9aab0468e799648012be49e561d93e6cc9272c8` |
 | `avatar_modeling/rigging_research_v008/waist_rest_front.png` | 770352 | `dcc5f7fe38e519d4a6de542f2a3858cd0f63b7fa35f970bf3e02a0ef9ba7589b` |
+| `avatar_modeling/rotation_review_v025/COUPLED_ROTATION_REVIEW.png` | 588677 | `299c98c988571debadd660cca92828cac68fad488426573d70854007774e3201` |
+| `avatar_modeling/rotation_review_v025/RESEARCH_NOTES.md` | 8803 | `4ecb5522e6b52649d74f17a6a8818574195bedb6320777776829a9a432d5f37d` |
+| `avatar_modeling/rotation_review_v025/REVIEW.md` | 7400 | `638d5a20408a76c62a350d2ba324ab50368301ba6e4ba59491824476752d2ed2` |
+| `avatar_modeling/rotation_review_v025/SHOULDER_COMPARISON.png` | 1021684 | `d2b4de021bea3b09927ca1db6468927785ae7d267ce77427e8910e4835c75096` |
 | `avatar_modeling/texture_v005/GALLERY.md` | 2330 | `7122ace456948798a8069ab7d3e426f8cbe45524e3e9d81efd6d3236009bad18` |
 | `avatar_modeling/texture_v005/IMAGE_PROMPTS.md` | 6632 | `89173333b00a20ab0901e011ce1d8e8a4230ab63ae797835e7b61feb40ac7128` |
 | `avatar_modeling/texture_v005/REVIEW.md` | 5679 | `2558081ab825cf4fdac29d52d058af4dce422cbcab65a8691cddf1a3f62a7cd2` |

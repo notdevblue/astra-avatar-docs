@@ -2,7 +2,7 @@
 
 기존 캐릭터 모델을 PC용 Unity / VRChat 아바타로 다듬는 과정의 연구·실험 기록입니다. 텍스처를 다시 맞추고, 본과 웨이트를 조정하고, 실제 포즈에서 결과를 비교합니다. 잘된 변화뿐 아니라 실패해서 채택하지 않은 시도와 남은 문제도 기록합니다.
 
-**공유본 기준: 2026-09-09, v023 전신 본 통합 검수까지. 관절 형상·접촉과 실제 자동 구동은 아직 미완료입니다.**
+**공유본 기준: 2026-09-09, v025 어깨·복합 회전 보정과 v026 코트 국소 후보 검수까지. 관절 형상·접촉과 실제 자동 구동은 아직 미완료입니다.**
 
 ## 처음 읽는 분께
 
@@ -13,7 +13,7 @@
 5. [후속 자락 개선 v012](avatar_modeling/coat_v012/REVIEW.md) — 웨이트 분배와 제어 포즈 개선, 검사 결과와 자동 구동의 차이.
 6. [부모 4개 추가 사본 v013](avatar_modeling/coat_runtime_v013/REVIEW.md) — 기존 외형을 유지하며 뿌리 이동을 부모 회전으로 바꾼 비교.
 
-[최신 v016–v023 통합 검수](avatar_modeling/rig_review_v023/REVIEW.md) — 기존 메시를 보존한94본 사본과 미해결 접촉을 함께 기록했습니다. 완성본이 아닙니다.
+[최신 어깨·복합 회전 검수](avatar_modeling/rotation_review_v025/REVIEW.md) · [제작자 사례 조사](avatar_modeling/rotation_review_v025/RESEARCH_NOTES.md) · [코트 국소 후보와 회귀](avatar_modeling/coat_contact_v026/REVIEW.md). 완성본이 아닙니다.
 
 ## 단계별 기록
 
@@ -35,6 +35,8 @@
 | v014 | 무릎383정점 웨이트 개선,48자세/254동작과 Unity 가져오기 검수 | [전후 결과](avatar_modeling/joint_followup_v014/REVIEW.md) · [추가 조사](avatar_modeling/joint_followup_v014/RESEARCH_NOTES.md) · [미실행 보조 본 제안](avatar_modeling/joint_followup_v014/NEXT_SCOPE.md) |
 | v015 | 전신141자세 진단, 무릎/어깨4보조 본 비교 | [검수](avatar_modeling/full_rig_v015/REVIEW.md) · [참고 자료](avatar_modeling/full_rig_v015/REFERENCES.md) |
 | v016–v023 | 손가락·전신 보조·헤어/넥타이/앞발 통합, 원형 보존과 실패 포함 검수 | [상세 결과](avatar_modeling/rig_review_v023/REVIEW.md) · [참고 자료](avatar_modeling/rig_review_v023/REFERENCES.md) |
+| v024–v025 | 어깨 원인 분리,897복합 회전/중간 각도,370프레임 재로드 | [검수와 전후 그림](avatar_modeling/rotation_review_v025/REVIEW.md) · [추가 조사](avatar_modeling/rotation_review_v025/RESEARCH_NOTES.md) |
+| v026 | 기존 정점 최대2mm와 국소 웨이트,959표본,접촉 회귀로 미채택 | [검수와 전후 그림](avatar_modeling/coat_contact_v026/REVIEW.md) |
 
 [YouTube 조사 노트](avatar_modeling/rigging_research_v008/YOUTUBE_NOTES.md) · [출처와 열람 범위](avatar_modeling/rigging_research_v008/SOURCES.md) · [초기 제작 워크플로 조사](docs/NANO_WORKFLOW_RESEARCH.md)
 
