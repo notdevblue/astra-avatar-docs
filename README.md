@@ -2,7 +2,7 @@
 
 기존 캐릭터 모델을 PC용 Unity / VRChat 아바타로 다듬는 과정의 연구·실험 기록입니다. 텍스처를 다시 맞추고, 본과 웨이트를 조정하고, 실제 포즈에서 결과를 비교합니다. 잘된 변화뿐 아니라 실패해서 채택하지 않은 시도와 남은 문제도 기록합니다.
 
-**공유본 기준: 2026-09-09, v012 검수까지. 관절 마무리와 실제 자동 구동은 아직 미완료입니다.**
+**공유본 기준: 2026-09-09, v013 부모 사본 검수까지. 관절 마무리와 실제 자동 구동은 아직 미완료입니다.**
 
 ## 처음 읽는 분께
 
@@ -11,6 +11,7 @@
 3. [관절 구현 연구](avatar_modeling/rigging_research_v008/REPORT.md) — 본·웨이트·면 구조와 PC 런타임의 관계.
 4. [자락 8본 시험과 실패 분석](avatar_modeling/coat_rig_v011/REVIEW.md) — 독립 본을 추가해도 앉기가 자연스러워지지 않은 이유.
 5. [후속 자락 개선 v012](avatar_modeling/coat_v012/REVIEW.md) — 웨이트 분배와 제어 포즈 개선, 검사 결과와 자동 구동의 차이.
+6. [부모 4개 추가 사본 v013](avatar_modeling/coat_runtime_v013/REVIEW.md) — 기존 외형을 유지하며 뿌리 이동을 부모 회전으로 바꾼 비교.
 
 ## 단계별 기록
 
@@ -28,6 +29,7 @@
 | v010 | 어깨·무릎 후보 미채택, 자락 본 제안 | [검수](avatar_modeling/body_trials_v010/REVIEW.md) · [당시 제안](avatar_modeling/body_trials_v010/NEXT_SCOPE.md) |
 | v011 | 자락 8본의 초기/보정 배치 시험, 두 후보 미채택 | [실험과 실패 분석](avatar_modeling/coat_rig_v011/REVIEW.md) |
 | v012 | 자락 형상·웨이트 개선, 254동작 표본 검사 | [검수](avatar_modeling/coat_v012/REVIEW.md) · [추가 조사](avatar_modeling/coat_v012/RESEARCH_NOTES.md) · [자동 구동 제안](avatar_modeling/coat_v012/NEXT_AUTOMOTION_SCOPE.md) |
+| v013 | 부모4개 추가, 4방법×286표본 비교와 FBX 구조 왕복검사 | [검수와 전후 비교](avatar_modeling/coat_runtime_v013/REVIEW.md) |
 
 [YouTube 조사 노트](avatar_modeling/rigging_research_v008/YOUTUBE_NOTES.md) · [출처와 열람 범위](avatar_modeling/rigging_research_v008/SOURCES.md) · [초기 제작 워크플로 조사](docs/NANO_WORKFLOW_RESEARCH.md)
 
