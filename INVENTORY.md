@@ -4,16 +4,16 @@
 
 문서의 비공개 작업 파일 링크는 미포함 표기로 바꾸고 로컬 설치 경로를 생략했습니다.
 
-- 원문 Markdown: 115개
-- 본문 비교 이미지: 285개
+- 원문 Markdown: 122개
+- 본문 비교 이미지: 303개
 - 아래 SHA-256은 공유본 내용 기준입니다. 기존 저장소의 Git 이력은 포함하지 않습니다.
 
 | 파일 | 바이트 | SHA-256 |
 |---|---:|---|
 | `.gitignore` | 120 | `e1a9d489cc271e1e8036508c1fc40b68cb7e1eb006e647a30964452f11d5e743` |
-| `README.md` | 19372 | `775b04adf01ccabdef493841ad7dda5db8f4ef961a8e9e546439b6c57bb95558` |
-| `SHARING.md` | 10711 | `97148369b947844becb06d6a2673921f2136efa2f52d208ab9e36b5cb5248ca4` |
-| `STATUS.md` | 11334 | `3b25d2f1c3b9fe2cea7b26a258c1c5ae621ff24235cf13f057763c1b2a61d22e` |
+| `README.md` | 20426 | `97dfb646ae144924a14e51d2fe68846ebe567c515becfec1927f21ac186091b9` |
+| `SHARING.md` | 11284 | `46e3bffa83d86fba5595e1fe23fc8c31c1386ea3e87c281d0516f752abac372b` |
+| `STATUS.md` | 11907 | `afd738ce15ef3dfc3860ca7d4affb708da136ae636e20e4329d4fd29431e8597` |
 | `avatar_modeling/v001_inspection/REVIEW.md` | 8117 | `620d9818f22eb42f1385752d012abbcba765dbc37f01f303531355f82eae8918` |
 | `avatar_modeling/v001_inspection/rig_trial/01_arms_raised.png` | 664846 | `8826ebeeef920de97836773476767f2d92e290725fdccef45700bdf63be87acb` |
 | `avatar_modeling/v002_refine/05_arms_raised.png` | 649841 | `205a5b29a2063e2ad60fa5741b894e3431f862079893417434d0bed6acbabc5f` |
@@ -413,4 +413,29 @@
 | `avatar_modeling/v083_review_delivery/SHOULDER_REMAINING.png` | 489637 | `b814c3057f493ea5c7d2142dd60d0ff68bcd05abcf597ab41aab152920dfe47d` |
 | `avatar_modeling/v083_review_delivery/SIT_REVIEW.png` | 508450 | `3e20c45d1fd127d51e1abf30b12bffc2331f0c8b3698bd8c7a74e187d648366f` |
 | `avatar_modeling/v083_review_delivery/START_HERE.md` | 8750 | `1a2afdd2781e9a88471a4a6b755e52faa05420b9973750bbe0bd1319df6440bf` |
+| `avatar_modeling/v084_armhole_flow/BASE_FRONT.png` | 530771 | `7edde8735846ca77a613cd6c9113431b6b203e7b29657e544a584b68419ee54d` |
+| `avatar_modeling/v084_armhole_flow/REVIEW.md` | 2635 | `a56986ee72f25341a2177e8b7b187f62b11cee48f776a10c8d2bbcb612a128d9` |
+| `avatar_modeling/v084_armhole_flow/ROTATE_A_FRONT.png` | 530549 | `423233163a9991bf4dbfce3a7ab7c34436bd7541906833310c4d5fb754452f5c` |
+| `avatar_modeling/v084_armhole_flow/ROTATE_B_FRONT.png` | 530655 | `3d3b8d094592cf140eee5b7d3c96e04a803a8e722e9fb92975eee8a805f6f777` |
+| `avatar_modeling/v085_fold_landmarks/BASE_SIDE.png` | 489637 | `1754a3d2736eb7994bb7961667611cab5723c5ca830ff4674b6c44863efc4b31` |
+| `avatar_modeling/v085_fold_landmarks/PROFILE_FULL_SIDE.png` | 491166 | `0b99909ab66df7986f26bafa899e60644f32d154b904b258ae543436fefff692` |
+| `avatar_modeling/v085_fold_landmarks/PROFILE_HALF_SIDE.png` | 489961 | `0be0df56d13a07e8d21bc1aba6eedcee4f6649d2176e2d9915fa2f440d8ff271` |
+| `avatar_modeling/v085_fold_landmarks/PROFILE_WEIGHT_SIDE.png` | 490670 | `c3cd1d3a56001b59e998d377a38f700409e1785be79fbaabfc1e4083406b5baf` |
+| `avatar_modeling/v085_fold_landmarks/REVIEW.md` | 2694 | `8903389580ffecd377b80a100327ca09f5426b004f76851dcdad665a16fef741` |
+| `avatar_modeling/v086_fold_cleanup/REVIEW.md` | 3076 | `71e0cc9616ca889a41de64adc35e1f77e21cb126e3ab1d401173635caa2ad5b9` |
+| `avatar_modeling/v086_fold_cleanup/STRIP_FRONT.png` | 497551 | `183102de8c1396574069803dbb1b2431dbd55cf5d39c237b88ea9109751edec2` |
+| `avatar_modeling/v086_fold_cleanup/STRIP_REST.png` | 476091 | `ffcd3470c44831206ca2d9d0813bcfd85041957a87a2fc7d9e4dd15af74fecb8` |
+| `avatar_modeling/v086_fold_cleanup/STRIP_SIDE.png` | 488417 | `8ebd1080eb6a6d6340cb23a288facbdb99222ca450583c573cf75fef2b715f92` |
+| `avatar_modeling/v087_neck_residual/BASE_fresh_199.png` | 571559 | `c5b4bf836fd64a5597f9ddd90d52ccf3de411c46dc4c9dd196706223a5fbfef8` |
+| `avatar_modeling/v087_neck_residual/CAND_fresh_199.png` | 571713 | `6f1e822cdb1a83e2169004cc393f580787468f636fef6fcb644a13f764967a68` |
+| `avatar_modeling/v087_neck_residual/REVIEW.md` | 3165 | `e05619fac271219470213922c20ee89a23a0b82ba4222260868842d93896f107` |
+| `avatar_modeling/v088_fold_tessellation/BASE_COLOR.png` | 538531 | `7767c52e6148cc73051c1cadb966e1eb4b55844ab486f39e10144db273bc96d7` |
+| `avatar_modeling/v088_fold_tessellation/REVIEW.md` | 2481 | `de82be88dd66e72aa69a772c7c3561a02b369e431fe01572a83395f0b41a7a1e` |
+| `avatar_modeling/v088_fold_tessellation/STRIP_COLOR.png` | 546962 | `4a212506e045f21ed7b791d56d7574024ee35b36fe9f19d956f2cc5322463add` |
+| `avatar_modeling/v089_review_delivery/MOTION_PREVIEW.gif` | 1943405 | `4a4ee7fba87d6b58e3117fb3cae97ac79d091727e47e27c699e05a4e178655f5` |
+| `avatar_modeling/v089_review_delivery/NECK_COMPARE.png` | 285796 | `ce5daf1b41578150530269991d53e2b257e85244b0f0ed2dfedce9fb4a5d37d7` |
+| `avatar_modeling/v089_review_delivery/NEUTRAL_COMPARE.png` | 222459 | `483658f24ab39b5128e10832eb8614a28c4ca06e6448696031032a6d4e344997` |
+| `avatar_modeling/v089_review_delivery/REVIEW.md` | 1050 | `c5e049b6fe29e9549e89a7d0c6d7eaf142cbde0724f1a842d4e8ef7c8d89e060` |
+| `avatar_modeling/v089_review_delivery/SHOULDER_REMAINING.png` | 489644 | `61dbef5b54bc5ac08a7685603925ccd46d10a88c65874b6d68c3872c659ef96f` |
+| `avatar_modeling/v089_review_delivery/START_HERE.md` | 6640 | `f140622dc9f6b36cc42f37dad2af5fd82cbad25631b54fc2308e81609031bbb7` |
 | `docs/NANO_WORKFLOW_RESEARCH.md` | 19300 | `703991b687a1ebd037dffff68e9c9a34672c851541abad4a9861aad4c486f59d` |

@@ -1,5 +1,7 @@
 # 원형을 보존하며 실시간 아바타 만들기
 
+2026-09-10 **최신 후보는 [v089 종합 검수 안내](avatar_modeling/v089_review_delivery/START_HERE.md)**입니다. v083에 목 여섯 정점의 최대0.3%p 웨이트 보정만 추가했습니다. 새 목1045자세의 피부 면적 경고2→1·새0, 전신1377·저장동작601에서 새 면적0입니다. 큰 어깨 홈은 남고, v084–v088의 국소 구조 실험은 제외했습니다. 특히 UV4묶음을 가로지르는 면 합치기에서 실제 텍스처 줄무늬가 생기는 원인을 기록했습니다. 아래는 각 시점의 이전 기록입니다.
+
 2026-09-10 **최신 선별 검수는 [v083 통합 안내](avatar_modeling/v083_review_delivery/START_HERE.md)**에서 확인합니다. v070–v083의 원인 조사·별도 구조 실험·전신 검증을 정리했습니다. v068에 손15raw·뒤 목14raw의 국소 웨이트만 추가했고, 원형·기존102본·v038 SMALL 무릎을 유지했습니다. 큰 어깨 홈과 옷자락 접촉은 남습니다. 실패한 어깨/카라/노멀 실험을 검수본에 넣지 않았습니다. 아래의 이전 '최신' 표현은 각 기록 당시 상태입니다.
 
 [옷·팔·손 작업 종합 검수 — 이 문서부터 보기](avatar_modeling/v068_upper_delivery/START_HERE.md). 확인할 파일, 전후 그림, 동작 프레임, v042–v069 전체 실험 지도, 개선·미해결 상태를 한 문서로 모았습니다. 이번 갱신은 안내 문서이며 모델 변경은 없습니다.
@@ -140,3 +142,14 @@
 | v081 | [기록](avatar_modeling/v081_continued_review/REVIEW.md) |
 | v082 | [기록](avatar_modeling/v082_shoulder_pivot/REVIEW.md) |
 | v083 | [기록](avatar_modeling/v083_review_delivery/REVIEW.md) |
+
+## v084–v089 국소 구조·목 후속 기록
+
+| 단계 | 문서 |
+|---|---|
+| v084 | [기록](avatar_modeling/v084_armhole_flow/REVIEW.md) |
+| v085 | [기록](avatar_modeling/v085_fold_landmarks/REVIEW.md) |
+| v086 | [기록](avatar_modeling/v086_fold_cleanup/REVIEW.md) |
+| v087 | [기록](avatar_modeling/v087_neck_residual/REVIEW.md) |
+| v088 | [기록](avatar_modeling/v088_fold_tessellation/REVIEW.md) |
+| v089 | [기록](avatar_modeling/v089_review_delivery/REVIEW.md) |
