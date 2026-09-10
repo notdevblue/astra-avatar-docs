@@ -4,16 +4,16 @@
 
 문서의 비공개 작업 파일 링크는 미포함 표기로 바꾸고 로컬 설치 경로를 생략했습니다.
 
-- 원문 Markdown: 157개
-- 본문 비교 이미지: 342개
+- 원문 Markdown: 172개
+- 본문 비교 이미지: 362개
 - 아래 SHA-256은 공유본 내용 기준입니다. 기존 저장소의 Git 이력은 포함하지 않습니다.
 
 | 파일 | 바이트 | SHA-256 |
 |---|---:|---|
 | `.gitignore` | 120 | `e1a9d489cc271e1e8036508c1fc40b68cb7e1eb006e647a30964452f11d5e743` |
-| `README.md` | 23840 | `54f61c2644ae182c0c0de5cce5effd0609c9badfca0482c70af29cd1dc2f2873` |
-| `SHARING.md` | 12990 | `6e27b2f84aa1823552d8bf6159e78d7bd5a4e0048bf3e99d37b7cbcc4edf1373` |
-| `STATUS.md` | 13613 | `4af9f069a5ce51915fed4a25018b7dade04293caaba712cf0e309dfd7fad646f` |
+| `README.md` | 25772 | `cbda3802bccbd25fd026ac6349e3828d5de9192b11ed9210557b755f1b59aa72` |
+| `SHARING.md` | 13830 | `7e03045d8fa123bd70c00da4a9c0e972428cadfb067749a7e063b708cd7c5d58` |
+| `STATUS.md` | 14453 | `72b8d06472f946954c9a23e18db5c50e82e5449191321aa98b84e952fc65e328` |
 | `avatar_modeling/v001_inspection/REVIEW.md` | 8117 | `620d9818f22eb42f1385752d012abbcba765dbc37f01f303531355f82eae8918` |
 | `avatar_modeling/v001_inspection/rig_trial/01_arms_raised.png` | 664846 | `8826ebeeef920de97836773476767f2d92e290725fdccef45700bdf63be87acb` |
 | `avatar_modeling/v002_refine/05_arms_raised.png` | 649841 | `205a5b29a2063e2ad60fa5741b894e3431f862079893417434d0bed6acbabc5f` |
@@ -512,4 +512,39 @@
 | `avatar_modeling/v107_front_surface/REVIEW.md` | 3415 | `57b03ac86af682cc75c0e10f67389b514893411ed9e87b74a8851cf610c44c3f` |
 | `avatar_modeling/v108_review_delivery/PLAN.md` | 1029 | `f1f6b4bb545f73a817873b5149f83e2ab6bd961f934bdbc76036bdeb20c4e624` |
 | `avatar_modeling/v108_review_delivery/START_HERE.md` | 7188 | `fd7c6f8114f69937066ba8045923abbed59144ce6b53c3df80353477b1e4b52b` |
+| `avatar_modeling/v109_garment_strain/RESEARCH_PLAN.md` | 3984 | `6c4faea3fb081851551611f41d1bdbcd2a2affe6fbff84f29b0f3865c4328018` |
+| `avatar_modeling/v109_garment_strain/REVIEW.md` | 3294 | `185dc30de1418aa0bbdbfbcdf8b65fea2f3e583628f1328004481e10bb7bf781` |
+| `avatar_modeling/v109_garment_strain/front_COLOR.png` | 506973 | `c6913ad0ac6db851dcf517293a49c63251f27fd813ca0301a9de92d3e86bad39` |
+| `avatar_modeling/v109_garment_strain/front_HEAT.png` | 528294 | `12894738cc98aaf90089ebd44de72640ebab53a5a3e1dcd4bcd3bfaf2e39cea8` |
+| `avatar_modeling/v109_garment_strain/side_COLOR.png` | 520947 | `ea83142560e1c4408d538eb0416474a1ee5cc8cafaedf72b8a650a5fd8c809d3` |
+| `avatar_modeling/v109_garment_strain/side_HEAT.png` | 559091 | `e8402e5ad896653b52e100e853cf503abf2157699170dfa28a4a1c66f7a176d5` |
+| `avatar_modeling/v110_cloth_metric/REVIEW.md` | 2135 | `ddf78663c9729490211253bd6cfc32430e7b513f0f148108afd9a57dd342d523` |
+| `avatar_modeling/v110_cloth_metric/front90_FREE.png` | 571187 | `898b02181b346dabbb4c011449d30168a1cc54f1e0df3f2790a55d1f8663c878` |
+| `avatar_modeling/v110_cloth_metric/side120_FREE.png` | 571475 | `7c1e8d9d7cbc2979ecea5f488992d3b81d5068e2c1253104ebdcbbe1fa1144a3` |
+| `avatar_modeling/v111_cloth_guard/REVIEW.md` | 1340 | `21364f33db4aa7fc9f392f69ba4b15d5166dd13837ce04cc99568d03a9a45e90` |
+| `avatar_modeling/v111_cloth_guard/front_GUARDED.png` | 571351 | `da6efe4fe9aeaa91d13e084b02e0b43323616c37e9a61a37737c21fb368ebb62` |
+| `avatar_modeling/v111_cloth_guard/side_GUARDED.png` | 571675 | `eddc7228cfbe0cf659ba2238b928eedc0d256dad5d01f29c90680679bbb1da70` |
+| `avatar_modeling/v112_garment_pose/REVIEW.md` | 1575 | `6c7c61922a3de32b79c54af9e381d08646a479cbad1f1ed5a1b57b4549be89f8` |
+| `avatar_modeling/v113_garment_range/REVIEW.md` | 2011 | `2e380bce7be82d01f4a66f223854a3e4e8603dacbeeab6a35ba840c65ef4f123` |
+| `avatar_modeling/v114_garment_lift/AFTER_front_FULL.png` | 497367 | `38d036d59531e0c1c6abd0bf43e42cb6e7127f28bb2e9031066f4c99e609ca58` |
+| `avatar_modeling/v114_garment_lift/AFTER_side_FULL.png` | 519659 | `465799c799d9c62d8080489bcc37dbc227ecf9891db002adc61959ea7fb11a2c` |
+| `avatar_modeling/v114_garment_lift/BEFORE_front_FULL.png` | 497382 | `18678701c2b28985affe51c310969ec7edb6dfdf074ed3718edb93afd9bad7e8` |
+| `avatar_modeling/v114_garment_lift/BEFORE_side_FULL.png` | 519265 | `bb6520f0222d2a57197afd14bc95e0e75c1f8fb7610afd157161d92bb88a5765` |
+| `avatar_modeling/v114_garment_lift/REVIEW.md` | 2593 | `cbfdcb88b7c1c3c21a85d0153f15007b853cdf4bded5e72f5b3756a57a4cd9ce` |
+| `avatar_modeling/v114_garment_lift/front90_LIFT_FREE.png` | 572913 | `2110a9e1296c562de9caa67d0bc88ba6fdda516ee99ea794b33203bcc01c30b0` |
+| `avatar_modeling/v114_garment_lift/side120_LIFT_FREE.png` | 569082 | `d8d19898b4205778f15d99ac32586ca8824d66d44848710c6c37ce53d65b7c88` |
+| `avatar_modeling/v115_garment_review/START_HERE.md` | 1461 | `b388f89e59233d053b80d4dcd343d5c204150f86d546579ad8203df1658835f4` |
+| `avatar_modeling/v116_garment_review/START_HERE.md` | 1176 | `2f79831ccb7cd8d06f28dd91d2279fc5d36823415a2949ad3c8ce2b299e6d476` |
+| `avatar_modeling/v117_garment_review/NEXT_WORK.md` | 3681 | `16e01f6ae8bc5a1b9912990a34587836028d641e58ea5e95c3b25cd56b56775d` |
+| `avatar_modeling/v117_garment_review/START_HERE.md` | 1405 | `e7e4024e9effda012ba8506d19d2b45411a22eb80de39ef67514315a0464dfc4` |
+| `avatar_modeling/v118_garment_review/NEXT_WORK.md` | 3681 | `16e01f6ae8bc5a1b9912990a34587836028d641e58ea5e95c3b25cd56b56775d` |
+| `avatar_modeling/v118_garment_review/START_HERE.md` | 1773 | `b29a16a9f0c40766e86d7c539c5ac1bb393702002749f388c48a7b36d1afc85c` |
+| `avatar_modeling/v119_garment_review/BOARD_CLAY.png` | 206052 | `64355f1a34e8936df43c22f4b89de624ba0bd445df3cbcb00e38b2e9882b5004` |
+| `avatar_modeling/v119_garment_review/BOARD_NEUTRAL.png` | 131639 | `3124da047092909f5411c70897ed5569a944fe791fedc8ad84debcb09b22b650` |
+| `avatar_modeling/v119_garment_review/BOARD_front_BACK.png` | 174859 | `678a44d80abc32250cbf4f6443838ee89034bd52abeca7753bcb4350921085e2` |
+| `avatar_modeling/v119_garment_review/BOARD_side_BACK.png` | 233441 | `5451c9eca4d0d8fae26b8e9b02011f7d6a8909513a632d95d6e8a0be3f0a173d` |
+| `avatar_modeling/v119_garment_review/BOARD_side_FRONT.png` | 248255 | `c7c9788413c090f4ce2893c53d916411de7184481a80d35f3c802a9bbd697cc1` |
+| `avatar_modeling/v119_garment_review/MOTION_PREVIEW.gif` | 1964016 | `048bf0a8181a65d71a0080a02a3279a2177ad517a627eaaf0eb14073d56c3ad3` |
+| `avatar_modeling/v119_garment_review/NEXT_WORK.md` | 4484 | `e84a72325ba27048c9840035fd68c981b6165064aaf624d896eeb6a8918b423e` |
+| `avatar_modeling/v119_garment_review/START_HERE.md` | 7292 | `2d2544a166c290468b9233848db902a9610b853cfd3a1411352b011b1026082c` |
 | `docs/NANO_WORKFLOW_RESEARCH.md` | 19300 | `703991b687a1ebd037dffff68e9c9a34672c851541abad4a9861aad4c486f59d` |
