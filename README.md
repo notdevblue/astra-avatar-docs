@@ -1,5 +1,7 @@
 # 원형을 보존하며 실시간 아바타 만들기
 
+2026-09-10 **[v094–v097 조사와 13개 수정 실험](avatar_modeling/v097_local_pose_shape/START_HERE.md)**을 추가했습니다. 공식 문서·저자 글·튜토리얼을 조사하고 수정 전 계획을 기록한 뒤 단면 웨이트4안, bank 웨이트6안, 국소 포즈 키3안을 실제 검사했습니다. 모두 새 변형 경고가 있어 미채택이며 **기준은 v089 유지**입니다. 새 메시 생성·리메시 없음. 아래는 이전 시점의 기록입니다.
+
 2026-09-10 **[v090–v093 텍스처·겨드랑이 후속 안내](avatar_modeling/v093_bake_projection/START_HERE.md)**를 추가했습니다. 재베이크 줄무늬와 검은 누락을 해결하는 색 전달 경로를 확인했습니다. 큰 주름과 새 국소 변형 경고는 남아 **기준은 v089를 유지**하며 v093은 별도 비교용입니다. 전신1377에서 무릎/수정밖 결과는 같지만 수정패치 새 계보 경고2, 저장동작601에서 패치 새6/해소19가 남았습니다. 아래는 이전 시점의 기록입니다.
 
 2026-09-10 **최신 후보는 [v089 종합 검수 안내](avatar_modeling/v089_review_delivery/START_HERE.md)**입니다. v083에 목 여섯 정점의 최대0.3%p 웨이트 보정만 추가했습니다. 새 목1045자세의 피부 면적 경고2→1·새0, 전신1377·저장동작601에서 새 면적0입니다. 큰 어깨 홈은 남고, v084–v088의 국소 구조 실험은 제외했습니다. 특히 UV4묶음을 가로지르는 면 합치기에서 실제 텍스처 줄무늬가 생기는 원인을 기록했습니다. 아래는 각 시점의 이전 기록입니다.
@@ -164,3 +166,12 @@
 | v091 | [기록](avatar_modeling/v091_patch_flow/REVIEW.md) |
 | v092 | [기록](avatar_modeling/v092_patch_guard/REVIEW.md) |
 | v093 | [기록](avatar_modeling/v093_bake_projection/REVIEW.md) |
+
+## v094–v097 어깨 재조사
+
+| 단계 | 문서 |
+|---|---|
+| v094 | [기록](avatar_modeling/v094_shoulder_research/RESEARCH.md) |
+| v095 | [기록](avatar_modeling/v095_section_weights/REVIEW.md) |
+| v096 | [기록](avatar_modeling/v096_bank_weights/REVIEW.md) |
+| v097 | [기록](avatar_modeling/v097_local_pose_shape/REVIEW.md) |
