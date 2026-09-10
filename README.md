@@ -1,5 +1,7 @@
 # 원형을 보존하며 실시간 아바타 만들기
 
+2026-09-10 **최신 선별 검수는 [v083 통합 안내](avatar_modeling/v083_review_delivery/START_HERE.md)**에서 확인합니다. v070–v083의 원인 조사·별도 구조 실험·전신 검증을 정리했습니다. v068에 손15raw·뒤 목14raw의 국소 웨이트만 추가했고, 원형·기존102본·v038 SMALL 무릎을 유지했습니다. 큰 어깨 홈과 옷자락 접촉은 남습니다. 실패한 어깨/카라/노멀 실험을 검수본에 넣지 않았습니다. 아래의 이전 '최신' 표현은 각 기록 당시 상태입니다.
+
 [옷·팔·손 작업 종합 검수 — 이 문서부터 보기](avatar_modeling/v068_upper_delivery/START_HERE.md). 확인할 파일, 전후 그림, 동작 프레임, v042–v069 전체 실험 지도, 개선·미해결 상태를 한 문서로 모았습니다. 이번 갱신은 안내 문서이며 모델 변경은 없습니다.
 
 2026-09-10 v062–v069 결과: [v068 선별 검수본·비교·동작](avatar_modeling/v068_upper_delivery/REVIEW.md)에 손 보정·코트 연결·뒤 카라와 소매11면 대각선을 모았습니다. 새644표본에서 소매 새 면적 경고0·기존169해소, 손–소매 교차0을 확인했습니다. 저장 동작385표본 새 경고0·재로드 위치 오차0입니다. 원형과 v038 SMALL 무릎을 유지했습니다. **큰 겨드랑이 접힘·손 잔여 압축/음영은 미해결이며 전체 완료나 사용자 채택이 아닙니다.** [실제 본과 엔진 전달 요건](avatar_modeling/v068_upper_delivery/RUNTIME_HANDOFF.md), [고정 삼각형 조건의 차이](avatar_modeling/v065_frozen_triangles/REVIEW.md)도 기록했습니다. Unity/VRChat 실행은 미검증입니다.
@@ -119,3 +121,22 @@
 | v067 | [검수](avatar_modeling/v067_hand_normals/REVIEW.md) |
 | v068 | [검수](avatar_modeling/v068_upper_delivery/REVIEW.md) |
 | v069 | [검수](avatar_modeling/v069_hand_mcp_volume/REVIEW.md) |
+
+## v070–v083 후속 기록
+
+| 단계 | 문서 |
+|---|---|
+| v070 | [기록](avatar_modeling/v070_upper_cause/REVIEW.md) |
+| v071 | [기록](avatar_modeling/v071_surface_strain/REVIEW.md) |
+| v072 | [기록](avatar_modeling/v072_compact_front/REVIEW.md) |
+| v073 | [기록](avatar_modeling/v073_hand_residual/REVIEW.md) |
+| v074 | [기록](avatar_modeling/v074_shoulder_graph/REVIEW.md) |
+| v075 | [기록](avatar_modeling/v075_coat_clearance/REVIEW.md) |
+| v076 | [기록](avatar_modeling/v076_hand_surface/REVIEW.md) |
+| v077 | [기록](avatar_modeling/v077_shoulder_diagonals/REVIEW.md) |
+| v078 | [기록](avatar_modeling/v078_sleeve_rest/REVIEW.md) |
+| v079 | [기록](avatar_modeling/v079_collar_tail_review/REVIEW.md) |
+| v080 | [기록](avatar_modeling/v080_neck_weights/REVIEW.md) |
+| v081 | [기록](avatar_modeling/v081_continued_review/REVIEW.md) |
+| v082 | [기록](avatar_modeling/v082_shoulder_pivot/REVIEW.md) |
+| v083 | [기록](avatar_modeling/v083_review_delivery/REVIEW.md) |
