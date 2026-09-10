@@ -1,5 +1,7 @@
 # 원형을 보존하며 실시간 아바타 만들기
 
+2026-09-10 **[v108 연속 수정 종합 검수](avatar_modeling/v108_review_delivery/START_HERE.md)**를 추가했습니다. v089에 기존 소매 정점의 양쪽 옆 들기 보정2개를 더했습니다. 원래 기하·UV·웨이트·102본과 v038 SMALL 무릎을 유지하며, 새 난수500+기본30·전신1377·저장 동작601에서 새 면적/접촉 경고0을 확인했습니다. 함몰은 부분 완화됐고 큰 접힘·앞 들기·Unity 자동 구동·PhysBone은 남습니다. 앞 들기 v107 실험은 미통합입니다. v098–v108의 성공·실패와 비교 그림을 한 문서에 모았으며, 아래는 각 이전 시점의 기록입니다.
+
 2026-09-10 **[v094–v097 조사와 13개 수정 실험](avatar_modeling/v097_local_pose_shape/START_HERE.md)**을 추가했습니다. 공식 문서·저자 글·튜토리얼을 조사하고 수정 전 계획을 기록한 뒤 단면 웨이트4안, bank 웨이트6안, 국소 포즈 키3안을 실제 검사했습니다. 모두 새 변형 경고가 있어 미채택이며 **기준은 v089 유지**입니다. 새 메시 생성·리메시 없음. 아래는 이전 시점의 기록입니다.
 
 2026-09-10 **[v090–v093 텍스처·겨드랑이 후속 안내](avatar_modeling/v093_bake_projection/START_HERE.md)**를 추가했습니다. 재베이크 줄무늬와 검은 누락을 해결하는 색 전달 경로를 확인했습니다. 큰 주름과 새 국소 변형 경고는 남아 **기준은 v089를 유지**하며 v093은 별도 비교용입니다. 전신1377에서 무릎/수정밖 결과는 같지만 수정패치 새 계보 경고2, 저장동작601에서 패치 새6/해소19가 남았습니다. 아래는 이전 시점의 기록입니다.
@@ -175,3 +177,20 @@
 | v095 | [기록](avatar_modeling/v095_section_weights/REVIEW.md) |
 | v096 | [기록](avatar_modeling/v096_bank_weights/REVIEW.md) |
 | v097 | [기록](avatar_modeling/v097_local_pose_shape/REVIEW.md) |
+
+
+## v098–v108 소매 표면과 접촉 조건
+
+| 단계 | 문서 |
+|---|---|
+| v098 | [목표 표면](avatar_modeling/v098_surface_target/REVIEW.md) |
+| v099 | [다중 자세 면 제약](avatar_modeling/v099_surface_guard/REVIEW.md) |
+| v100 | [접촉과 대각선 전환](avatar_modeling/v100_surface_contact/REVIEW.md) |
+| v101 | [오른쪽 독립 보정](avatar_modeling/v101_right_surface/REVIEW.md) |
+| v102 | [영역 내부 간격](avatar_modeling/v102_bilateral_guard/REVIEW.md) |
+| v103 | [통합·경계 보호](avatar_modeling/v103_bilateral_review/REVIEW.md) |
+| v104 | [영역 밖 고정 면](avatar_modeling/v104_right_contact/REVIEW.md) |
+| v105 | [새 회전의 늘어남 진단](avatar_modeling/v105_surface_review/REVIEW.md) |
+| v106 | [검증된 소매 보정](avatar_modeling/v106_strain_margin/REVIEW.md) |
+| v107 | [앞 들기·음영 분리 시험](avatar_modeling/v107_front_surface/REVIEW.md) |
+| v108 | [전체 결과·파일·26마커·남은 문제](avatar_modeling/v108_review_delivery/START_HERE.md) |

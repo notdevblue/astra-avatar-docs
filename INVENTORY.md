@@ -4,16 +4,16 @@
 
 문서의 비공개 작업 파일 링크는 미포함 표기로 바꾸고 로컬 설치 경로를 생략했습니다.
 
-- 원문 Markdown: 134개
-- 본문 비교 이미지: 318개
+- 원문 Markdown: 157개
+- 본문 비교 이미지: 342개
 - 아래 SHA-256은 공유본 내용 기준입니다. 기존 저장소의 Git 이력은 포함하지 않습니다.
 
 | 파일 | 바이트 | SHA-256 |
 |---|---:|---|
 | `.gitignore` | 120 | `e1a9d489cc271e1e8036508c1fc40b68cb7e1eb006e647a30964452f11d5e743` |
-| `README.md` | 22144 | `619e7b117ff2b71deeeb0bbc607c91ad1b6e97fff138e17f72d59e6eacee1430` |
-| `SHARING.md` | 12326 | `d17978846bb992ab3aa374cc3eb61692883f002f1f52b34967f77fe3a22f42f5` |
-| `STATUS.md` | 12949 | `83fed05477a53480f050a031d41acc2ebf82a2ad9db2e0bd9ef494e43cb1f9c9` |
+| `README.md` | 23840 | `54f61c2644ae182c0c0de5cce5effd0609c9badfca0482c70af29cd1dc2f2873` |
+| `SHARING.md` | 12990 | `6e27b2f84aa1823552d8bf6159e78d7bd5a4e0048bf3e99d37b7cbcc4edf1373` |
+| `STATUS.md` | 13613 | `4af9f069a5ce51915fed4a25018b7dade04293caaba712cf0e309dfd7fad646f` |
 | `avatar_modeling/v001_inspection/REVIEW.md` | 8117 | `620d9818f22eb42f1385752d012abbcba765dbc37f01f303531355f82eae8918` |
 | `avatar_modeling/v001_inspection/rig_trial/01_arms_raised.png` | 664846 | `8826ebeeef920de97836773476767f2d92e290725fdccef45700bdf63be87acb` |
 | `avatar_modeling/v002_refine/05_arms_raised.png` | 649841 | `205a5b29a2063e2ad60fa5741b894e3431f862079893417434d0bed6acbabc5f` |
@@ -465,4 +465,51 @@
 | `avatar_modeling/v097_local_pose_shape/REGRESSION_BOARD.png` | 198487 | `74644985c231abc1bf2c1880daf06a37bcc1e47f54d61ea91df98c886ad3e053` |
 | `avatar_modeling/v097_local_pose_shape/REVIEW.md` | 3815 | `31aa5401a1cd229c3829b5587a531223eda119c8aef7f3c8bb8e8fbdf4c9ba11` |
 | `avatar_modeling/v097_local_pose_shape/START_HERE.md` | 3230 | `032b447915fc6ab291755288d50366453c3f43d355df5ab159d26691f408a8ab` |
+| `avatar_modeling/v098_surface_target/BOARD_SIDE.png` | 256917 | `5cfc3a1079bc5f040c55d4b3b83282d12b8f3481323fa88bef50f48b6273db8c` |
+| `avatar_modeling/v098_surface_target/BOARD_SIDE_OTHER.png` | 254290 | `e8af5e4d97c44f2fd74439b80f14fab4e1ee68f9ae1ef01664e021c5493682e8` |
+| `avatar_modeling/v098_surface_target/PLAN.md` | 1589 | `ae564053c7069156f89b7cc2a59f7b209c4b67148093562416b7b226a07dbf04` |
+| `avatar_modeling/v098_surface_target/REVIEW.md` | 2025 | `264adce8ba9fbb38b6a17226f7b9205228d5733b32f4250088e6ce094e51aee7` |
+| `avatar_modeling/v099_surface_guard/BOARD_SIDE.png` | 258295 | `6b9b367973af9c2e50f949d59c7e385e1e17d126c3254490a6f104df4a80a8e4` |
+| `avatar_modeling/v099_surface_guard/BOARD_SIDE_OTHER.png` | 256103 | `6cef2e36a4057c887f57e5adc96fb2ec46acfd78c592b96d044e91c5920e2772` |
+| `avatar_modeling/v099_surface_guard/PLAN.md` | 1520 | `60a7fda55ff5724c8c4fabc73ba92a5e7556a9969f5bb43801db6698c8114d2b` |
+| `avatar_modeling/v099_surface_guard/REVIEW.md` | 2614 | `91c592fe9c4190bc3177aab9378531a1d93fb646b92ff16796bac28e5cd8bcd5` |
+| `avatar_modeling/v100_surface_contact/PLAN.md` | 1062 | `8416fcf23733d2b06b65da7f2d85306f3384e1e0571fc1290805cb01c9756058` |
+| `avatar_modeling/v100_surface_contact/RESIDUAL_CANDIDATE.png` | 631451 | `9e326350c058f363bc891a513ed6ee33750ea634be1d037bdaaef0b76265dc71` |
+| `avatar_modeling/v100_surface_contact/REVIEW.md` | 1842 | `16f55833987390cbc8fbeb7d9c4b7bafd929495532a0a51012c8dfaf5956caf9` |
+| `avatar_modeling/v101_right_surface/FAIR_STRONG_SIDE.png` | 572472 | `a287304303f4b019342acbd8c0a2d393fcc4d190130e72eaf17b6ab58e230bd8` |
+| `avatar_modeling/v101_right_surface/PLAN.md` | 786 | `844177c7506f0fc59790f20d49538481cd285106fd2c030c64e74eeeb2e01652` |
+| `avatar_modeling/v101_right_surface/REVIEW.md` | 1422 | `847efd84e105443d7498bf70ed1c60e0db9e9e49fbe35c1b8210065c1cea2ce1` |
+| `avatar_modeling/v101_right_surface/RIGHT30000_SIDE.png` | 572348 | `e5935f13e9004850a44a259a955498953a1eec522e78e6bf6e7df30b555880d1` |
+| `avatar_modeling/v102_bilateral_guard/PLAN.md` | 1217 | `2f3bd4b9cef82d50bf25176506bbc1d468070ef93235002238212148de9a025d` |
+| `avatar_modeling/v102_bilateral_guard/REVIEW.md` | 1547 | `d5069e309d6958fe76e0a8a5ce83132e2557db4d37d923493419d1d298d4b385` |
+| `avatar_modeling/v103_bilateral_review/BOARD_FULL.png` | 135666 | `465777a07fd4601aba616c32bd1c4abeb078792f9fa9acd1ab6c5a2daceed9a6` |
+| `avatar_modeling/v103_bilateral_review/BOARD_L_BACK.png` | 205342 | `c431b88f7c20725d0abdb921f31b5614ca83a36953023e6f99610ca61765e515` |
+| `avatar_modeling/v103_bilateral_review/BOARD_NEUTRAL.png` | 131224 | `9e0a97802b1112760ef72cb59fec90b9e3743ef78484fa33a3c1066347335952` |
+| `avatar_modeling/v103_bilateral_review/BOARD_R_BACK.png` | 203220 | `e8198eeaba83783757017df1691e51e142c63e9d85e8278718d75efc95c36d80` |
+| `avatar_modeling/v103_bilateral_review/PLAN.md` | 1304 | `688656efb87ce8a46ecb8c648d8c5a2cbe1c8ef01a49ec3784d13ec2a3055d0f` |
+| `avatar_modeling/v103_bilateral_review/REVIEW.md` | 2060 | `def90fc4dda0f030cc3cb28c2935014c8d5bbdd73dbd1510724339a993a73a14` |
+| `avatar_modeling/v104_right_contact/PLAN.md` | 1043 | `79e01858b3ba56de993ffa638d5c5064f84db1cf30c45c2f22686b812af961ab` |
+| `avatar_modeling/v104_right_contact/REVIEW.md` | 1368 | `6814741326beb24c100cd4f5a89183dee137089e05b80b9b071c9d83bf4f1003` |
+| `avatar_modeling/v105_surface_review/BOARD_L_BACK.png` | 205770 | `5ea14f72bde91037e199461431e64b48e4cdf9a85c974cc807bf192b16645ab2` |
+| `avatar_modeling/v105_surface_review/BOARD_NEUTRAL.png` | 131667 | `d0a7374b15094435cb2e9185cb743a33a154e529217b21093be71cd2ac92116a` |
+| `avatar_modeling/v105_surface_review/BOARD_R_BACK.png` | 203393 | `9aaa1d1e37996a585e7a0ca7792c3f36181af0b9904318996d5b84e067c9aa96` |
+| `avatar_modeling/v105_surface_review/PLAN.md` | 981 | `c19b50a3019816fcf716b2dd4c3771ee209dd29a3a4f3656828829a691c5a209` |
+| `avatar_modeling/v105_surface_review/REVIEW.md` | 2967 | `c670f74730efd345862c70ab39accf1eb2a5f5f5bba5cfc50613e6cb0e827336` |
+| `avatar_modeling/v106_strain_margin/BOARD_FULL.png` | 135571 | `1e536192b5aeb90076139f6c239833c279bc83b712ef40aa35b54f3f09ecbdc0` |
+| `avatar_modeling/v106_strain_margin/BOARD_L_BACK.png` | 197000 | `5965a7800d32f3dfc723ee41bccae1b14a290bbd1a47c447e861993dbf80e663` |
+| `avatar_modeling/v106_strain_margin/BOARD_NEUTRAL.png` | 131765 | `45b94fe8e4db2d07dd221f82f083f2bda382177a3498e813d46f892892dffb3a` |
+| `avatar_modeling/v106_strain_margin/BOARD_R_BACK.png` | 195040 | `be1c5f56978854473a1a0a770d745961ba891a047bc58d6428db8e6062359ea4` |
+| `avatar_modeling/v106_strain_margin/METHOD.md` | 3418 | `becb221171d4cf5f9d509341a16cb2f8256bddf8a016765e185c6e64fac98280` |
+| `avatar_modeling/v106_strain_margin/MOTION_PREVIEW.gif` | 1962674 | `fa2a5f6f8a1d5eeab61a9d3af6967441bb07c1f6bd355af5c1c505a9a3464bd9` |
+| `avatar_modeling/v106_strain_margin/PLAN.md` | 1394 | `0b1d4e18e8f19ee43f9a39989efd36e7c6ad40b02e65e2628a5b915a9414318f` |
+| `avatar_modeling/v106_strain_margin/REVIEW.md` | 3468 | `58fcb4b42d7591ee5527fc76f209e78793f28ca34d7ca7e788361d3ca2922c9e` |
+| `avatar_modeling/v107_front_surface/BOARD_BACK.png` | 204702 | `58dd8865662dbac15bf9c59d57b0d15967adf824a2642d7efbac5340f985386a` |
+| `avatar_modeling/v107_front_surface/BOARD_FRONT.png` | 223506 | `dd6f5233c61f508b4ae9f10beb4eb42d69bf80753f9294af59889326958921e0` |
+| `avatar_modeling/v107_front_surface/CLAY_AUTO.png` | 501382 | `9d69896956acc274da6e5e4288d38dc3ddda23d9e23b868f73d761f1ef74d0dc` |
+| `avatar_modeling/v107_front_surface/CLAY_CUSTOM.png` | 501139 | `541e3b10b3609c5ea07d6253272bd4d522db7d0d4866bad693053bd8c3387ea6` |
+| `avatar_modeling/v107_front_surface/CLAY_SOFT_EDGES.png` | 500416 | `c9c18452ab87525fd7175c5c7e5b21419e01540d918129f26c4e81186dfa25d9` |
+| `avatar_modeling/v107_front_surface/PLAN.md` | 1048 | `aff7cd1e1180fa0943ebcbf92753af7d081dd6a571a7e212ec15287bb9ea54d9` |
+| `avatar_modeling/v107_front_surface/REVIEW.md` | 3415 | `57b03ac86af682cc75c0e10f67389b514893411ed9e87b74a8851cf610c44c3f` |
+| `avatar_modeling/v108_review_delivery/PLAN.md` | 1029 | `f1f6b4bb545f73a817873b5149f83e2ab6bd961f934bdbc76036bdeb20c4e624` |
+| `avatar_modeling/v108_review_delivery/START_HERE.md` | 7188 | `fd7c6f8114f69937066ba8045923abbed59144ce6b53c3df80353477b1e4b52b` |
 | `docs/NANO_WORKFLOW_RESEARCH.md` | 19300 | `703991b687a1ebd037dffff68e9c9a34672c851541abad4a9861aad4c486f59d` |
