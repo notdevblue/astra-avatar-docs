@@ -4,16 +4,16 @@
 
 문서의 비공개 작업 파일 링크는 미포함 표기로 바꾸고 로컬 설치 경로를 생략했습니다.
 
-- 원문 Markdown: 122개
-- 본문 비교 이미지: 303개
+- 원문 Markdown: 127개
+- 본문 비교 이미지: 311개
 - 아래 SHA-256은 공유본 내용 기준입니다. 기존 저장소의 Git 이력은 포함하지 않습니다.
 
 | 파일 | 바이트 | SHA-256 |
 |---|---:|---|
 | `.gitignore` | 120 | `e1a9d489cc271e1e8036508c1fc40b68cb7e1eb006e647a30964452f11d5e743` |
-| `README.md` | 20426 | `97dfb646ae144924a14e51d2fe68846ebe567c515becfec1927f21ac186091b9` |
-| `SHARING.md` | 11284 | `46e3bffa83d86fba5595e1fe23fc8c31c1386ea3e87c281d0516f752abac372b` |
-| `STATUS.md` | 11907 | `afd738ce15ef3dfc3860ca7d4affb708da136ae636e20e4329d4fd29431e8597` |
+| `README.md` | 21317 | `042745aa203c2923cfb8e0a10043294d7629ab1dd544cd47dce340fa6fe74b3e` |
+| `SHARING.md` | 11837 | `ab627e26213dd5992bdc2e1dccaa41f15d081c5beb12f81d1420d19837cd3ad0` |
+| `STATUS.md` | 12460 | `c09137dd9748b88128ac12772b7e51974a80b161f0e5549f19c2e13074301ea6` |
 | `avatar_modeling/v001_inspection/REVIEW.md` | 8117 | `620d9818f22eb42f1385752d012abbcba765dbc37f01f303531355f82eae8918` |
 | `avatar_modeling/v001_inspection/rig_trial/01_arms_raised.png` | 664846 | `8826ebeeef920de97836773476767f2d92e290725fdccef45700bdf63be87acb` |
 | `avatar_modeling/v002_refine/05_arms_raised.png` | 649841 | `205a5b29a2063e2ad60fa5741b894e3431f862079893417434d0bed6acbabc5f` |
@@ -438,4 +438,17 @@
 | `avatar_modeling/v089_review_delivery/REVIEW.md` | 1050 | `c5e049b6fe29e9549e89a7d0c6d7eaf142cbde0724f1a842d4e8ef7c8d89e060` |
 | `avatar_modeling/v089_review_delivery/SHOULDER_REMAINING.png` | 489644 | `61dbef5b54bc5ac08a7685603925ccd46d10a88c65874b6d68c3872c659ef96f` |
 | `avatar_modeling/v089_review_delivery/START_HERE.md` | 6640 | `f140622dc9f6b36cc42f37dad2af5fd82cbad25631b54fc2308e81609031bbb7` |
+| `avatar_modeling/v090_patch_rebake/REVIEW.md` | 4578 | `9efdc7447dfb155b8a14b6170b93e1c92bd1dd9099e531230afdcf67f3e11444` |
+| `avatar_modeling/v091_patch_flow/BASE_SIDE.png` | 538538 | `decedb3fe33dcaaf53fdcc6d9e8e144d4f35db18d08c670476a9179f077a4ae3` |
+| `avatar_modeling/v091_patch_flow/FLOW_SIDE.png` | 539279 | `aba5f57e83080180cc724e5227428cb41e3de73a0293d650dc71673444d90570` |
+| `avatar_modeling/v091_patch_flow/REVIEW.md` | 4206 | `6c605818029ebdb4d321ff0fd08e66a73a4e371f93520c8a8011427183a27579` |
+| `avatar_modeling/v092_patch_guard/GUARD_FRONT.png` | 552157 | `427195efee1efcd1d95c6b384a8ea2be1178831b0d38668ac867b66ed00d764f` |
+| `avatar_modeling/v092_patch_guard/GUARD_SIDE.png` | 538671 | `5eb51aede10dc04b6e8e88c8a588610ae4c0ab5bd80109a29ebee14ecd92f2d4` |
+| `avatar_modeling/v092_patch_guard/REVIEW.md` | 2980 | `594e89b2df0d9bfb6d97ffdf9fe8f7d489c3f6fad6852afd8b6851437ba9970f` |
+| `avatar_modeling/v093_bake_projection/MOTION_PREVIEW.gif` | 1959215 | `9de6016d90484fdfb95917fbb26616656eb8f560eeaa553bf30521a58b839923` |
+| `avatar_modeling/v093_bake_projection/NEUTRAL_COMPARE.png` | 231522 | `c0f58a936a6446aa5f10bbb823a3c731742421e4580ddcea2593d8beefd2dc23` |
+| `avatar_modeling/v093_bake_projection/RESIDUAL_COMPARE.png` | 579688 | `0a5b9a0e173491d370a783a000a457268f440facace70f10f856be2ee2369d27` |
+| `avatar_modeling/v093_bake_projection/REVIEW.md` | 6828 | `e175b6ccba5505b3cc386f9cf9b639d4f31ed065c8e4f1e07bfb2434d77a7544` |
+| `avatar_modeling/v093_bake_projection/START_HERE.md` | 4042 | `7378a2b753adff775fea11ef4064f9d4101b9cd5ea6d98931bc5afb911ce2471` |
+| `avatar_modeling/v093_bake_projection/TEXTURE_COMPARE.png` | 623799 | `7e00f069de7923a06e52bd9ba5f2a977e86ef6c49f9790619f7fc24bb704c2c5` |
 | `docs/NANO_WORKFLOW_RESEARCH.md` | 19300 | `703991b687a1ebd037dffff68e9c9a34672c851541abad4a9861aad4c486f59d` |
