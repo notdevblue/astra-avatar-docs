@@ -14,8 +14,8 @@
 | `PROGRESS.md` | 21814 | `af835fe4f6d430c4fb0b73988834ef178c9739bf084f64bc7cd46ac103d97bf3` |
 | `README.md` | 36091 | `445da35305c2d686a3e8628bfaf9370a2d871c39ea20fb8099a6f4778dac2d85` |
 | `SHARING.md` | 15770 | `0f418737046085336bca165f81cf603993f26d5fe0f23e79f0bb153cc5a9d766` |
-| `STAGES.md` | 28277 | `94addc1ebbb1df42e26b84bcbb46439702bf3419cd5c36dff5ec3129287842b1` |
-| `STATUS.md` | 17609 | `1a1e38c20da20490dabbe3d944615149b8de85a40919673ce699ac60d9066ed0` |
+| `STAGES.md` | 28423 | `e59d1459bb26a5dc72c352ca7019c77f2ccc264f17181ec89b13c34910515a30` |
+| `STATUS.md` | 17835 | `c85a59220e4992df9c71971ee1e23480a5f6d9d5eb25d300981a01ec03faa45d` |
 | `avatar_modeling/v001_inspection/REVIEW.md` | 8117 | `620d9818f22eb42f1385752d012abbcba765dbc37f01f303531355f82eae8918` |
 | `avatar_modeling/v001_inspection/rig_trial/01_arms_raised.png` | 664846 | `8826ebeeef920de97836773476767f2d92e290725fdccef45700bdf63be87acb` |
 | `avatar_modeling/v002_refine/05_arms_raised.png` | 649841 | `205a5b29a2063e2ad60fa5741b894e3431f862079893417434d0bed6acbabc5f` |
@@ -793,3 +793,4 @@
 | `avatar_modeling/v186_review_bundle/FRESH_IMPORT.png` | 195118 | `1f3dbe8925d0f28b93874f7b4824a6cf10799d297f3e6b7dd9fe31955e492618` |
 | `avatar_modeling/v186_review_bundle/START_HERE.md` | 4400 | `91f482a8fb23f976f4a4daf6ed811a2dba3426a36411c85c4d8a447a9fd6dd8e` |
 | `docs/NANO_WORKFLOW_RESEARCH.md` | 19300 | `703991b687a1ebd037dffff68e9c9a34672c851541abad4a9861aad4c486f59d` |
+| `docs/VRCHAT_MAC_SETUP.md` | 1632 | `91883264cad86827b9b540b597125a678b48cc5ca0ebd5a904fd1ce045bff6c0` |

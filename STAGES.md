@@ -234,3 +234,5 @@
 [초기 제작 워크플로 조사](docs/NANO_WORKFLOW_RESEARCH.md)는 당시 검토한 선택지를 담은 역사 기록입니다. 현재 실행 방침과 구분해 읽어 주세요.
 
 [README로 돌아가기](README.md) · [상태·결정 이력](STATUS.md) · [공유 범위](SHARING.md)
+
+환경 준비 보충: [Mac용 VRChat SDK 프로젝트](docs/VRCHAT_MAC_SETUP.md). 모델 단계와 별도인 설치·첫 실행 기록입니다.
