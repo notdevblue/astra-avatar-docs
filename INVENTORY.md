@@ -11,10 +11,11 @@
 | 파일 | 바이트 | SHA-256 |
 |---|---:|---|
 | `.gitignore` | 120 | `e1a9d489cc271e1e8036508c1fc40b68cb7e1eb006e647a30964452f11d5e743` |
-| `README.md` | 14606 | `4692ace58d59710d2f50c263c2eb1d6546a1b62775b05a082dec3f4083cb8816` |
-| `SHARING.md` | 15586 | `6f55821666488ff305b0a3f79b89e360beb3d752eebd1616970469389c6ff5e9` |
-| `STAGES.md` | 28139 | `f45ad534efe8aebca0cacd8f0eed025d11b2781276d85ae33044ec2c12c1e382` |
-| `STATUS.md` | 17425 | `09ea5f3662cc755553ac2f10bf3b6290f5b37ffcc0220abce686575920f20480` |
+| `PROGRESS.md` | 21814 | `af835fe4f6d430c4fb0b73988834ef178c9739bf084f64bc7cd46ac103d97bf3` |
+| `README.md` | 36091 | `445da35305c2d686a3e8628bfaf9370a2d871c39ea20fb8099a6f4778dac2d85` |
+| `SHARING.md` | 15770 | `0f418737046085336bca165f81cf603993f26d5fe0f23e79f0bb153cc5a9d766` |
+| `STAGES.md` | 28277 | `94addc1ebbb1df42e26b84bcbb46439702bf3419cd5c36dff5ec3129287842b1` |
+| `STATUS.md` | 17609 | `1a1e38c20da20490dabbe3d944615149b8de85a40919673ce699ac60d9066ed0` |
 | `avatar_modeling/v001_inspection/REVIEW.md` | 8117 | `620d9818f22eb42f1385752d012abbcba765dbc37f01f303531355f82eae8918` |
 | `avatar_modeling/v001_inspection/rig_trial/01_arms_raised.png` | 664846 | `8826ebeeef920de97836773476767f2d92e290725fdccef45700bdf63be87acb` |
 | `avatar_modeling/v002_refine/05_arms_raised.png` | 649841 | `205a5b29a2063e2ad60fa5741b894e3431f862079893417434d0bed6acbabc5f` |
