@@ -1,5 +1,9 @@
 # 원형을 보존하며 실시간 아바타 만들기
 
+2026-09-11 누락 기록을 보충했습니다. **이번 공유 기준은 [v186 통합 검토](avatar_modeling/v186_review_bundle/START_HERE.md)**이며, 오늘 검수가 끝난 v153–v186과 그 전에 빠졌던 v120–v152를 함께 수록했습니다. **현재 진행 중인 v187 이후는 이번 공유에서 제외했습니다.** 아래 이전 기록의 “작업 중”, “최신”은 각 단계 당시 상태이며 후속 검토 결과를 함께 읽어 주세요.
+
+카라·헤어·소매 개선과 코트 분리, Unity 자동 보정·Humanoid 수정, 실제 Editor 성능 비교, 기존 면10곳의 후속 검증을 담았습니다. 어깨·겨드랑이·골반·손의 잔여 문제와 미채택 실험도 표시했습니다. 전체 아바타 완성이나 실제 VRChat 클라이언트 검증 완료를 뜻하지 않습니다.
+
 2026-09-10 **[v119 옷 늘어남 후속 종합 검수](avatar_modeling/v119_garment_review/START_HERE.md)**를 추가했습니다. 옷의 방향별 늘어남까지 측정하고 기존 코트 정점의 넓은 옆들기 보정만 선별했습니다. 옆들기120 명령에서 2배 초과 넓이는9.965%→8.192%로 줄었지만, 가벼운 늘어남과 일부 눌림이 주변으로 분산되는 한계가 있습니다. 앞들기·큰 몸통 비틀림·옷 전체 형태 완료는 아닙니다. 새542·전신1377·저장동작601의 해당 검사에서 추가 경고0, 원형·무릎·웨이트·UV 유지, Unity/VRChat 자동 구동은 미검증입니다. v109–v119의 조사·실패·범위 제한·전후 그림을 한 문서에 모았으며 사용자 채택 전 검수 후보입니다. 아래는 각 이전 시점의 기록입니다.
 
 2026-09-10 **[v108 연속 수정 종합 검수](avatar_modeling/v108_review_delivery/START_HERE.md)**를 추가했습니다. v089에 기존 소매 정점의 양쪽 옆 들기 보정2개를 더했습니다. 원래 기하·UV·웨이트·102본과 v038 SMALL 무릎을 유지하며, 새 난수500+기본30·전신1377·저장 동작601에서 새 면적/접촉 경고0을 확인했습니다. 함몰은 부분 완화됐고 큰 접힘·앞 들기·Unity 자동 구동·PhysBone은 남습니다. 앞 들기 v107 실험은 미통합입니다. v098–v108의 성공·실패와 비교 그림을 한 문서에 모았으며, 아래는 각 이전 시점의 기록입니다.
@@ -207,3 +211,75 @@
 | v117 | [몸통 복합 회전의 한계](avatar_modeling/v117_garment_review/START_HERE.md) |
 | v118 | [몸통 조건·드라이버 검증](avatar_modeling/v118_garment_review/START_HERE.md) |
 | v119 | [모델·비교·동작·남은 옷 문제 종합](avatar_modeling/v119_garment_review/START_HERE.md) |
+
+## v120–v186 누락 보충 기록
+
+| 단계 | 문서 |
+|---|---|
+| v120 | [앞뒤 회전 경로 진단](avatar_modeling/v120_front_axis/REVIEW.md) |
+| v121 | [팔 앞뒤 회전축 검수](avatar_modeling/v121_arm_controls/START_HERE.md) |
+| v122 | [앞들기 수축 보간 진단](avatar_modeling/v122_forward_surface/REVIEW.md) |
+| v123 | [기존 코트의 자기 충돌 포함 물리 목표 실험](avatar_modeling/v123_cloth_targets/REVIEW.md) |
+| v124 | [원단 계산에서 얻은 앞들기 보정 목표 선별](avatar_modeling/v124_front_guard/REVIEW.md) |
+| v125 | [앞들기 자동 보정 시험, 통합 보류](avatar_modeling/v125_front_pose/REVIEW.md) |
+| v126 | [앞으로 드는 팔의 관절 중심·쇄골·웨이트 점검](avatar_modeling/v126_shoulder_audit/START_HERE.md) |
+| v127 | [관절 깊이와 코트 웨이트 결합 시험](avatar_modeling/v127_shoulder_trials/REVIEW.md) |
+| v128 | [기존 옆·뒤 표면을 목표로 한 웨이트 적합](avatar_modeling/v128_shoulder_fit/REVIEW.md) |
+| v129 | [앞들기에서만 적용하는 코트 경계 보정](avatar_modeling/v129_front_boundary/REVIEW.md) |
+| v130 | [앞들기 경계 보정의 회귀 면 보호](avatar_modeling/v130_boundary_guard/REVIEW.md) |
+| v131 | [저장 모션에서 추가 회귀 발견](avatar_modeling/v131_shoulder_review/REVIEW.md) |
+| v132 | [어깨 전진 동작 수정과 코트 경계 보정 검수](avatar_modeling/v132_shoulder_review/START_HERE.md) |
+| v133 | [표면 세부 운반 목표 6종](avatar_modeling/v133_surface_transport/REVIEW.md) |
+| v134 | [앞들기 표면 보정의 적용 범위 제한](avatar_modeling/v134_transport_keys/REVIEW.md) |
+| v135 | [소매 찌그러짐 추가 보정 검수](avatar_modeling/v135_transport_review/START_HERE.md) |
+| v136 | [기본/앞/뒤 어깨 폭 진단](avatar_modeling/v136_shoulder_width/REVIEW.md) |
+| v137 | [앞90/뒤35 폭 보정과 적용 제한](avatar_modeling/v137_width_correction/REVIEW.md) |
+| v138 | [앞뒤 팔 동작의 어깨 폭 비교·수정](avatar_modeling/v138_width_review/START_HERE.md) |
+| v139 | [팔 앞뒤 동작의 끊긴 선·텍스처·음영 원인 진단](avatar_modeling/v139_seam_diagnosis/START_HERE.md) |
+| v140 | [어깨의 각진 음영 정리](avatar_modeling/v140_shading_fix/REVIEW.md) |
+| v141 | [어깨에 그려진 검은 띠 국소 보정](avatar_modeling/v141_texture_fix/REVIEW.md) |
+| v142 | [겨드랑이 압축 면 국소 복원 실험](avatar_modeling/v142_fold_trials/REVIEW.md) |
+| v143 | [텍스처 UV 여백 보완 비교안](avatar_modeling/v143_seam_review/START_HERE.md) |
+| v144 | [정장 어깨선을 유지하면서 변형 원인 확인](avatar_modeling/v144_seam_transport/START_HERE.md) |
+| v145 | [중간 실험 — 후속 검수는 v146](avatar_modeling/v145_seam_review/START_HERE.md) |
+| v146 | [정장 어깨선 보존·변형·대각선 검수](avatar_modeling/v146_seam_topology/START_HERE.md) |
+| v147 | [팔 전방 거상에서 어깨가 납작해지는 원인](avatar_modeling/v147_shoulder_volume/START_HERE.md) |
+| v148 | [소매산 두께와 회전 억제 비교 실험](avatar_modeling/v148_volume_trials/START_HERE.md) |
+| v149 | [연속 두께 복원과 접촉 제한 실험](avatar_modeling/v149_volume_fit/START_HERE.md) |
+| v150 | [면 고정 방식의 검증과 미채택](avatar_modeling/v150_volume_review/START_HERE.md) |
+| v151 | [부피 복원 후보의 중간 검증](avatar_modeling/v151_volume_review/START_HERE.md) |
+| v152 | [팔을 앞으로 뻗을 때 어깨 두께 복원](avatar_modeling/v152_volume_review/START_HERE.md) |
+| v153 | [Lapwing 구매 아바타 구조 조사](avatar_modeling/v153_lapwing_reference/START_HERE.md) |
+| v154 | [어깨 지지 본·단계 회전 비교, 미채택](avatar_modeling/v154_shoulder_support/START_HERE.md) |
+| v155 | [다자세 웨이트 맞춤, 미채택](avatar_modeling/v155_weight_fit/START_HERE.md) |
+| v156 | [비앙카·Lapwing·SiuSiu 구조 비교](avatar_modeling/v156_three_avatar_comparison/START_HERE.md) |
+| v157 | [Lapwing·SiuSiu 관절을 실제로 움직여 비교](avatar_modeling/v157_reference_pose/START_HERE.md) |
+| v158 | [카라·헤어·의상 물리 조사와 적용 계획](avatar_modeling/v158_dynamics_research/RESEARCH.md) |
+| v159 | [카라·라펠이 팔에 끌리는 현상 완화](avatar_modeling/v159_collar_support/START_HERE.md) |
+| v160 | [원래 헤어 형태를 보존하는 PhysBone 준비와 실제 Unity 검사](avatar_modeling/v160_hair_dynamics/START_HERE.md) |
+| v161 | [카라·헤어 통합 및 코트 객체 분리](avatar_modeling/v161_separate_coat/START_HERE.md) |
+| v162 | [전완 Twist 분산 실험, 통합 보류](avatar_modeling/v162_forearm_twist/START_HERE.md) |
+| v163 | [비앙카 v163 — 이번 작업 한 번에 확인하기](avatar_modeling/v163_review_bundle/START_HERE.md) |
+| v164 | [비앙카 관절·의상·Unity 통합 조사와 실행 계획](avatar_modeling/v164_integration_research/RESEARCH_AND_PLAN.md) |
+| v165 | [손목과 정장 소매 끝의 회전 역할 분리](avatar_modeling/v165_cuff_roles/START_HERE.md) |
+| v166 | [어깨 국소 변형 실험, 아직 미채택](avatar_modeling/v166_shoulder_local/START_HERE.md) |
+| v167 | [Unity PC 통합·실제 SDK 초기 검증 이력](avatar_modeling/v167_unity_integration/START_HERE.md) |
+| v168 | [고정 삼각면 비교, 아직 미채택](avatar_modeling/v168_fixed_coat/START_HERE.md) |
+| v169 | [원래 오목한 주름을 채우는 국소 실험, 미채택](avatar_modeling/v169_rest_fold/START_HERE.md) |
+| v170 | [자동 보정·바람·Humanoid 통합 검사와 후속 결과](avatar_modeling/v170_runtime_validation/START_HERE.md) |
+| v171 | [기존 어깨 면 연결 회전, 별도 실험](avatar_modeling/v171_edge_flow/START_HERE.md) |
+| v172 | [기존 두 면 연결만 수정한 후보](avatar_modeling/v172_local_topology/START_HERE.md) |
+| v173 | [자동 보정 계산 단계 축소](avatar_modeling/v173_fast_correctives/START_HERE.md) |
+| v174 | [연속 통합 시험과 새로 발견한 결함](avatar_modeling/v174_continuous_qa/START_HERE.md) |
+| v175 | [실제 Humanoid 기준 자세·손가락 매핑 수정](avatar_modeling/v175_humanoid_reference/START_HERE.md) |
+| v176 | [검증된 코트 연결을 Unity에 반영](avatar_modeling/v176_unity_surface/START_HERE.md) |
+| v177 | [lilToon Soft 검토 재질 채택](avatar_modeling/v177_material_review/START_HERE.md) |
+| v178 | [동작 중 오목한 홈 완화, 세 후보 미채택](avatar_modeling/v178_pose_fold/START_HERE.md) |
+| v179 | [기존 지지선 추가 시험, 미채택](avatar_modeling/v179_joint_support_cuts/START_HERE.md) |
+| v180 | [비앙카 통합 검토 v180](avatar_modeling/v180_integrated_review/START_HERE.md) |
+| v181 | [미해결 경고의 부위 분류](avatar_modeling/v181_joint_localization/START_HERE.md) |
+| v182 | [골반 지지 후보 — 미채택](avatar_modeling/v182_pelvis_weights/START_HERE.md) |
+| v183 | [어깨 국소 웨이트 최적화 — 미채택](avatar_modeling/v183_shoulder_local_weights/START_HERE.md) |
+| v184 | [기존 면의 삼각 분할 수정 — 최종10곳 반영](avatar_modeling/v184_body_diagonals/START_HERE.md) |
+| v185 | [인접 손 삼각면 연결 후보 — 미채택](avatar_modeling/v185_web_edgeflow/START_HERE.md) |
+| v186 | [이번 개선을 한 번에 확인](avatar_modeling/v186_review_bundle/START_HERE.md) |
