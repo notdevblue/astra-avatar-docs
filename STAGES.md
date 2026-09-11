@@ -254,3 +254,9 @@ v187–v256 모델 단계 전체를 이번 보충에 포함했다는 뜻은 아�
 | v275 | [정지 수정의 동작 재검증](avatar_modeling/v275_rest_repair_validation/START_HERE.md) | 회귀를 확인해 미채택 |
 
 v258–v274 전체 기록이나 v276 이후 진행 중 작업을 포함한 것은 아닙니다.
+
+## Mac 선별 보충 · v295
+
+| 단계 | 먼저 읽을 문서 | 상태 |
+|---|---|---|
+| v295 | [v295 소매 부피와 실제 스키닝 검수](avatar_modeling/v295_pose_target_skinning/README.md) |20자세 명시적 키 스키닝 검증, 자동 전환·접촉 미완료 |

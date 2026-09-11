@@ -1,5 +1,7 @@
 # 공유본의 최신 상태
 
+2026-09-12 선별 보충: [v295 소매 부피와 실제 스키닝 검수](avatar_modeling/v295_pose_target_skinning/README.md)를 추가했습니다. 앞30도 중앙 두께 손실을 수정하고20자세를 실제 Unity 스키닝으로 대조했습니다. 자동 보정 전환과 몸 접촉은 남아 미채택입니다. 모델·원시자료·코드는 공유하지 않으며 기존 종합 범위와 구분합니다.
+
 2026-09-12 선별 보충: [v273 원래 코트 겹면 분리](avatar_modeling/v273_neutral_layer_repair/START_HERE.md)와 [v275 동작 회귀 검증](avatar_modeling/v275_rest_repair_validation/START_HERE.md)을 추가했습니다. 정지 자세의 자기 교차는 해결했지만 동작 회귀 때문에 미채택입니다. v187 이후 전체 작업이나 아바타 완성본을 공유한 것이 아닙니다.
 
 2026-09-11 별도 환경 준비: [Mac용 VRChat SDK 프로젝트](docs/VRCHAT_MAC_SETUP.md)의 첫 실행과 SDK 제어판을 확인했습니다. 아바타 모델의 공유 범위·채택 상태는 바뀌지 않았습니다.
