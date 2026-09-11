@@ -244,3 +244,13 @@
 | v257 | [v257 Mac 재현 검증](avatar_modeling/v257_mac_reproduction/START_HERE.md) | 환경·재현 완료, 관절 수정 완료 아님 |
 
 v187–v256 모델 단계 전체를 이번 보충에 포함했다는 뜻은 아닙니다.
+
+
+## v273·v275 · 근본 원인 수정과 회귀 검증 보충
+
+| 단계 | 먼저 읽을 문서 | 상태 |
+|---|---|---|
+| v273 | [원래 코트 겹면 분리](avatar_modeling/v273_neutral_layer_repair/START_HERE.md) | 정지 자세 통과, 동작 회귀로 미채택 |
+| v275 | [정지 수정의 동작 재검증](avatar_modeling/v275_rest_repair_validation/START_HERE.md) | 회귀를 확인해 미채택 |
+
+v258–v274 전체 기록이나 v276 이후 진행 중 작업을 포함한 것은 아닙니다.
