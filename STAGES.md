@@ -267,3 +267,12 @@ v258–v274 전체 기록이나 v276 이후 진행 중 작업을 포함한 것�
 | 단계 | 먼저 읽을 문서 | 상태 |
 |---|---|---|
 | v308 | [부피 계산 수정과 형상 재검수](avatar_modeling/v308_smooth_local_contact/README.md) | 계산 원인 분리·기본 두께 확인, 복합 접힘/접촉 미해결·미채택 |
+
+
+## Mac 선별 보충 · v315–v318
+
+| 단계 | 먼저 읽을 문서 | 상태 |
+|---|---|---|
+| v315 | [원형 주름과 두께 키 분리](avatar_modeling/v315_volume_key_audit/README.md) | 원래 주름/새 변형 분리, 미채택 |
+| v316 | [부피와 면 길이 검수](avatar_modeling/v316_volume_shape_balance/README.md) | 늘어남 감소·셔츠 접촉 회귀, 미채택 |
+| v318 | [안쪽 셔츠 분리 조건](avatar_modeling/v318_inner_shirt_clearance/README.md) | 선택 제약 불성립, 모델 미적용 |

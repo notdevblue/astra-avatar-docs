@@ -4,18 +4,21 @@
 
 문서의 비공개 작업 파일 링크는 미포함 표기로 바꾸고 로컬 설치 경로를 생략했습니다.
 
-- 원문 Markdown: 263개
-- 본문 비교 이미지: 514개
+- 원문 Markdown: 274개
+- 본문 비교 이미지: 522개
 - 아래 SHA-256은 공유본 내용 기준입니다. 기존 저장소의 Git 이력은 포함하지 않습니다.
 
 | 파일 | 바이트 | SHA-256 |
 |---|---:|---|
 | `.gitignore` | 120 | `e1a9d489cc271e1e8036508c1fc40b68cb7e1eb006e647a30964452f11d5e743` |
-| `PROGRESS.md` | 23965 | `65e8312d615780e9d3318b60dcabaca4423c01bcbc07eed6704f6cb18d0fa541` |
-| `README.md` | 38684 | `4666258ffefe4337d50a4e950b55e1a8f223e7a6dd999073a8936bded9b42c66` |
-| `SHARING.md` | 17504 | `b94e400a8a07497554cd762c193e9a28483e25f98ef17a95aead9c6ad491d4d6` |
-| `STAGES.md` | 29815 | `6002dbac233b5537a2d27d818c32e433e7ded9867aa351b87bbe0b6a1686ef81` |
-| `STATUS.md` | 19722 | `5b393911c0a9ea1ee83f9d051f9faa13b60e880bb275a4a400b7f35a756c59f9` |
+| `PROGRESS.md` | 24626 | `f4b550f36f81557955ab28eb2f168606b0177459985c0cb7efa5b1a695e22845` |
+| `README.md` | 39345 | `3ac09fcfe05cfd08d66c22523d9b0cf2f8573a13113a8c918650ca87a6634d3a` |
+| `SHARING.md` | 18246 | `c1182bd366a75d4db34212fc436e62e430dd95ddc9d72a00d037107f35fe2078` |
+| `STAGES.md` | 30338 | `a9ffd7f48a1ba9b3287ee37a259433114b553704582721c0ee7a0683a84eadb0` |
+| `STATUS.md` | 20464 | `478d7f33beb1e8b7cf307c6c5b35d33ad9de115b13ecfc60620cac92983fee8f` |
+| `SUPPLEMENT_v257_mac_reproduction.md` | 596 | `d019209f30685c68601b979a6145db3aaefc06748c7663ee6ce27fc5d05ffd6a` |
+| `SUPPLEMENT_v308_smooth_local_contact.md` | 1075 | `d9d6feba6e320a3885b0510b8652e853cc85e58ac76521036ffb410a53689c6c` |
+| `SUPPLEMENT_v315_volume_key_audit_v316_volume_shape_balance_v318_inner_shirt_clearance.md` | 1630 | `4b01dc7c050191b66e2f0dd0feeeb5fbd550089f33fc12d4991c2e7fcb057610` |
 | `avatar_modeling/v001_inspection/REVIEW.md` | 8117 | `620d9818f22eb42f1385752d012abbcba765dbc37f01f303531355f82eae8918` |
 | `avatar_modeling/v001_inspection/rig_trial/01_arms_raised.png` | 664846 | `8826ebeeef920de97836773476767f2d92e290725fdccef45700bdf63be87acb` |
 | `avatar_modeling/v002_refine/05_arms_raised.png` | 649841 | `205a5b29a2063e2ad60fa5741b894e3431f862079893417434d0bed6acbabc5f` |
@@ -792,14 +795,18 @@
 | `avatar_modeling/v185_web_edgeflow/START_HERE.md` | 1057 | `f8ce51cb5979330a2f8145429c5f2473828aa34838508aa08094e9c1f2c2e05f` |
 | `avatar_modeling/v186_review_bundle/FRESH_IMPORT.png` | 195118 | `1f3dbe8925d0f28b93874f7b4824a6cf10799d297f3e6b7dd9fe31955e492618` |
 | `avatar_modeling/v186_review_bundle/START_HERE.md` | 4400 | `91f482a8fb23f976f4a4daf6ed811a2dba3426a36411c85c4d8a447a9fd6dd8e` |
-| `docs/NANO_WORKFLOW_RESEARCH.md` | 19300 | `703991b687a1ebd037dffff68e9c9a34672c851541abad4a9861aad4c486f59d` |
-| `docs/VRCHAT_MAC_SETUP.md` | 1632 | `91883264cad86827b9b540b597125a678b48cc5ca0ebd5a904fd1ce045bff6c0` |
-
 | `avatar_modeling/v257_mac_reproduction/START_HERE.md` | 3588 | `cae8a26dafe8eb2a00867ee12888e58b4f29de6ff3498e2536d1cd5018fb4aca` |
-| `SUPPLEMENT_v257_mac_reproduction.md` | 596 | `d019209f30685c68601b979a6145db3aaefc06748c7663ee6ce27fc5d05ffd6a` |
-
-| `SUPPLEMENT_v308_smooth_local_contact.md` | 1075 | `d9d6feba6e320a3885b0510b8652e853cc85e58ac76521036ffb410a53689c6c` |
 | `avatar_modeling/v308_smooth_local_contact/README.md` | 5981 | `e2144f1cbf545444df1b48199085e2902f32e4afd972d3738d22770135273ffa` |
 | `avatar_modeling/v308_smooth_local_contact/actual_images/1_V308_CLAY_V2.png` | 358675 | `e550ab74ab0beb2f579a0c32c24791bcaed074f9f9bc6b9f58de6dd678a1f734` |
 | `avatar_modeling/v308_smooth_local_contact/actual_images/571_V308_CLAY_V0.png` | 448554 | `6ce5b6e1daca5209a4cdc20a1562b78fd09c5097105039bf96f298dc4d2f6364` |
 | `avatar_modeling/v308_smooth_local_contact/actual_images/9_V308_CLAY_V3.png` | 356714 | `abee611d726264e8bde5098b460dc58a9c4f157d8f308d94c41c34a379f347f0` |
+| `avatar_modeling/v315_volume_key_audit/README.md` | 2899 | `793400ab10b68042d5e5754de48b860476320eb7706ab6e5b0f84a9e40ec9ae3` |
+| `avatar_modeling/v315_volume_key_audit/actual_images/0_BASE_V0.png` | 568247 | `eb8f560574f9b1070e833816527e1a246264a8aadf2fb4a22ad3f18a34ff6422` |
+| `avatar_modeling/v315_volume_key_audit/actual_images/571_BASE_V0.png` | 523590 | `025881748c8516e3d0ac49099bd362500bbc34a19e480a149297fe4993135410` |
+| `avatar_modeling/v315_volume_key_audit/actual_images/571_NO_VOLUME_V0.png` | 523497 | `5c449f41b040104ce8a4bdbf940609448e951544c0fc23b7bbc435e4e43a3c64` |
+| `avatar_modeling/v316_volume_shape_balance/README.md` | 1756 | `6f7c82bc492b7a6789f8f088af5bdfbf768883ffe89e7c3f18e871920186cb30` |
+| `avatar_modeling/v316_volume_shape_balance/actual_images/571_M30_V0.png` | 527446 | `cf8dcf78af4a2b3c0a5193ab7a46c482a0493d7bc5f6f588a996eee2dcadaa21` |
+| `avatar_modeling/v316_volume_shape_balance/actual_images/571_M30_V3.png` | 405806 | `f7e8ad1d4569ae3942c617471b0a75c7c945f6b9044a05ed9d23f671d6498700` |
+| `avatar_modeling/v318_inner_shirt_clearance/README.md` | 1542 | `ec05bfaf3cebfc4051bc5f930f9915661e0b3a4484663b2754e42af5778ef5e1` |
+| `docs/NANO_WORKFLOW_RESEARCH.md` | 19300 | `703991b687a1ebd037dffff68e9c9a34672c851541abad4a9861aad4c486f59d` |
+| `docs/VRCHAT_MAC_SETUP.md` | 1632 | `91883264cad86827b9b540b597125a678b48cc5ca0ebd5a904fd1ce045bff6c0` |
