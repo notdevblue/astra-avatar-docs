@@ -11,11 +11,11 @@
 | 파일 | 바이트 | SHA-256 |
 |---|---:|---|
 | `.gitignore` | 120 | `e1a9d489cc271e1e8036508c1fc40b68cb7e1eb006e647a30964452f11d5e743` |
-| `PROGRESS.md` | 23483 | `edaa6808ba109f4272f09a3ed9de6b19b79a36b6b15ce482dc0eaf76154721bd` |
-| `README.md` | 38203 | `bcfad3256faba8f853b2bf4d97f2fdfc29676bab916e9ddb8381f726c857d1e3` |
-| `SHARING.md` | 16900 | `9583e176b7cc2b723e88c93d15a6536cabc691af5ef75527060da45d1e2f9533` |
-| `STAGES.md` | 29531 | `cfb023acfbf7129a09a367cea59d488e1e09400dae2741e1c099a898635b61a8` |
-| `STATUS.md` | 19118 | `bab1787374564248e134b4ffb2b273e32cdf5950052d5e7da0764d394e22c168` |
+| `PROGRESS.md` | 23965 | `65e8312d615780e9d3318b60dcabaca4423c01bcbc07eed6704f6cb18d0fa541` |
+| `README.md` | 38684 | `4666258ffefe4337d50a4e950b55e1a8f223e7a6dd999073a8936bded9b42c66` |
+| `SHARING.md` | 17504 | `b94e400a8a07497554cd762c193e9a28483e25f98ef17a95aead9c6ad491d4d6` |
+| `STAGES.md` | 29815 | `6002dbac233b5537a2d27d818c32e433e7ded9867aa351b87bbe0b6a1686ef81` |
+| `STATUS.md` | 19722 | `5b393911c0a9ea1ee83f9d051f9faa13b60e880bb275a4a400b7f35a756c59f9` |
 | `avatar_modeling/v001_inspection/REVIEW.md` | 8117 | `620d9818f22eb42f1385752d012abbcba765dbc37f01f303531355f82eae8918` |
 | `avatar_modeling/v001_inspection/rig_trial/01_arms_raised.png` | 664846 | `8826ebeeef920de97836773476767f2d92e290725fdccef45700bdf63be87acb` |
 | `avatar_modeling/v002_refine/05_arms_raised.png` | 649841 | `205a5b29a2063e2ad60fa5741b894e3431f862079893417434d0bed6acbabc5f` |
@@ -797,3 +797,9 @@
 
 | `avatar_modeling/v257_mac_reproduction/START_HERE.md` | 3588 | `cae8a26dafe8eb2a00867ee12888e58b4f29de6ff3498e2536d1cd5018fb4aca` |
 | `SUPPLEMENT_v257_mac_reproduction.md` | 596 | `d019209f30685c68601b979a6145db3aaefc06748c7663ee6ce27fc5d05ffd6a` |
+
+| `SUPPLEMENT_v308_smooth_local_contact.md` | 1075 | `d9d6feba6e320a3885b0510b8652e853cc85e58ac76521036ffb410a53689c6c` |
+| `avatar_modeling/v308_smooth_local_contact/README.md` | 5981 | `e2144f1cbf545444df1b48199085e2902f32e4afd972d3738d22770135273ffa` |
+| `avatar_modeling/v308_smooth_local_contact/actual_images/1_V308_CLAY_V2.png` | 358675 | `e550ab74ab0beb2f579a0c32c24791bcaed074f9f9bc6b9f58de6dd678a1f734` |
+| `avatar_modeling/v308_smooth_local_contact/actual_images/571_V308_CLAY_V0.png` | 448554 | `6ce5b6e1daca5209a4cdc20a1562b78fd09c5097105039bf96f298dc4d2f6364` |
+| `avatar_modeling/v308_smooth_local_contact/actual_images/9_V308_CLAY_V3.png` | 356714 | `abee611d726264e8bde5098b460dc58a9c4f157d8f308d94c41c34a379f347f0` |
