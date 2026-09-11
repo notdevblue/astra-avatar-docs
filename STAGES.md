@@ -236,3 +236,11 @@
 [README로 돌아가기](README.md) · [상태·결정 이력](STATUS.md) · [공유 범위](SHARING.md)
 
 환경 준비 보충: [Mac용 VRChat SDK 프로젝트](docs/VRCHAT_MAC_SETUP.md). 모델 단계와 별도인 설치·첫 실행 기록입니다.
+
+## v257 · Mac 재현 검증 보충
+
+| 단계 | 먼저 읽을 문서 | 상태 |
+|---|---|---|
+| v257 | [v257 Mac 재현 검증](avatar_modeling/v257_mac_reproduction/START_HERE.md) | 환경·재현 완료, 관절 수정 완료 아님 |
+
+v187–v256 모델 단계 전체를 이번 보충에 포함했다는 뜻은 아닙니다.

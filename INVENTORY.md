@@ -11,11 +11,11 @@
 | 파일 | 바이트 | SHA-256 |
 |---|---:|---|
 | `.gitignore` | 120 | `e1a9d489cc271e1e8036508c1fc40b68cb7e1eb006e647a30964452f11d5e743` |
-| `PROGRESS.md` | 21814 | `af835fe4f6d430c4fb0b73988834ef178c9739bf084f64bc7cd46ac103d97bf3` |
-| `README.md` | 36091 | `445da35305c2d686a3e8628bfaf9370a2d871c39ea20fb8099a6f4778dac2d85` |
-| `SHARING.md` | 15770 | `0f418737046085336bca165f81cf603993f26d5fe0f23e79f0bb153cc5a9d766` |
-| `STAGES.md` | 28423 | `e59d1459bb26a5dc72c352ca7019c77f2ccc264f17181ec89b13c34910515a30` |
-| `STATUS.md` | 17835 | `c85a59220e4992df9c71971ee1e23480a5f6d9d5eb25d300981a01ec03faa45d` |
+| `PROGRESS.md` | 22227 | `884f8573e73c1949dbe9ba17c5dd5c388ebc8d0aeb11a00f87ea9aca104f1b76` |
+| `README.md` | 36453 | `5aba69428608bb12dacb9e632f2d3eb89e1c341fbf8f9be9ae942227ccbc6e08` |
+| `SHARING.md` | 16070 | `55a11b662891c66cddc995d88ff1d46f6c45d92bbc93884548945ee818434b16` |
+| `STAGES.md` | 28751 | `73e5f8972106c3fed8cef7ce4ccc8fb66250ca83b0d802865d17969eefaaadd5` |
+| `STATUS.md` | 18288 | `b23175df179b705527b16550fff62e79b8d168e48a30333f25dfbea1526d59e5` |
 | `avatar_modeling/v001_inspection/REVIEW.md` | 8117 | `620d9818f22eb42f1385752d012abbcba765dbc37f01f303531355f82eae8918` |
 | `avatar_modeling/v001_inspection/rig_trial/01_arms_raised.png` | 664846 | `8826ebeeef920de97836773476767f2d92e290725fdccef45700bdf63be87acb` |
 | `avatar_modeling/v002_refine/05_arms_raised.png` | 649841 | `205a5b29a2063e2ad60fa5741b894e3431f862079893417434d0bed6acbabc5f` |
@@ -794,3 +794,6 @@
 | `avatar_modeling/v186_review_bundle/START_HERE.md` | 4400 | `91f482a8fb23f976f4a4daf6ed811a2dba3426a36411c85c4d8a447a9fd6dd8e` |
 | `docs/NANO_WORKFLOW_RESEARCH.md` | 19300 | `703991b687a1ebd037dffff68e9c9a34672c851541abad4a9861aad4c486f59d` |
 | `docs/VRCHAT_MAC_SETUP.md` | 1632 | `91883264cad86827b9b540b597125a678b48cc5ca0ebd5a904fd1ce045bff6c0` |
+
+| `avatar_modeling/v257_mac_reproduction/START_HERE.md` | 3588 | `cae8a26dafe8eb2a00867ee12888e58b4f29de6ff3498e2536d1cd5018fb4aca` |
+| `SUPPLEMENT_v257_mac_reproduction.md` | 596 | `d019209f30685c68601b979a6145db3aaefc06748c7663ee6ce27fc5d05ffd6a` |

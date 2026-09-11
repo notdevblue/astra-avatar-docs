@@ -79,3 +79,7 @@ Unity는 본 작업 뒤로 미뤘습니다. 이번 단계에는 Unity/VRChat 실
 
 [최신 국소 통합 검수](avatar_modeling/v030_joint_checkpoint/REVIEW.md) · [손 비교](avatar_modeling/v027_hand_axis/REVIEW.md) · [고관절 회귀](avatar_modeling/v028_rotation_followup/REVIEW.md) · [무릎 비교](avatar_modeling/v029_knee_pivot/REVIEW.md) · [단계별 목차](README.md)
 
+
+## 2026-09-12 · Mac 재현 검증 보충
+
+[v257 Mac 재현 검증](avatar_modeling/v257_mac_reproduction/START_HERE.md)을 선별 추가했습니다. 인계6후보의 메시/본/재질 지문과 골반51·노멀239·손1275자세 재현을 확인했습니다. 새 관절 최종본을 채택한 단계는 아닙니다. 후속 근본 원인 수정은 진행 중이며, 검수 중 모델·원시 데이터·구매 모델은 공유하지 않았습니다.
