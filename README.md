@@ -1,3 +1,7 @@
+# SiuSiu VRM 추가 검수
+
+[v001 SiuSiu · iPhone / VMagicMirror](avatar_vrm/v001_siusiu/v001_VRM_REVIEW.md) — 실제표정31/52, 셰이더차이와Windows연결안내.
+
 # 비앙카: 원래 모습을 지키며 움직이는 아바타로
 
 **셰이더 실제 후보:** [v003 · 머리카락·피부·눈 4후보](avatar_shader/v003_surface_candidates/v003_SURFACE_REVIEW.md)와 [큰 얼굴·눈 사진](avatar_shader/v003_surface_candidates/v003_CANDIDATE_GALLERY.md)을 추가했다. B부드러움/C윤기/D따뜻함/E차분함, 의상 소재 유지·최종미채택.
