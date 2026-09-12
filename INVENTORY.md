@@ -4,18 +4,18 @@
 
 문서의 비공개 작업 파일 링크는 미포함 표기로 바꾸고 로컬 설치 경로를 생략했습니다.
 
-- 원문 Markdown: 338개
-- 본문 비교 이미지: 735개
+- 원문 Markdown: 343개
+- 본문 비교 이미지: 755개
 - 아래 SHA-256은 공유본 내용 기준입니다. 기존 저장소의 Git 이력은 포함하지 않습니다.
 
 | 파일 | 바이트 | SHA-256 |
 |---|---:|---|
 | `.gitignore` | 120 | `e1a9d489cc271e1e8036508c1fc40b68cb7e1eb006e647a30964452f11d5e743` |
-| `PROGRESS.md` | 34417 | `519a719a18775065626111adc13df9b7b034283ef2500fdbee211c90b04ed13f` |
-| `README.md` | 44941 | `741bc34d3124965ba6c22e4ee844d38b80f326a282a7729683eacf2141854216` |
-| `SHARING.md` | 28516 | `7a5e05719cef22ede5e55d437a91204cf1a1409429842cf97a7fbb435f84ec12` |
-| `STAGES.md` | 35964 | `214d5e3f0957498a3398e715f437577ba2b374e90f9a5fd00ee69e7461066da2` |
-| `STATUS.md` | 30382 | `6c5d576902e588e26d605f07b2d86353ada65275aff61cf1e8b2cff6f6e3941c` |
+| `PROGRESS.md` | 34824 | `ca7901a9f5d23f169773c1f011169db51b94649cec7215a45e7e8e359cba1b21` |
+| `README.md` | 44805 | `f28a18ea8aa0f164f0825e3874bfab03e1b175139ec25222f802467f77023c8d` |
+| `SHARING.md` | 28923 | `5db7f16b2a38b962c6f255d3e9f3eca8a702d3bfc205c2acc52ba305d3c864b0` |
+| `STAGES.md` | 36124 | `ee207fb6a483bf39a6cd38d9541d333518c3a35bb366ea9fc221000c52e19063` |
+| `STATUS.md` | 30789 | `aa7e089e1e4af506cbdf920d035f5c08203d11c2a1e7fe4103f93e7b94a473d4` |
 | `avatar_modeling/v001_inspection/REVIEW.md` | 8117 | `620d9818f22eb42f1385752d012abbcba765dbc37f01f303531355f82eae8918` |
 | `avatar_modeling/v001_inspection/rig_trial/01_arms_raised.png` | 664846 | `8826ebeeef920de97836773476767f2d92e290725fdccef45700bdf63be87acb` |
 | `avatar_modeling/v002_refine/05_arms_raised.png` | 649841 | `205a5b29a2063e2ad60fa5741b894e3431f862079893417434d0bed6acbabc5f` |
@@ -1059,6 +1059,30 @@
 | `avatar_modeling/v334_elbow_tip/images/v334_before_5_ELBOWS_FRONT.png` | 411184 | `e7a0b446b1ad9c5e7843fcd66e2e4f20215cdfac7347885593c1e52977024fb8` |
 | `avatar_modeling/v334_elbow_tip/images/v334_before_5_TIP_R_FRONT.png` | 118402 | `a8957da1f1967f919f9d7a8ede8bc57dc1f590d6d1465f77faf2daeb408226b5` |
 | `avatar_modeling/v334_elbow_tip/v334_TIP_REVIEW.md` | 6901 | `181a71f51f3d82506f5d9b943e92f67a6f4905139bfda897487f53a942af05a5` |
+| `avatar_modeling/v335_uv_texture_audit/README.md` | 829 | `d290c8e4e559fbd8bba968c592cbc51c4cf95964fb97c96896dbed7e03d7799c` |
+| `avatar_modeling/v335_uv_texture_audit/images/Bianca_FACE_BASE_ONLY.png` | 465162 | `4b5afd788150c22c56d23b47ef8dc797070c0a488cd427dc3acd479a9b685ce1` |
+| `avatar_modeling/v335_uv_texture_audit/images/Bianca_FACE_ORIGINAL.png` | 478734 | `53a2d2032a0fc5ca30db222c6944530611b1904751147caceb2ce29e05960df9` |
+| `avatar_modeling/v335_uv_texture_audit/images/Bianca_FEET_ORIGINAL.png` | 339277 | `82090988b2c42c12f53ffe59e3ceb0126cbba770908745904527ea1068949e01` |
+| `avatar_modeling/v335_uv_texture_audit/images/Bianca_FULL_ORIGINAL.png` | 194264 | `9d8a36e6c3c1785f34f7b431e6e4083cc9c020b12307d02720ccb7d99a1d3a80` |
+| `avatar_modeling/v335_uv_texture_audit/images/Bianca_TORSO_BASE_ONLY.png` | 399188 | `918f8ebbf142771af0066c87273dab74cc58d64ca32bf43b3566e29af31ef1b5` |
+| `avatar_modeling/v335_uv_texture_audit/images/Bianca_TORSO_ORIGINAL.png` | 417639 | `7e032eaee2afceb8220019187c5f298357ffb63ca17eb69ca51aad0259c05669` |
+| `avatar_modeling/v335_uv_texture_audit/images/Lapwing_FACE_BASE_ONLY.png` | 124297 | `a43a43b7d658e337a7d1cdac1a6765d65c2d31a49e102b30c276616d763b7d43` |
+| `avatar_modeling/v335_uv_texture_audit/images/Lapwing_FACE_ORIGINAL.png` | 152212 | `a960b541542fd66b351068345d5d8a132cb498cf0bd044c1782afd2a790215ab` |
+| `avatar_modeling/v335_uv_texture_audit/images/Lapwing_FEET_ORIGINAL.png` | 150812 | `8b5604dd037fedc8014db08826046caeebfd64438bde066498e4eb34a822b5b9` |
+| `avatar_modeling/v335_uv_texture_audit/images/Lapwing_FULL_ORIGINAL.png` | 100133 | `ea90a2d4f015dc9533f75869071f98725a817e09f7d35604d69d09ae8d32cd38` |
+| `avatar_modeling/v335_uv_texture_audit/images/Lapwing_TORSO_BASE_ONLY.png` | 136372 | `88f9b24a283131f7d3f7055fa4caf283a8b69c11dfcc5f08ff7e56a8b10aa5ee` |
+| `avatar_modeling/v335_uv_texture_audit/images/Lapwing_TORSO_ORIGINAL.png` | 157366 | `8b98fd366578ab43dc44c4af80eac5abdb35799261e8b2332906db5c5fe9258d` |
+| `avatar_modeling/v335_uv_texture_audit/images/SiuSiu_FACE_BASE_ONLY.png` | 169070 | `62e65632ebfee89ccd769430f3093f0b64f188853bab5f66c2e27e9fdefe7076` |
+| `avatar_modeling/v335_uv_texture_audit/images/SiuSiu_FACE_ORIGINAL.png` | 260306 | `0a5e490d455051608f91b1c7e6e14b099b5156867e2ef86221cc2f3bbbc8a784` |
+| `avatar_modeling/v335_uv_texture_audit/images/SiuSiu_FULL_ORIGINAL.png` | 160002 | `f4a146e0986e35e07de7f8d061042ec4ac96c159a98bebf8afc476c0327d65a5` |
+| `avatar_modeling/v335_uv_texture_audit/images/SiuSiu_TORSO_BASE_ONLY.png` | 155313 | `70cd7381b9c0ced4ea82feb9c0a6969e4d41f26782bb9ef953bd9138e70a49bf` |
+| `avatar_modeling/v335_uv_texture_audit/images/SiuSiu_TORSO_ORIGINAL.png` | 332504 | `be1e9592ef53223276f95471b874a5e0efa1408d6f9faddce7d80c6b4b997c7b` |
+| `avatar_modeling/v335_uv_texture_audit/images/v335_Bianca_UV.png` | 684765 | `727913336f88ef339e9582ee4bb56f07d2196a5789e1de657c681126cc009127` |
+| `avatar_modeling/v335_uv_texture_audit/images/v335_Lapwing_UV.png` | 1318112 | `22142af3c43d16cdd4abe48f3770acbcf2754444827eeabc76157803d86cf14a` |
+| `avatar_modeling/v335_uv_texture_audit/images/v335_SiuSiu_UV.png` | 740646 | `38967567e006f51ce4cf0dfff5c608ea356c896c28b8a3221c593c0fe0ce7912` |
+| `avatar_modeling/v335_uv_texture_audit/v335_GALLERY.md` | 2940 | `75d6221d30067802f946ed43989318dd040d98cdfdbfc72be0590da4fbaf82b2` |
+| `avatar_modeling/v335_uv_texture_audit/v335_IMPROVEMENT_PLAN.md` | 4418 | `5bd1d23ca32f2a52d9ee3721070fb75f82161acc492493ad9c1d1201fc22621b` |
+| `avatar_modeling/v335_uv_texture_audit/v335_UV_TEXTURE_REVIEW.md` | 9841 | `40b06e4c1ffdbd49a59657a6e603548a76cc81e69caf5cb3bdb5cb1be132c540` |
 | `docs/NANO_WORKFLOW_RESEARCH.md` | 19300 | `703991b687a1ebd037dffff68e9c9a34672c851541abad4a9861aad4c486f59d` |
 | `docs/VRCHAT_MAC_SETUP.md` | 1632 | `91883264cad86827b9b540b597125a678b48cc5ca0ebd5a904fd1ce045bff6c0` |
 | `v257_mac_reproduction_SUPPLEMENT.md` | 596 | `d019209f30685c68601b979a6145db3aaefc06748c7663ee6ce27fc5d05ffd6a` |
@@ -1084,3 +1108,4 @@
 | `v332_elbow_fold_SUPPLEMENT.md` | 3116 | `5af75ad905fdfbb64c3036c1e8c7aa7ef30153b0dc07b0df8d993c2a7430cd2a` |
 | `v333_elbow_contour_SUPPLEMENT.md` | 5704 | `2627215d5cf669ec9cb8758c42948458eb49100d7c06f252f21bac369a4e7538` |
 | `v334_elbow_tip_SUPPLEMENT.md` | 3164 | `4e3416c645d6890c293bb919481957e39b2dd2fe3e98da47ec27e8e679396f65` |
+| `v335_uv_texture_audit_SUPPLEMENT.md` | 4101 | `5c0b7f2ebfc9cfb1c2d0e035a1e0cbb8c3e03debe270f7c1089bf7395c7c3827` |

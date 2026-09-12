@@ -287,7 +287,7 @@ v258–v274 전체 기록이나 v276 이후 진행 중 작업을 포함한 것�
 | v316 | [부피와 면 길이 검수](avatar_modeling/v316_volume_shape_balance/README.md) | 늘어남 감소·셔츠 접촉 회귀, 미채택 |
 | v318 | [안쪽 셔츠 분리 조건](avatar_modeling/v318_inner_shirt_clearance/README.md) | 선택 제약 불성립, 모델 미적용 |
 
-## Mac 텍스처·전체 관절 검수 후속 · v319–v334
+## Mac 텍스처·전체 관절 검수 후속 · v319–v335
 
 | 단계 | 보고서 | 상태 |
 |---|---|---|
@@ -310,6 +310,8 @@ v258–v274 전체 기록이나 v276 이후 진행 중 작업을 포함한 것�
 | v333 | [팔꿈치 하단 패임·3버전 비교](avatar_modeling/v333_elbow_contour/v333_CONTOUR_REVIEW.md) | 새2키·24사진·미채택6사진, 기존형상/부피검사·작은각잔여 |
 
 | v334 | [오른쪽 팔꿈치 끝 미세 조정](avatar_modeling/v334_elbow_tip/v334_TIP_REVIEW.md) | 기존13점·16사진, 작은기울기변경·검수후보 |
+
+| v335 | [UV·텍스처 비교](avatar_modeling/v335_uv_texture_audit/v335_UV_TEXTURE_REVIEW.md) | 3모델·20그림, 국소 UV 전사 계획·모델수정0 |
 
 ## 셰이더 별도 작업
 
