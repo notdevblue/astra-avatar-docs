@@ -4,7 +4,7 @@
 
 문서의 비공개 작업 파일 링크는 미포함 표기로 바꾸고 로컬 설치 경로를 생략했습니다.
 
-- 원문 Markdown: 289개
+- 원문 Markdown: 290개
 - 본문 비교 이미지: 538개
 - 아래 SHA-256은 공유본 내용 기준입니다. 기존 저장소의 Git 이력은 포함하지 않습니다.
 
@@ -819,13 +819,14 @@
 | `avatar_modeling/v320_straight_arm/images/v320_BENT_SIDE.png` | 387464 | `73d8e0d7ebeb4645c726291737a9d1e4dbd484e635a21d427f4461626e4aba44` |
 | `avatar_modeling/v320_straight_arm/images/v320_STRAIGHT_FRONT.png` | 438550 | `adf52184eb1f72075a745d8b00820fb583bdcb701de13e76d9a4439d5ad11766` |
 | `avatar_modeling/v320_straight_arm/images/v320_STRAIGHT_SIDE.png` | 388905 | `d4ada06711677d0db79858e741062a8478b1ab62d3cd0b6224fc34f2d093227e` |
-| `avatar_modeling/v321_arm_curve_audit/README.md` | 7648 | `b7b727e27ef91c7ba0cf36e8cee49d21ca4d6d0f8004e73704d6ac2498b26f94` |
+| `avatar_modeling/v321_arm_curve_audit/README.md` | 8023 | `47316d93927b4349be5810c6adee6c992e194d26ca0344615e01b5a14a6e3707` |
 | `avatar_modeling/v321_arm_curve_audit/images/v321_BASE_STRAIGHT_FRONT.png` | 436264 | `c223e811af77304780347290f8a08e1fde62f0c8d0a49f856edd60f6fe5d6daf` |
 | `avatar_modeling/v321_arm_curve_audit/images/v321_BASE_STRAIGHT_SIDE.png` | 365431 | `57d2b7e91d6745f7ba35f01a3f54d66e9701a1115438570ac682c5a2f160c99f` |
 | `avatar_modeling/v321_arm_curve_audit/images/v321_CURRENT_STRAIGHT_FRONT.png` | 438550 | `adf52184eb1f72075a745d8b00820fb583bdcb701de13e76d9a4439d5ad11766` |
 | `avatar_modeling/v321_arm_curve_audit/images/v321_CURRENT_STRAIGHT_SIDE.png` | 365583 | `5ca0e08dca0b559d8805b76683692faeb813f279811c88b6dd73b7a9a811f014` |
 | `avatar_modeling/v321_arm_curve_audit/images/v321_NO_KEYS_STRAIGHT_SIDE.png` | 366285 | `6ad1ef5f00669678c4426ea17e9e8b87b1955d1bde1ae1cd9cdaf55d30f27446` |
 | `avatar_modeling/v321_arm_curve_audit/images/v321_SECTION_PROFILE.png` | 147868 | `6f236374d0894f0f9a89a31c4fea2abfc712493f4e1d531eb7c90bb411c70ce4` |
+| `avatar_modeling/v321_arm_curve_audit/v321_FEEDBACK.md` | 1779 | `41abf3029b81fc157d6a3f46b21b02c643403acceec5a97d75471fa11b309bdd` |
 | `docs/NANO_WORKFLOW_RESEARCH.md` | 19300 | `703991b687a1ebd037dffff68e9c9a34672c851541abad4a9861aad4c486f59d` |
 | `docs/VRCHAT_MAC_SETUP.md` | 1632 | `91883264cad86827b9b540b597125a678b48cc5ca0ebd5a904fd1ce045bff6c0` |
 | `v257_mac_reproduction_SUPPLEMENT.md` | 596 | `d019209f30685c68601b979a6145db3aaefc06748c7663ee6ce27fc5d05ffd6a` |
@@ -837,4 +838,4 @@
 | `v318_WORK_REVIEW.md` | 8273 | `ac740408d9f827b1b1e8ecd107e88d852275b3a656c9c3a98f3a28b4dec19bfb` |
 | `v319_issue_review_SUPPLEMENT.md` | 1633 | `349d281379f5de4415c9dfb97f8baf63a3b7f155e4c46cfa163063cf6df27e52` |
 | `v320_straight_arm_SUPPLEMENT.md` | 1174 | `79a7029ce7f5c5245d547437672d01c2130f342918445ac8045f004b3426eefd` |
-| `v321_arm_curve_audit_SUPPLEMENT.md` | 1535 | `2ab487d7b6c602a0bd7ffd716c0ad88e3e70257ba89a98814ade368bc33342e3` |
+| `v321_arm_curve_audit_SUPPLEMENT.md` | 1671 | `afeeb3254199dfe9b5823e7f0d8732ab4ce9aca8bfbc89d94e91c9ef606ad111` |
