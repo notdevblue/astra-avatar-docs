@@ -1,5 +1,7 @@
 # 공유 범위와 갱신
 
+2026-09-12 · [v333 팔꿈치 하단 각짐 재수정](avatar_modeling/v333_elbow_contour/v333_CONTOUR_REVIEW.md): 표면 평균화·원호·웨이트·기본 좌표 조정 등을 비교하고 중앙 패임을 채우는 보정을 선택했습니다. 원본 v324·직전 v332·수정 v333의 실제24사진과 실패6사진, 부피·교차 검사 기록을 공유합니다. 아래 V자 깊이 5.26/5.73→0.72/1.39mm, 실제23+추가40기록의 새 교차0. 작은 바깥 모서리·원래 주름 잔여, 강한모으기·큰비틀림은v332유지, ①보류·최종채택전입니다.
+
 **셰이더 실제 후보:** [v003 · 머리카락·피부·눈 4후보](avatar_shader/v003_surface_candidates/v003_SURFACE_REVIEW.md)와 [큰 얼굴·눈 사진](avatar_shader/v003_surface_candidates/v003_CANDIDATE_GALLERY.md)을 추가했다. B부드러움/C윤기/D따뜻함/E차분함, 의상 소재 유지·최종미채택.
 
 **소재별 적용 방향:** 사용자 지시에 따라 SiuSiu와 비앙카의 의상 소재 차이를 고려한 [v002 질감 조사](avatar_shader/v002_material_mapping/v002_MATERIAL_REVIEW.md)를 추가했다. 기존 사진 재검토·분류 한계·구현 순서이며 새 재질 적용은 아직 없다.
