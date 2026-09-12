@@ -315,6 +315,7 @@ v258–v274 전체 기록이나 v276 이후 진행 중 작업을 포함한 것�
 
 | v336 | [디테일 보존 UV·텍스처 재작업](avatar_modeling/v336_uv_detail_rework/v336_UV_TEXTURE_REVIEW.md) | 새UV/4K전사 후보·원래디테일보존·잔여왜곡 기록 |
 | v337 | [채색용 UV 작업본](avatar_modeling/v337_paintable_uv/v337_UV_WORK_REVIEW.md) | 541패널·작은204개·디테일 보존·마스크/사진 검수 |
+| v338 | [국소 텍스처 1차 검수](avatar_modeling/v338_local_texture/v338_TEXTURE_REVIEW.md) | 허벅지 손 흔적·신발 반점 정리, 셔츠 시험 미반영·후속 잔여 |
 
 ## 셰이더 별도 작업
 
