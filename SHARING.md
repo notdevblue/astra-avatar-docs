@@ -1,5 +1,7 @@
 # 공유 범위와 갱신
 
+2026-09-12 · [v325 全관절·본 검토](avatar_modeling/v325_full_rig_audit/v325_RIG_REVIEW.md): 현재 v324의 129본·86회전 채널·300정적 자세와 연속121표본을 검토했습니다. 기본 본 연결·웨이트는 통과했으나 어깨·소매, 골반·무릎, 손의 접힘 품질은 미완료입니다. 직접 확인한41장, [129본 점검표](avatar_modeling/v325_full_rig_audit/v325_BONE_TABLE.md), 부피·교차 검사 한계와 실패한 검사 시도를 기록했습니다. 원본 모델은 수정하지 않았습니다.
+
 2026-09-12 · [v324 기존 디테일 복원](avatar_modeling/v324_detail_restore/v324_DETAIL_REVIEW.md): 사용자 지적대로 v323에서 신발 장식·옷 주름·머릿결 명암이 과도하게 줄었습니다. 기존 v322 디테일과 UV 밀도를 복원하고 실제 오염 부위만 정리했습니다. 기하·부피·본·웨이트 보존, 3면 UV 이동, Unity UV용 복제점 1,649→10개. [숨은 표면 12그룹 사진](avatar_modeling/v324_detail_restore/v324_SURFACE_GALLERY.md)과 시도·미채택 이유를 함께 기록했습니다. 전체 모델 최종 채택은 아닙니다.
 
 2026-09-12 · [v323 가려진 표면 텍스처·새 UV](avatar_modeling/v323_hidden_texture_uv/v323_TEXTURE_UV_REVIEW.md): 코트 안쪽·옆다리·손·소매 등 원래 17,659면을 분류해 분리 검수하고 오염색을 정리했습니다. 새 UV 적용·겹침 수정과 원형 보존을 확인했으며, 작은 부품의 UV 늘어짐과 텍스처 비용 증가는 남아 별도 후보입니다. [전체 부위 사진](avatar_modeling/v323_hidden_texture_uv/v323_SURFACE_GALLERY.md)에서 전후를 볼 수 있습니다.
