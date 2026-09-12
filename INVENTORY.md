@@ -4,18 +4,18 @@
 
 문서의 비공개 작업 파일 링크는 미포함 표기로 바꾸고 로컬 설치 경로를 생략했습니다.
 
-- 원문 Markdown: 321개
-- 본문 비교 이미지: 654개
+- 원문 Markdown: 324개
+- 본문 비교 이미지: 666개
 - 아래 SHA-256은 공유본 내용 기준입니다. 기존 저장소의 Git 이력은 포함하지 않습니다.
 
 | 파일 | 바이트 | SHA-256 |
 |---|---:|---|
 | `.gitignore` | 120 | `e1a9d489cc271e1e8036508c1fc40b68cb7e1eb006e647a30964452f11d5e743` |
-| `PROGRESS.md` | 30095 | `6ce59df323f363058fcb9c10c752826913ec3e81695aa6bbc77f2011de355f1b` |
-| `README.md` | 42558 | `873e1b9c829cd4a27165489f9face7660f2bb96e8aef7c7b653f3adf5c775b52` |
-| `SHARING.md` | 24014 | `d4d4545cb970435340424d25a461fb7c2724a21975204530c98f9c60fc4a628e` |
-| `STAGES.md` | 33832 | `62f5efd7d421e7310e23979c01b98e9de2be84556fd7fe7160a1c89946fe7b66` |
-| `STATUS.md` | 25880 | `9f7254de42ce94470aa8dbf43f0540b2720acb222352214f9ff7a342ba822845` |
+| `PROGRESS.md` | 30611 | `e4dc68e9f43f92b3eb85997e5471db91d334fcfc9504020026da62f647b8239c` |
+| `README.md` | 42535 | `aea31469136813996215ae23d01cb36fc56888fc6bdb96018517cc76b742167c` |
+| `SHARING.md` | 24530 | `18579325380201b7e47cf5ae0c8a58d3a42ee8ce375dbd358cda292f94444112` |
+| `STAGES.md` | 34043 | `00152cfeb90056f2c5339c571c553a2f66bac71b94112b0635d8a1c3ab9774be` |
+| `STATUS.md` | 26396 | `4310a7008bd2d3c2258c92f8cf3fb90a83a3dac6d77f386968f57d23e2782e55` |
 | `avatar_modeling/v001_inspection/REVIEW.md` | 8117 | `620d9818f22eb42f1385752d012abbcba765dbc37f01f303531355f82eae8918` |
 | `avatar_modeling/v001_inspection/rig_trial/01_arms_raised.png` | 664846 | `8826ebeeef920de97836773476767f2d92e290725fdccef45700bdf63be87acb` |
 | `avatar_modeling/v002_refine/05_arms_raised.png` | 649841 | `205a5b29a2063e2ad60fa5741b894e3431f862079893417434d0bed6acbabc5f` |
@@ -966,6 +966,20 @@
 | `avatar_modeling/v329_siusiu_elbow/images/SiuSiu_Blazer_Fold_matched_SIDE_ORIGINAL.png` | 210497 | `8896892c91b228765e42a9844ffbe98d38e56a6efda9e25025311dd7f524aed0` |
 | `avatar_modeling/v329_siusiu_elbow/images/SiuSiu_Blazer_Neutral_matched_SIDE_ORIGINAL.png` | 204947 | `ba220eec1a4e0cd69c569f980d76b1d0abe33288e8d7bf661c0045aef067e89f` |
 | `avatar_modeling/v329_siusiu_elbow/v329_SIUSIU_COMPARISON.md` | 10444 | `f276dbefebe231dbe4e252d6f92ff9b811e7916aa439d3a385f10e7da3c21928` |
+| `avatar_modeling/v330_elbow_profile/README.md` | 1543 | `14b66fa9ac20d24673886a86b08922b391c28733fe14f0dc35bd05dfaaff5a01` |
+| `avatar_modeling/v330_elbow_profile/images/siusiu_fold_FRONT.png` | 329160 | `6465a10ed07dd281a949c03e42b05a1b26650428dd99dfaa8b967b9ad7b1aaa3` |
+| `avatar_modeling/v330_elbow_profile/images/siusiu_fold_SIDE.png` | 210497 | `8896892c91b228765e42a9844ffbe98d38e56a6efda9e25025311dd7f524aed0` |
+| `avatar_modeling/v330_elbow_profile/images/siusiu_gather_FRONT.png` | 271038 | `3868d833c978d73d758076983ca276b91cabda62b8a373399f9e678a162a5ca2` |
+| `avatar_modeling/v330_elbow_profile/images/siusiu_neutral_SIDE.png` | 204947 | `ba220eec1a4e0cd69c569f980d76b1d0abe33288e8d7bf661c0045aef067e89f` |
+| `avatar_modeling/v330_elbow_profile/images/v330_final_0_after_SIDE.png` | 270935 | `8773a9e9cff53823a6490b1ed474b08d3042254f75ef18eacc13b0828a9a8998` |
+| `avatar_modeling/v330_elbow_profile/images/v330_final_0_before_SIDE.png` | 270917 | `5bd2775355a3ce228ab7e649a06f4b2cd949421e1315589eb3c76a8642f91673` |
+| `avatar_modeling/v330_elbow_profile/images/v330_final_15_after_FRONT.png` | 348340 | `943505a292c348ae8c4039f9014c54dae395d609bbb055f0d900feb20449ca8a` |
+| `avatar_modeling/v330_elbow_profile/images/v330_final_15_before_FRONT.png` | 348418 | `1dfd5e4a9d436387e311c317c2dc3ba8992f6d065fca799ee33af0625f528cfd` |
+| `avatar_modeling/v330_elbow_profile/images/v330_final_5_after_FRONT.png` | 411783 | `20b352f6b2d66b019eea15ed0ed48ad934c5146038612a673b7087c0c94ef3fc` |
+| `avatar_modeling/v330_elbow_profile/images/v330_final_5_after_SIDE.png` | 269118 | `4e9b85a371dcd4290fd4fdeeebd628a3fc3b8d10a18830d6da3b2489cfbf4a8b` |
+| `avatar_modeling/v330_elbow_profile/images/v330_final_5_before_FRONT.png` | 412468 | `e6f7396b5c750616ccc3368179c275fdc6fe5aaae5a8e1bc930006860b2a4922` |
+| `avatar_modeling/v330_elbow_profile/images/v330_final_5_before_SIDE.png` | 269076 | `bed1cecb7e9c1f28abd4489e5fb1b32d4ef6108a52cc7ddbc372adeb27139199` |
+| `avatar_modeling/v330_elbow_profile/v330_ELBOW_COMPARISON.md` | 11710 | `2c2aa92407e9a9a8d5e4ea92d12bd9e22310ed755254ba81df19d3add0a92b1b` |
 | `docs/NANO_WORKFLOW_RESEARCH.md` | 19300 | `703991b687a1ebd037dffff68e9c9a34672c851541abad4a9861aad4c486f59d` |
 | `docs/VRCHAT_MAC_SETUP.md` | 1632 | `91883264cad86827b9b540b597125a678b48cc5ca0ebd5a904fd1ce045bff6c0` |
 | `v257_mac_reproduction_SUPPLEMENT.md` | 596 | `d019209f30685c68601b979a6145db3aaefc06748c7663ee6ce27fc5d05ffd6a` |
@@ -986,3 +1000,4 @@
 | `v327_elbow_fix_SUPPLEMENT.md` | 2377 | `002ff59643b9c8879986c073841fb5495220c76fc44dad367b75a1e08bcd84b0` |
 | `v327_elbow_fix_v328_reference_elbow_SUPPLEMENT.md` | 4027 | `51b70ba7451b8ce23714da943612d9f6ffc1d117c2f09f8940f349ef644c8457` |
 | `v329_siusiu_elbow_SUPPLEMENT.md` | 2070 | `dcb4f569314c7afe42ebbe9397c557fb44a68f86d27ec3743f1f67197f775b48` |
+| `v330_elbow_profile_SUPPLEMENT.md` | 2570 | `ea5069f10a9d693f25cea9d268bdf1efbe414502e5d0c212612abe2ba0379121` |
