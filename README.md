@@ -1,11 +1,3 @@
-# SiuSiu Perfect Sync v002
-
-[v002 52채널 연결·전후 사진](avatar_vrm/v002_perfect_sync/v002_PERFECT_SYNC_REVIEW.md) — 빈21개에 실제 변형 추가, 좌우 방향 수정. MouthClose 과입력 실패·실기 조정 잔여. 모델/원시자료는 비공개 보관.
-
-# SiuSiu VRM 추가 검수
-
-[v001 SiuSiu · iPhone / VMagicMirror](avatar_vrm/v001_siusiu/v001_VRM_REVIEW.md) — 실제표정31/52, 셰이더차이와Windows연결안내.
-
 # 비앙카: 원래 모습을 지키며 움직이는 아바타로
 
 **셰이더 실제 후보:** [v003 · 머리카락·피부·눈 4후보](avatar_shader/v003_surface_candidates/v003_SURFACE_REVIEW.md)와 [큰 얼굴·눈 사진](avatar_shader/v003_surface_candidates/v003_CANDIDATE_GALLERY.md)을 추가했다. B부드러움/C윤기/D따뜻함/E차분함, 의상 소재 유지·최종미채택.
@@ -14,7 +6,7 @@
 
 **셰이더 사용자 정정:** 목표는 SiuSiu의 질감·재질 표현이다. E를 자동 후속 기준으로 삼는 판단을 보류하고 [정정된 조사 방향](avatar_shader/v001_siusiu_style/v001_FEEDBACK.md)을 우선한다. 이번에는 문서만 정정했다.
 
-2026-09-12 · [v336 UV·텍스처 재작업 후보](avatar_modeling/v336_uv_detail_rework/v336_UV_TEXTURE_REVIEW.md): v334 사본의 Paint 새 UV와 4K 전사, 주름·단추·신발 장식 및 기존 Head 보존. 큰 패널 재구성과 디테일 전사는 완료했지만 작은 UV 조각/일부 늘어짐, 원래 채색의 부드러운 번짐은 남아 있습니다. 관절 중단 유지, 전후 사진·실패 실험 포함. 뒤트임의 새 밝은 점선으로 미채택, 현재 사용 기준은 v334입니다.
+2026-09-13 · [v337 채색용 UV 작업본](avatar_modeling/v337_paintable_uv/v337_UV_WORK_REVIEW.md): 원래 디테일을 유지한 541패널·작은204개, 4K·129본 유지. 부위별 마스크와 UV 안내도를 추가했습니다. 뒤트임 점선은 검수 구도에서 해소했고, 셔츠·신발 일부 늘어짐과 드문 외곽 픽셀 차이는 기록했습니다. 다음 채색 출발점이며 전체 아바타 최종채택은 아닙니다. 관절 중단 유지.
 
 2026-09-12 · [v331 팔꿈치 세 이슈의 위치와 사진](avatar_modeling/v331_elbow_issues/v331_ISSUE_ATLAS.md): 비틀림 교차·정면 각진 끝·강한 모으기 주름을 위치 표시와 확대로 정리했습니다. 실제 재질7사진·진단2그림 직접검수. 눈으로 보이는 문제와 작은 내부 교차, 강한 시험 자세를 구분했습니다. 모델 수정 없이 v330 후보 상태를 유지합니다.
 
