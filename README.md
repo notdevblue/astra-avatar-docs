@@ -1,6 +1,6 @@
 # 비앙카: 원래 모습을 지키며 움직이는 아바타로
 
-2026-09-12 · [v322 텍스처 재작업·UV 경계 정리](avatar_modeling/v322_texture_rework/v322_TEXTURE_REVIEW.md): 코트·바지·셔츠 재채색, 투영 색 혼입과 패딩 덮어쓰기 수정. 원형·UV 좌표 보존, Unity 실제 전후 사진과 미채택 시험을 기록했습니다. 뒤목의 희미한 윤곽과 셔츠 세부는 남아 최종 채색 채택은 별도입니다.
+2026-09-12 · [v323 가려진 표면 텍스처·새 UV](avatar_modeling/v323_hidden_texture_uv/v323_TEXTURE_UV_REVIEW.md): 코트 안쪽·옆다리·손·소매 등 원래 17,659면을 분류해 분리 검수하고 오염색을 정리했습니다. 새 UV 적용·겹침 수정과 원형 보존을 확인했으며, 작은 부품의 UV 늘어짐과 텍스처 비용 증가는 남아 별도 후보입니다. [전체 부위 사진](avatar_modeling/v323_hidden_texture_uv/v323_SURFACE_GALLERY.md)에서 전후를 볼 수 있습니다. 이전 단계 [v322](avatar_modeling/v322_texture_rework/v322_TEXTURE_REVIEW.md)의 가시 영역 중심 재채색에서 숨은 표면으로 범위를 넓혔습니다.
 
 2026-09-12 · [v321 주름 출처와 측면 휘어짐](avatar_modeling/v321_arm_curve_audit/README.md): 같은 자세에서 원형 전완 주름과 최근 윗소매의 추가 꺾임을 구분했습니다. 본은 일직선이나 소매 표면은 실제로 달라졌습니다. 모델 수정 없이 사진③을 보존한 비교입니다.
 

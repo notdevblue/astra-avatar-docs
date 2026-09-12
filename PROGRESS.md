@@ -44,6 +44,8 @@
 | [v004 A/B](avatar_modeling/v004_eyes_ab/REVIEW.md) | A는 기존 눈에 채색 정렬, B는 눈 정점을 이동 | B의 이동만으로 색 오류가 해결되지 않음. 사용자 A 방향 선택 |
 | [v005 전신 채색](avatar_modeling/v005_texture/REVIEW.md) | 새 채색을 기존 UV로 베이크, 형상·본·웨이트 유지 | 색 번짐 개선. [전후 그림](avatar_modeling/v005_texture/GALLERY.md)으로 외형 차이 확인 |
 
+2026-09-12 · [v323 가려진 표면 텍스처·새 UV](avatar_modeling/v323_hidden_texture_uv/v323_TEXTURE_UV_REVIEW.md): 코트 안쪽·옆다리·손·소매 등 원래 17,659면을 분류해 분리 검수하고 오염색을 정리했습니다. 새 UV 적용·겹침 수정과 원형 보존을 확인했으며, 작은 부품의 UV 늘어짐과 텍스처 비용 증가는 남아 별도 후보입니다. [전체 부위 사진](avatar_modeling/v323_hidden_texture_uv/v323_SURFACE_GALLERY.md)에서 전후를 볼 수 있습니다.
+
 **남은 일:** 기존 눈 조각과 헤어의 입체적 특성은 채색으로 해결하지 않았습니다. 선택한 작업 방식과 최종 채색 완성 승인을 구분합니다.
 
 <a id="t02"></a>

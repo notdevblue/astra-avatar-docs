@@ -4,18 +4,18 @@
 
 문서의 비공개 작업 파일 링크는 미포함 표기로 바꾸고 로컬 설치 경로를 생략했습니다.
 
-- 원문 Markdown: 294개
-- 본문 비교 이미지: 549개
+- 원문 Markdown: 299개
+- 본문 비교 이미지: 581개
 - 아래 SHA-256은 공유본 내용 기준입니다. 기존 저장소의 Git 이력은 포함하지 않습니다.
 
 | 파일 | 바이트 | SHA-256 |
 |---|---:|---|
 | `.gitignore` | 120 | `e1a9d489cc271e1e8036508c1fc40b68cb7e1eb006e647a30964452f11d5e743` |
-| `PROGRESS.md` | 26389 | `accec401954b880f511597801d9cab1474387d72864456338442c6d4f57e7457` |
-| `README.md` | 41055 | `c0af4b2af4de46e0630c341bab42253c5b0858d4ab3e5524c3e9df7c97b19b85` |
-| `SHARING.md` | 20308 | `aae931f91062884a95da2d292c3d96f0b2aefb955cfca8f8a79b0991b5739df5` |
-| `STAGES.md` | 32048 | `fbfd85b4a8cf9bf6432728035eeff25fa2ff3434aeaba2b68e7681dd940a3c63` |
-| `STATUS.md` | 22174 | `7b3930d828f743725902d9d3aca9ca86f33e50e763879ec7917a9eaaeefc7ab0` |
+| `PROGRESS.md` | 26920 | `2e309b45768dad06aad39ce7854314dded35e7a7bf5e9eb633a89dee2687418c` |
+| `README.md` | 41359 | `17b05e2618060da7928995717e408b36d4feb38750e4f4788342ede8f0c123b1` |
+| `SHARING.md` | 20839 | `2ef0244899c918560787808a123a944e409c002df5a303a744ec3ee1083da4de` |
+| `STAGES.md` | 32781 | `161cfcb7db3b9e93f424fd4a7d6a451da5bd97c169937d68c80dacdc0cda17d8` |
+| `STATUS.md` | 22705 | `4801c2969eff119249c7ddf0abde96dbfb4316457121121586cccd8e7988d83e` |
 | `avatar_modeling/v001_inspection/REVIEW.md` | 8117 | `620d9818f22eb42f1385752d012abbcba765dbc37f01f303531355f82eae8918` |
 | `avatar_modeling/v001_inspection/rig_trial/01_arms_raised.png` | 664846 | `8826ebeeef920de97836773476767f2d92e290725fdccef45700bdf63be87acb` |
 | `avatar_modeling/v002_refine/05_arms_raised.png` | 649841 | `205a5b29a2063e2ad60fa5741b894e3431f862079893417434d0bed6acbabc5f` |
@@ -841,6 +841,42 @@
 | `avatar_modeling/v322_texture_rework/images/v322_BEFORE_UNLIT_FACE.png` | 950230 | `52b8d0bd93a8bdd09683c5caa7697fd9b043ce37d0a44b911fdf6fbe0bf69201` |
 | `avatar_modeling/v322_texture_rework/images/v322_BEFORE_UNLIT_LEGS_FRONT.png` | 503225 | `ce7c8ab6c5fb70ba28381f42d7c25454adf07eb9495e0681da62442f020d9284` |
 | `avatar_modeling/v322_texture_rework/v322_TEXTURE_REVIEW.md` | 10979 | `7387d04c4cbfe58de1101d5922029282673585c99b6bffa852c40df0cc0eed2a` |
+| `avatar_modeling/v323_hidden_texture_uv/README.md` | 1536 | `4a69e45854b28389f1eca658df3a85d9987937a81b87280103b2586dedbe5011` |
+| `avatar_modeling/v323_hidden_texture_uv/images/v323_AFTER_LIT_FULL_BACK.png` | 277230 | `1187828b2bdd1205844401790f27730e6f8412ec3c0454425e025191ef808fe2` |
+| `avatar_modeling/v323_hidden_texture_uv/images/v323_AFTER_LIT_FULL_FRONT.png` | 298380 | `76e937140cb44fc696b4ce18792b39468d33d7fd6bee9bf7a3de9026db261573` |
+| `avatar_modeling/v323_hidden_texture_uv/images/v323_AFTER_LIT_FULL_SIDE.png` | 189587 | `85b9d038f94e438d83d325492396c9a4c77c00c4f379666fd6deb2999522fd03` |
+| `avatar_modeling/v323_hidden_texture_uv/images/v323_AFTER_coat_back_open.png` | 3483448 | `823047ff7bb1398eebec982a139dd5e7e990efbb6fcab970d1a1069b4f806be9` |
+| `avatar_modeling/v323_hidden_texture_uv/images/v323_AFTER_coat_front_open.png` | 3523650 | `ce7bc3d3e0aecbb94089ee9a42335ce5ca4b9fefce7bfa2ba0be3f0a507d74bc` |
+| `avatar_modeling/v323_hidden_texture_uv/images/v323_AFTER_details.png` | 3414750 | `c151876c30da382d9a4d203936664bba14a27dd62171191466d35debbac0fdec` |
+| `avatar_modeling/v323_hidden_texture_uv/images/v323_AFTER_face.png` | 3873117 | `6df731300b995dcdb136bd1db787ccd4d65919e2ba0667008e3939d20673b646` |
+| `avatar_modeling/v323_hidden_texture_uv/images/v323_AFTER_hair.png` | 4181221 | `458fc3b973ec56005d3692be38d7c1a3b3f18cec59f108fbd9244cb826c1b5de` |
+| `avatar_modeling/v323_hidden_texture_uv/images/v323_AFTER_hand_L.png` | 3731812 | `ac1cab1691ff0821c0a100fc1296e2943edb68029ffe7c5d6bbae646880c0ff0` |
+| `avatar_modeling/v323_hidden_texture_uv/images/v323_AFTER_hand_R.png` | 3738467 | `e000e5d020f2f1e32276cba430393af1b99ebb10584a3c1da80f6ed6378b152d` |
+| `avatar_modeling/v323_hidden_texture_uv/images/v323_AFTER_pants.png` | 3553459 | `ece8911abf1db132f098dfb7b1145c0c4929e154653febb43c3b2f00641522b0` |
+| `avatar_modeling/v323_hidden_texture_uv/images/v323_AFTER_shirt.png` | 3632373 | `e8f828babf0feeeaf6d048a646c59a3e6ad93e15b73eeb4d8012f8c4dead4f0f` |
+| `avatar_modeling/v323_hidden_texture_uv/images/v323_AFTER_shoe_L.png` | 3262325 | `afab605a332c5bc7aec09094f6614148743c2f65af3422a6603b20681075c87a` |
+| `avatar_modeling/v323_hidden_texture_uv/images/v323_AFTER_shoe_R.png` | 3261385 | `c6a49369848858e4b0d84c20c2d280afd86a4cd5ced36e9210a9dc3c8b2830a7` |
+| `avatar_modeling/v323_hidden_texture_uv/images/v323_AFTER_sleeves.png` | 3512695 | `ee61dc6fb12aac388017382f5216392573bbbd83f5271d780525aaa610d3c70e` |
+| `avatar_modeling/v323_hidden_texture_uv/images/v323_BEFORE_LIT_FULL_BACK.png` | 342281 | `d8c68dd41547bca12c09c5a05a103f2e162233ffe41f2138fb4257f189b6bea1` |
+| `avatar_modeling/v323_hidden_texture_uv/images/v323_BEFORE_LIT_FULL_FRONT.png` | 371030 | `e1576d154c020541e63ab8915ff436b806b7b9f78039a80f541223ee1debc829` |
+| `avatar_modeling/v323_hidden_texture_uv/images/v323_BEFORE_LIT_FULL_SIDE.png` | 236410 | `6f82303ad78b8db94aeaec5cd80966669f787742c5b3d2f5cea3787fefc7d4dd` |
+| `avatar_modeling/v323_hidden_texture_uv/images/v323_BEFORE_coat_back_open.png` | 3567837 | `15481de73f1c4f21c1eadfa3c2fe5cf199296adea9cae4dc3fbb005f401119de` |
+| `avatar_modeling/v323_hidden_texture_uv/images/v323_BEFORE_coat_front_open.png` | 3599299 | `feb82d816fdace413d3e587fd3630d4f7f0b63c15b1a92f424054b36e6a9ac77` |
+| `avatar_modeling/v323_hidden_texture_uv/images/v323_BEFORE_details.png` | 3579899 | `9189f6c9ae3f200d7b181af34666cbeae3e2ba1ae1407f6d021f06c7c3c6a0d6` |
+| `avatar_modeling/v323_hidden_texture_uv/images/v323_BEFORE_face.png` | 3914063 | `5410a419ef9d564228e33037141b13f8510ff4fcedd234d499c9187ab2851788` |
+| `avatar_modeling/v323_hidden_texture_uv/images/v323_BEFORE_hair.png` | 4229021 | `f165a1445ace63e8e0af015172c519a657f13315fa6e5c55b0af11a23c4830bc` |
+| `avatar_modeling/v323_hidden_texture_uv/images/v323_BEFORE_hand_L.png` | 3949001 | `e54cee364a12384acf64723d11217e52cc872969cc21c647abc13feff772b053` |
+| `avatar_modeling/v323_hidden_texture_uv/images/v323_BEFORE_hand_R.png` | 3934801 | `4159e0fab262656b500848d447efcd2fefb15078628c160b3c54ae1fb79bf06f` |
+| `avatar_modeling/v323_hidden_texture_uv/images/v323_BEFORE_pants.png` | 3653749 | `58af1cccb930864652bf0e4281c85086aa1ff738e455feadbe592909dd527312` |
+| `avatar_modeling/v323_hidden_texture_uv/images/v323_BEFORE_shirt.png` | 3689799 | `688440be4fecd14b814f957e674c18c85ddeb724ffa8da570ebdfb6c1a5273cd` |
+| `avatar_modeling/v323_hidden_texture_uv/images/v323_BEFORE_shoe_L.png` | 3512127 | `2dd47ff44fe77fc20db5b3397fc8ba56d8d087c4004da77defadeef33cdc0b90` |
+| `avatar_modeling/v323_hidden_texture_uv/images/v323_BEFORE_shoe_R.png` | 3501208 | `1122a262ad5ff6c3006d5648129c7f0685f6a94a34afda5b94497d8516473fdd` |
+| `avatar_modeling/v323_hidden_texture_uv/images/v323_BEFORE_sleeves.png` | 3587476 | `a01a4f5d15ef5c938fdea557d9a260ce954b897376f8e306d8d368e725febbc9` |
+| `avatar_modeling/v323_hidden_texture_uv/images/v323_UV_WIRE.png` | 1135783 | `e52ad2f9b6a65fb32492793162b6f48168e5378e07a3c4fc43dd543840d2fd17` |
+| `avatar_modeling/v323_hidden_texture_uv/trials/05_flat_albedo/v323_AFTER_LIT_FULL_FRONT.png` | 273434 | `ce0556aab1366db3835616c54bd71e87952a0ead1066aa52b10b73e4b2597fbc` |
+| `avatar_modeling/v323_hidden_texture_uv/v323_REPRODUCTION.md` | 3169 | `b8947957ada9ad970b1e98c6866a3b0cccd2977b65e0b8f82d33a4243d0cc411` |
+| `avatar_modeling/v323_hidden_texture_uv/v323_SURFACE_GALLERY.md` | 4498 | `219f9fabe4a32519acac992123c33708d24f9f6ce9479d1174d658aa8d529c99` |
+| `avatar_modeling/v323_hidden_texture_uv/v323_TEXTURE_UV_REVIEW.md` | 11908 | `bc052794c40793c44b687787eac58cce68944a1c9a41e4e43a60bd0fd5ef5482` |
 | `docs/NANO_WORKFLOW_RESEARCH.md` | 19300 | `703991b687a1ebd037dffff68e9c9a34672c851541abad4a9861aad4c486f59d` |
 | `docs/VRCHAT_MAC_SETUP.md` | 1632 | `91883264cad86827b9b540b597125a678b48cc5ca0ebd5a904fd1ce045bff6c0` |
 | `v257_mac_reproduction_SUPPLEMENT.md` | 596 | `d019209f30685c68601b979a6145db3aaefc06748c7663ee6ce27fc5d05ffd6a` |
@@ -854,3 +890,4 @@
 | `v320_straight_arm_SUPPLEMENT.md` | 1174 | `79a7029ce7f5c5245d547437672d01c2130f342918445ac8045f004b3426eefd` |
 | `v321_arm_curve_audit_SUPPLEMENT.md` | 1671 | `afeeb3254199dfe9b5823e7f0d8732ab4ce9aca8bfbc89d94e91c9ef606ad111` |
 | `v322_texture_rework_SUPPLEMENT.md` | 2601 | `ee740a4245f8f0e4250f67182c09b6cb7744862a2aa3b98f1c2b5611f2983f2e` |
+| `v323_hidden_texture_uv_SUPPLEMENT.md` | 6021 | `c25220ffabf4e72c665bbb4a1c12194ad5e2b8a73243b52f34ddb812f26a6c1c` |
