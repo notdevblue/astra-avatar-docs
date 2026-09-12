@@ -319,6 +319,7 @@ v258–v274 전체 기록이나 v276 이후 진행 중 작업을 포함한 것�
 | v339 | [선·명암 경계 정리](avatar_modeling/v339_texture_clarity/v339_CLARITY_REVIEW.md) | 셔츠·소매·신발 일부, 3강도·미채택 구간 비교 |
 | v340 | [소매 단추 정렬·디테일](avatar_modeling/v340_cuff_buttons/v340_BUTTON_REVIEW.md) | 원래 8개 형상 유지, 전용 UV·봉제 디테일·잔상 정리 |
 | v341 | [전체 텍스처·Head UV](avatar_modeling/v341_full_texture_detail/v341_TEXTURE_REVIEW.md) | 부위별 Head 배치·국소 디테일·넥타이 분류/색 수정 |
+| v342 | [텍스처 번짐·아티팩트 조사](avatar_modeling/v342_texture_artifact_audit/v342_ARTIFACT_LIST.md) | 수정 후보 14·보류 3, 위치·확대 사진과 숨은 면 검사; 수정 없음 |
 
 ## 셰이더 별도 작업
 
