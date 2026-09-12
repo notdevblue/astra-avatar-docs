@@ -4,18 +4,18 @@
 
 문서의 비공개 작업 파일 링크는 미포함 표기로 바꾸고 로컬 설치 경로를 생략했습니다.
 
-- 원문 Markdown: 285개
-- 본문 비교 이미지: 528개
+- 원문 Markdown: 287개
+- 본문 비교 이미지: 532개
 - 아래 SHA-256은 공유본 내용 기준입니다. 기존 저장소의 Git 이력은 포함하지 않습니다.
 
 | 파일 | 바이트 | SHA-256 |
 |---|---:|---|
 | `.gitignore` | 120 | `e1a9d489cc271e1e8036508c1fc40b68cb7e1eb006e647a30964452f11d5e743` |
-| `PROGRESS.md` | 25334 | `38f59ca0ca22ab6ba130c4cee32f545e748b8c6e820d677ed36b8c63ca2a743a` |
-| `README.md` | 40000 | `99aaffd9b5999f756f62e04766fc2d41328e3e45b4f722374b27c625731b4572` |
-| `SHARING.md` | 19253 | `5fbc70e4d17f48534b398bc474b705b0d131986b9d05a31d5739fb1b21110ba5` |
-| `STAGES.md` | 30993 | `4e3fdfdcfbaa036e40eeb2247bd0b34173bfb6f3e865ccc9ca8777fd67240d57` |
-| `STATUS.md` | 21119 | `484d087433aa8ca5cdf1e72a8354fb6253e393ce76e0fb8f5240873d4dd9c77c` |
+| `PROGRESS.md` | 25657 | `6630a8228c735c95e9c24f9cea2598521ce808176dc4d05147dd0490aa5fea02` |
+| `README.md` | 40323 | `ba655460d8ff098e2d9f228b9a3d6e53b81bd1812888c25eb936ae72ef0fec10` |
+| `SHARING.md` | 19576 | `a868a5e235d495143c41e9ed81633b9aa1ee597ce1215d106795b8e67d7484af` |
+| `STAGES.md` | 31316 | `339607e5d12998ff16e723a59507e7987573fef4fa113230030df44dd44261fa` |
+| `STATUS.md` | 21442 | `db02c75bd34c27a9900e5b060167ec07294eb26aa31896daf9a08496b4dd9338` |
 | `avatar_modeling/v001_inspection/REVIEW.md` | 8117 | `620d9818f22eb42f1385752d012abbcba765dbc37f01f303531355f82eae8918` |
 | `avatar_modeling/v001_inspection/rig_trial/01_arms_raised.png` | 664846 | `8826ebeeef920de97836773476767f2d92e290725fdccef45700bdf63be87acb` |
 | `avatar_modeling/v002_refine/05_arms_raised.png` | 649841 | `205a5b29a2063e2ad60fa5741b894e3431f862079893417434d0bed6acbabc5f` |
@@ -814,6 +814,11 @@
 | `avatar_modeling/v319_issue_review/images/v319_06_contact_regression.png` | 528423 | `ec5a97203bef02b332220b95d28957fe0521008e779f1920113c94a4a7dde053` |
 | `avatar_modeling/v319_issue_review/v319_FEEDBACK.md` | 1836 | `93bbe938a5a7e7525eb85110e750e2764f1903c2ac9d86b85954b95f242cd146` |
 | `avatar_modeling/v319_issue_review/v319_ISSUES_AND_ATTEMPTS.md` | 18072 | `56e851e885cf0634b0f379e9c33864a7eb92d7504f2a19b822f2f29f91f94e5e` |
+| `avatar_modeling/v320_straight_arm/README.md` | 3220 | `d0e202e1e8a03640708e3c88e47204c427648f9306df30a9206fb8962117a837` |
+| `avatar_modeling/v320_straight_arm/images/v320_BENT_FRONT.png` | 441053 | `5ae99deee759677b9505e6e04a2e3d308a14f90a031ef37a0b25b37389ed14db` |
+| `avatar_modeling/v320_straight_arm/images/v320_BENT_SIDE.png` | 387464 | `73d8e0d7ebeb4645c726291737a9d1e4dbd484e635a21d427f4461626e4aba44` |
+| `avatar_modeling/v320_straight_arm/images/v320_STRAIGHT_FRONT.png` | 438550 | `adf52184eb1f72075a745d8b00820fb583bdcb701de13e76d9a4439d5ad11766` |
+| `avatar_modeling/v320_straight_arm/images/v320_STRAIGHT_SIDE.png` | 388905 | `d4ada06711677d0db79858e741062a8478b1ab62d3cd0b6224fc34f2d093227e` |
 | `docs/NANO_WORKFLOW_RESEARCH.md` | 19300 | `703991b687a1ebd037dffff68e9c9a34672c851541abad4a9861aad4c486f59d` |
 | `docs/VRCHAT_MAC_SETUP.md` | 1632 | `91883264cad86827b9b540b597125a678b48cc5ca0ebd5a904fd1ce045bff6c0` |
 | `v257_mac_reproduction_SUPPLEMENT.md` | 596 | `d019209f30685c68601b979a6145db3aaefc06748c7663ee6ce27fc5d05ffd6a` |
@@ -824,3 +829,4 @@
 | `v315_volume_key_audit_v318_inner_shirt_clearance_SUPPLEMENT.md` | 1288 | `be3d3d54afeccf043046225d1b71fdfc19590619802d6ac3fafd1de6c92e55a1` |
 | `v318_WORK_REVIEW.md` | 8273 | `ac740408d9f827b1b1e8ecd107e88d852275b3a656c9c3a98f3a28b4dec19bfb` |
 | `v319_issue_review_SUPPLEMENT.md` | 1633 | `349d281379f5de4415c9dfb97f8baf63a3b7f155e4c46cfa163063cf6df27e52` |
+| `v320_straight_arm_SUPPLEMENT.md` | 1174 | `79a7029ce7f5c5245d547437672d01c2130f342918445ac8045f004b3426eefd` |
