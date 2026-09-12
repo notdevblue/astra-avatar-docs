@@ -1,3 +1,7 @@
+# SiuSiu Perfect Sync v002
+
+[v002 52채널 연결·전후 사진](avatar_vrm/v002_perfect_sync/v002_PERFECT_SYNC_REVIEW.md) — 빈21개에 실제 변형 추가, 좌우 방향 수정. MouthClose 과입력 실패·실기 조정 잔여. 모델/원시자료는 비공개 보관.
+
 # SiuSiu VRM 추가 검수
 
 [v001 SiuSiu · iPhone / VMagicMirror](avatar_vrm/v001_siusiu/v001_VRM_REVIEW.md) — 실제표정31/52, 셰이더차이와Windows연결안내.
