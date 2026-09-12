@@ -258,3 +258,5 @@ Windows 인계6후보 → Mac 지문/동작 재생 → [v257 Mac 재현 검증](
 셰이더 v001 후속 정정: 사용자는 SiuSiu의 질감 표현을 선호한다고 설명했다. 테두리/띠 중심 해석과 E 자동후속기준을 보류한다. [사용자 피드백](avatar_shader/v001_siusiu_style/v001_FEEDBACK.md). 새 실험 없음.
 
 - [셰이더 v002 · 소재별 대응 조사](avatar_shader/v002_material_mapping/v002_MATERIAL_REVIEW.md): 비앙카 디자인과 소재 구분을 우선, SiuSiu 반사 일괄이식 보류. 기존 사진 재검토·새 편집 없음.
+
+- [셰이더 v003 · 머리카락·피부·눈 실제 4후보](avatar_shader/v003_surface_candidates/v003_SURFACE_REVIEW.md): 69렌더/14비교그림, 부위별 비교·잔여문제 포함. 네후보 최종미채택·VRChat미검증.

@@ -1,5 +1,7 @@
 # 공유본의 최신 상태
 
+**셰이더 실제 후보:** [v003 · 머리카락·피부·눈 4후보](avatar_shader/v003_surface_candidates/v003_SURFACE_REVIEW.md)와 [큰 얼굴·눈 사진](avatar_shader/v003_surface_candidates/v003_CANDIDATE_GALLERY.md)을 추가했다. B부드러움/C윤기/D따뜻함/E차분함, 의상 소재 유지·최종미채택.
+
 **소재별 적용 방향:** 사용자 지시에 따라 SiuSiu와 비앙카의 의상 소재 차이를 고려한 [v002 질감 조사](avatar_shader/v002_material_mapping/v002_MATERIAL_REVIEW.md)를 추가했다. 기존 사진 재검토·분류 한계·구현 순서이며 새 재질 적용은 아직 없다.
 
 **셰이더 사용자 정정:** 목표는 SiuSiu의 질감·재질 표현이다. E를 자동 후속 기준으로 삼는 판단을 보류하고 [정정된 조사 방향](avatar_shader/v001_siusiu_style/v001_FEEDBACK.md)을 우선한다. 이번에는 문서만 정정했다.
