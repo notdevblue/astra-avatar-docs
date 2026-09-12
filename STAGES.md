@@ -305,3 +305,4 @@ v258–v274 전체 기록이나 v276 이후 진행 중 작업을 포함한 것�
 | v330 | [측면 유지 팔꿈치·3열 사진 비교](avatar_modeling/v330_elbow_profile/v330_ELBOW_COMPARISON.md) | 기존36정점·작은 보정2키, 원형 보존·비틀림 교차 잔여인 검수 후보 |
 | v331 | [팔꿈치 세 이슈 위치·사진](avatar_modeling/v331_elbow_issues/v331_ISSUE_ATLAS.md) | 위치 표시7사진·진단2그림, 읽기 전용·v330 후보 유지 |
 | v332 | [SiuSiu 셰이더 분석·작업 계획](avatar_modeling/v332_shader_research/v332_SHADER_REVIEW.md) | 원본10재질·기능 OFF 사진8그림, 비앙카 제작·적용 전 |
+| v332 | [팔꿈치 ②·③ 분리 보정](avatar_modeling/v332_elbow_fold/v332_FOLD_REVIEW.md) | 정면·모으기4키, 14사진·실제205기록, 부분 개선 후보·① 보류 |
