@@ -4,18 +4,18 @@
 
 문서의 비공개 작업 파일 링크는 미포함 표기로 바꾸고 로컬 설치 경로를 생략했습니다.
 
-- 원문 Markdown: 275개
-- 본문 비교 이미지: 522개
+- 원문 Markdown: 284개
+- 본문 비교 이미지: 528개
 - 아래 SHA-256은 공유본 내용 기준입니다. 기존 저장소의 Git 이력은 포함하지 않습니다.
 
 | 파일 | 바이트 | SHA-256 |
 |---|---:|---|
 | `.gitignore` | 120 | `e1a9d489cc271e1e8036508c1fc40b68cb7e1eb006e647a30964452f11d5e743` |
-| `PROGRESS.md` | 24903 | `383913c11ad5c57fe533cd7e1eeac61b4603b03b01235ddc50aff3eed4afc8db` |
-| `README.md` | 39569 | `ebe67b216a6cc28f975de11b36ca512626e518012d6e2f2f5f7a996ac2289608` |
-| `SHARING.md` | 18822 | `2ec548da323ecdbd36515f707b681a95e42db4d45e7be354b482859e4d42dc70` |
-| `STAGES.md` | 30562 | `0fd4b1ca7a78cd88f9c907338a028c65962d732bc98a32cc9ba51c3317d36bf8` |
-| `STATUS.md` | 20688 | `159e4fe63fb529190a81cf2a65d13e035d069ceab06104a9399c4d561a902916` |
+| `PROGRESS.md` | 25334 | `38f59ca0ca22ab6ba130c4cee32f545e748b8c6e820d677ed36b8c63ca2a743a` |
+| `README.md` | 40000 | `99aaffd9b5999f756f62e04766fc2d41328e3e45b4f722374b27c625731b4572` |
+| `SHARING.md` | 19253 | `5fbc70e4d17f48534b398bc474b705b0d131986b9d05a31d5739fb1b21110ba5` |
+| `STAGES.md` | 30993 | `4e3fdfdcfbaa036e40eeb2247bd0b34173bfb6f3e865ccc9ca8777fd67240d57` |
+| `STATUS.md` | 21119 | `484d087433aa8ca5cdf1e72a8354fb6253e393ce76e0fb8f5240873d4dd9c77c` |
 | `avatar_modeling/v001_inspection/REVIEW.md` | 8117 | `620d9818f22eb42f1385752d012abbcba765dbc37f01f303531355f82eae8918` |
 | `avatar_modeling/v001_inspection/rig_trial/01_arms_raised.png` | 664846 | `8826ebeeef920de97836773476767f2d92e290725fdccef45700bdf63be87acb` |
 | `avatar_modeling/v002_refine/05_arms_raised.png` | 649841 | `205a5b29a2063e2ad60fa5741b894e3431f862079893417434d0bed6acbabc5f` |
@@ -805,6 +805,14 @@
 | `avatar_modeling/v316_volume_shape_balance/actual_images/571_M30_V0.png` | 527446 | `cf8dcf78af4a2b3c0a5193ab7a46c482a0493d7bc5f6f588a996eee2dcadaa21` |
 | `avatar_modeling/v316_volume_shape_balance/actual_images/571_M30_V3.png` | 405806 | `f7e8ad1d4569ae3942c617471b0a75c7c945f6b9044a05ed9d23f671d6498700` |
 | `avatar_modeling/v318_inner_shirt_clearance/README.md` | 1542 | `ec05bfaf3cebfc4051bc5f930f9915661e0b3a4484663b2754e42af5778ef5e1` |
+| `avatar_modeling/v319_issue_review/README.md` | 940 | `5b8b315dfc82919f66fcc3127c96deefd9c603e01479d6fae02719e0b1244ce6` |
+| `avatar_modeling/v319_issue_review/images/v319_01_neutral.png` | 568247 | `eb8f560574f9b1070e833816527e1a246264a8aadf2fb4a22ad3f18a34ff6422` |
+| `avatar_modeling/v319_issue_review/images/v319_02_before.png` | 523590 | `025881748c8516e3d0ac49099bd362500bbc34a19e480a149297fe4993135410` |
+| `avatar_modeling/v319_issue_review/images/v319_03_volume_strain.png` | 527446 | `cf8dcf78af4a2b3c0a5193ab7a46c482a0493d7bc5f6f588a996eee2dcadaa21` |
+| `avatar_modeling/v319_issue_review/images/v319_04_volume_strain_side.png` | 405806 | `f7e8ad1d4569ae3942c617471b0a75c7c945f6b9044a05ed9d23f671d6498700` |
+| `avatar_modeling/v319_issue_review/images/v319_05_inner_shirt.png` | 333909 | `969d58144724a9f035311b324e1159e4d0302937b8b6f189519f33b306a41af4` |
+| `avatar_modeling/v319_issue_review/images/v319_06_contact_regression.png` | 528423 | `ec5a97203bef02b332220b95d28957fe0521008e779f1920113c94a4a7dde053` |
+| `avatar_modeling/v319_issue_review/v319_ISSUES_AND_ATTEMPTS.md` | 17903 | `b923c6be86eb3abe2bbf82b416c0d1e5b71af91bb7c1fe1655d9cd705aa1ac22` |
 | `docs/NANO_WORKFLOW_RESEARCH.md` | 19300 | `703991b687a1ebd037dffff68e9c9a34672c851541abad4a9861aad4c486f59d` |
 | `docs/VRCHAT_MAC_SETUP.md` | 1632 | `91883264cad86827b9b540b597125a678b48cc5ca0ebd5a904fd1ce045bff6c0` |
 | `v257_mac_reproduction_SUPPLEMENT.md` | 596 | `d019209f30685c68601b979a6145db3aaefc06748c7663ee6ce27fc5d05ffd6a` |
@@ -814,3 +822,4 @@
 | `v315_volume_key_audit_v316_volume_shape_balance_v318_inner_shirt_clearance_SUPPLEMENT.md` | 1630 | `4b01dc7c050191b66e2f0dd0feeeb5fbd550089f33fc12d4991c2e7fcb057610` |
 | `v315_volume_key_audit_v318_inner_shirt_clearance_SUPPLEMENT.md` | 1288 | `be3d3d54afeccf043046225d1b71fdfc19590619802d6ac3fafd1de6c92e55a1` |
 | `v318_WORK_REVIEW.md` | 8273 | `ac740408d9f827b1b1e8ecd107e88d852275b3a656c9c3a98f3a28b4dec19bfb` |
+| `v319_issue_review_SUPPLEMENT.md` | 1633 | `349d281379f5de4415c9dfb97f8baf63a3b7f155e4c46cfa163063cf6df27e52` |
