@@ -287,7 +287,7 @@ v258–v274 전체 기록이나 v276 이후 진행 중 작업을 포함한 것�
 | v316 | [부피와 면 길이 검수](avatar_modeling/v316_volume_shape_balance/README.md) | 늘어남 감소·셔츠 접촉 회귀, 미채택 |
 | v318 | [안쪽 셔츠 분리 조건](avatar_modeling/v318_inner_shirt_clearance/README.md) | 선택 제약 불성립, 모델 미적용 |
 
-## Mac 텍스처·전체 관절 검수 후속 · v319–v330
+## Mac 텍스처·전체 관절 검수 후속 · v319–v331
 
 | 단계 | 보고서 | 상태 |
 |---|---|---|
@@ -303,3 +303,4 @@ v258–v274 전체 기록이나 v276 이후 진행 중 작업을 포함한 것�
 | v328 | [참고 모델의 강한 모으기](avatar_modeling/v328_reference_elbow/v328_REFERENCE_REVIEW.md) |3모델·방향 일치 읽기 전용 비교, v327 측면 채택 보류 |
 | v329 | [SiuSiu 기준 차이 조사](avatar_modeling/v329_siusiu_elbow/v329_SIUSIU_COMPARISON.md) |12자세·비례/웨이트/부피, 모델 수정 없음·v327 보류 유지 |
 | v330 | [측면 유지 팔꿈치·3열 사진 비교](avatar_modeling/v330_elbow_profile/v330_ELBOW_COMPARISON.md) | 기존36정점·작은 보정2키, 원형 보존·비틀림 교차 잔여인 검수 후보 |
+| v331 | [팔꿈치 세 이슈 위치·사진](avatar_modeling/v331_elbow_issues/v331_ISSUE_ATLAS.md) | 위치 표시7사진·진단2그림, 읽기 전용·v330 후보 유지 |

@@ -4,18 +4,18 @@
 
 문서의 비공개 작업 파일 링크는 미포함 표기로 바꾸고 로컬 설치 경로를 생략했습니다.
 
-- 원문 Markdown: 324개
-- 본문 비교 이미지: 666개
+- 원문 Markdown: 327개
+- 본문 비교 이미지: 675개
 - 아래 SHA-256은 공유본 내용 기준입니다. 기존 저장소의 Git 이력은 포함하지 않습니다.
 
 | 파일 | 바이트 | SHA-256 |
 |---|---:|---|
 | `.gitignore` | 120 | `e1a9d489cc271e1e8036508c1fc40b68cb7e1eb006e647a30964452f11d5e743` |
-| `PROGRESS.md` | 30611 | `e4dc68e9f43f92b3eb85997e5471db91d334fcfc9504020026da62f647b8239c` |
-| `README.md` | 42535 | `aea31469136813996215ae23d01cb36fc56888fc6bdb96018517cc76b742167c` |
-| `SHARING.md` | 24530 | `18579325380201b7e47cf5ae0c8a58d3a42ee8ce375dbd358cda292f94444112` |
-| `STAGES.md` | 34043 | `00152cfeb90056f2c5339c571c553a2f66bac71b94112b0635d8a1c3ab9774be` |
-| `STATUS.md` | 26396 | `4310a7008bd2d3c2258c92f8cf3fb90a83a3dac6d77f386968f57d23e2782e55` |
+| `PROGRESS.md` | 31047 | `7522d4cee9ce705fb9ed87ea8903cb537e0ae14fc24adddfd5e597ec1dc46361` |
+| `README.md` | 42455 | `0f8e30c48c3395d930dff46cd299646758a485b00e6a763eeb85469afdc47909` |
+| `SHARING.md` | 24966 | `5cf33591f89543955ca48e41c199c118e84446b6c7e784c4abcc01791ea38529` |
+| `STAGES.md` | 34220 | `1896c504ad47b4212445534d0c13b1f708c09cd843774e1f2552e6fdefbbb3cc` |
+| `STATUS.md` | 26832 | `72e2689eca57b5c8730b6f5c21e44a775e6f3a05fd3870eae51567a79867c6fe` |
 | `avatar_modeling/v001_inspection/REVIEW.md` | 8117 | `620d9818f22eb42f1385752d012abbcba765dbc37f01f303531355f82eae8918` |
 | `avatar_modeling/v001_inspection/rig_trial/01_arms_raised.png` | 664846 | `8826ebeeef920de97836773476767f2d92e290725fdccef45700bdf63be87acb` |
 | `avatar_modeling/v002_refine/05_arms_raised.png` | 649841 | `205a5b29a2063e2ad60fa5741b894e3431f862079893417434d0bed6acbabc5f` |
@@ -980,6 +980,17 @@
 | `avatar_modeling/v330_elbow_profile/images/v330_final_5_before_FRONT.png` | 412468 | `e6f7396b5c750616ccc3368179c275fdc6fe5aaae5a8e1bc930006860b2a4922` |
 | `avatar_modeling/v330_elbow_profile/images/v330_final_5_before_SIDE.png` | 269076 | `bed1cecb7e9c1f28abd4489e5fb1b32d4ef6108a52cc7ddbc372adeb27139199` |
 | `avatar_modeling/v330_elbow_profile/v330_ELBOW_COMPARISON.md` | 11710 | `2c2aa92407e9a9a8d5e4ea92d12bd9e22310ed755254ba81df19d3add0a92b1b` |
+| `avatar_modeling/v331_elbow_issues/README.md` | 859 | `5c4b6a7736b37e56c2574b101f5016fa5562b8f9c0e5bc4f37ba984267ed4158` |
+| `avatar_modeling/v331_elbow_issues/images/issue1_detail_photo.png` | 177372 | `63b45e6d1d62e332576fff53642a0495e77cb079cdf1b560376ccecb8b75a412` |
+| `avatar_modeling/v331_elbow_issues/images/issue1_triangles_after.png` | 31349 | `8238a64c310e09dba508f121323156e210723c172af2654f2902ea1c2a71d8d4` |
+| `avatar_modeling/v331_elbow_issues/images/issue1_triangles_before.png` | 32460 | `a4a16846565aee5379d636e02cbb2b160ced7fd4ac59c30f50808be6c0e2ba66` |
+| `avatar_modeling/v331_elbow_issues/images/issue1_twist_18_location.png` | 438977 | `10211e44d77caf7b05ebe81c6ec32816057df8fd85596d8d020d69615e6e3bb3` |
+| `avatar_modeling/v331_elbow_issues/images/issue1_twist_21_location.png` | 441906 | `96d9350641c1bfbb5a8e671a469cbe2a47819004f53d968f7e07ab372190926f` |
+| `avatar_modeling/v331_elbow_issues/images/issue2_front_detail.png` | 168978 | `adf9e29a4e2d627a0d7b95eab2a5a6fb6f6f7145a6785d798eeac71b06e35fa5` |
+| `avatar_modeling/v331_elbow_issues/images/issue2_front_location.png` | 446397 | `721cee49597efe5f5798ef3469228257d2c70f79349804450c5406d9d453e6d4` |
+| `avatar_modeling/v331_elbow_issues/images/issue3_gather_detail.png` | 510445 | `90cf958b9e58f6adbb25df53bb30f33f601c79bafef675f96597008a792608f2` |
+| `avatar_modeling/v331_elbow_issues/images/issue3_gather_location.png` | 420405 | `5b4b33a4c12073f8e728d8d2eb17e26a6064c1198711a432fcd9d85378f98040` |
+| `avatar_modeling/v331_elbow_issues/v331_ISSUE_ATLAS.md` | 8069 | `f4504c1afa6507d533a3bd67c8a5b37dc46e242f056109599603f98178269763` |
 | `docs/NANO_WORKFLOW_RESEARCH.md` | 19300 | `703991b687a1ebd037dffff68e9c9a34672c851541abad4a9861aad4c486f59d` |
 | `docs/VRCHAT_MAC_SETUP.md` | 1632 | `91883264cad86827b9b540b597125a678b48cc5ca0ebd5a904fd1ce045bff6c0` |
 | `v257_mac_reproduction_SUPPLEMENT.md` | 596 | `d019209f30685c68601b979a6145db3aaefc06748c7663ee6ce27fc5d05ffd6a` |
@@ -1001,3 +1012,4 @@
 | `v327_elbow_fix_v328_reference_elbow_SUPPLEMENT.md` | 4027 | `51b70ba7451b8ce23714da943612d9f6ffc1d117c2f09f8940f349ef644c8457` |
 | `v329_siusiu_elbow_SUPPLEMENT.md` | 2070 | `dcb4f569314c7afe42ebbe9397c557fb44a68f86d27ec3743f1f67197f775b48` |
 | `v330_elbow_profile_SUPPLEMENT.md` | 2570 | `ea5069f10a9d693f25cea9d268bdf1efbe414502e5d0c212612abe2ba0379121` |
+| `v331_elbow_issues_SUPPLEMENT.md` | 2085 | `aaee85283619bdc97cb1040155de2a072d9d7f5d217faee220a196f15bbc0f6a` |
