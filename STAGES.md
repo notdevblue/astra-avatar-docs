@@ -287,7 +287,7 @@ v258–v274 전체 기록이나 v276 이후 진행 중 작업을 포함한 것�
 | v316 | [부피와 면 길이 검수](avatar_modeling/v316_volume_shape_balance/README.md) | 늘어남 감소·셔츠 접촉 회귀, 미채택 |
 | v318 | [안쪽 셔츠 분리 조건](avatar_modeling/v318_inner_shirt_clearance/README.md) | 선택 제약 불성립, 모델 미적용 |
 
-## Mac 텍스처·전체 관절 검수 후속 · v319–v325
+## Mac 텍스처·전체 관절 검수 후속 · v319–v326
 
 | 단계 | 보고서 | 상태 |
 |---|---|---|
@@ -298,3 +298,4 @@ v258–v274 전체 기록이나 v276 이후 진행 중 작업을 포함한 것�
 | v323 | [숨은 표면·새 UV](avatar_modeling/v323_hidden_texture_uv/v323_TEXTURE_UV_REVIEW.md) | 분리 전후 검수, 새 UV 비용·늘어짐 명시한 후보 |
 | v324 | [기존 디테일 복원](avatar_modeling/v324_detail_restore/v324_DETAIL_REVIEW.md) | v323 평탄화 수정, 기존 명암·UV 밀도 복원 검수본 |
 | v325 | [전체 관절·본 검토](avatar_modeling/v325_full_rig_audit/v325_RIG_REVIEW.md) | 129본·300자세·41장, 원본 보존·변형 품질 미완료 |
+| v326 | [팔꿈치 정면 각짐](avatar_modeling/v326_elbow_front_audit/v326_ELBOW_REVIEW.md) | 실루엣·기하 확인, 국소 검토 재개·모델 미수정 |
