@@ -314,3 +314,7 @@ v258–v274 전체 기록이나 v276 이후 진행 중 작업을 포함한 것�
 | 단계 | 보고서 | 상태 |
 |---|---|---|
 | 셰이더 v001 | [SiuSiu 방식 실제 시험](avatar_shader/v001_siusiu_style/v001_SHADER_REVIEW.md) | B/C/D/E 재질·패키지, 강한광택제외·E잔여있는검수후보 |
+
+셰이더 v001은 [질감 표현 목표 정정](avatar_shader/v001_siusiu_style/v001_FEEDBACK.md)을 먼저 읽는다. 기존 시험 기록은 보존한다.
+
+- [셰이더 v002 · 소재별 대응 조사](avatar_shader/v002_material_mapping/v002_MATERIAL_REVIEW.md): 비앙카 디자인과 소재 구분을 우선, SiuSiu 반사 일괄이식 보류. 기존 사진 재검토·새 편집 없음.
