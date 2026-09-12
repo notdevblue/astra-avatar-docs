@@ -6,6 +6,8 @@
 
 2026-09-12 · [v324 기존 디테일 복원](avatar_modeling/v324_detail_restore/v324_DETAIL_REVIEW.md): 사용자 지적대로 v323에서 신발 장식·옷 주름·머릿결 명암이 과도하게 줄었습니다. 기존 v322 디테일과 UV 밀도를 복원하고 실제 오염 부위만 정리했습니다. 기하·부피·본·웨이트 보존, 3면 UV 이동, Unity UV용 복제점 1,649→10개. [숨은 표면 12그룹 사진](avatar_modeling/v324_detail_restore/v324_SURFACE_GALLERY.md)과 시도·미채택 이유를 함께 기록했습니다. 전체 모델 최종 채택은 아닙니다. 기존 [v323](avatar_modeling/v323_hidden_texture_uv/v323_TEXTURE_UV_REVIEW.md)은 숨은 표면 정리 과정의 기록으로 보존하며 평탄한 디테일은 후속 기준으로 사용하지 않습니다.
 
+비앙카는 텍스처 검수 이후에도 부위별 셰이더 제작이 남아 있습니다. [v332 SiuSiu 표현 분석](avatar_modeling/v332_shader_research/v332_SHADER_REVIEW.md)은 원본의 마스크·MatCap을 실제 기능 OFF 사진으로 분리했고, 기존 디테일과 얼굴 인상을 유지하는 [부위별 작업 순서](avatar_modeling/v332_shader_research/v332_IMPLEMENTATION_PLAN.md)를 정리했습니다. 제작·적용은 아직 하지 않았으며 관절 후보와 별도 단계입니다.
+
 2026-09-12 · [v321 주름 출처와 측면 휘어짐](avatar_modeling/v321_arm_curve_audit/README.md): 같은 자세에서 원형 전완 주름과 최근 윗소매의 추가 꺾임을 구분했습니다. 본은 일직선이나 소매 표면은 실제로 달라졌습니다. 모델 수정 없이 사진③을 보존한 비교입니다.
 
 2026-09-12 · [v320 팔을 완전히 편 정면·측면 비교](avatar_modeling/v320_straight_arm/README.md): 사진③의 어깨 방향을 유지하고 팔꿈치를 약9.23°→0°로 편 사진을 직접 확인했습니다. 임시 기존 메시 사본의 자세 비교이며 전체 자동 구동 완료는 아닙니다.

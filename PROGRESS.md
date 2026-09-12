@@ -48,6 +48,8 @@
 
 2026-09-12 · [v324 기존 디테일 복원](avatar_modeling/v324_detail_restore/v324_DETAIL_REVIEW.md): 사용자 지적대로 v323에서 신발 장식·옷 주름·머릿결 명암이 과도하게 줄었습니다. 기존 v322 디테일과 UV 밀도를 복원하고 실제 오염 부위만 정리했습니다. 기하·부피·본·웨이트 보존, 3면 UV 이동, Unity UV용 복제점 1,649→10개. [숨은 표면 12그룹 사진](avatar_modeling/v324_detail_restore/v324_SURFACE_GALLERY.md)과 시도·미채택 이유를 함께 기록했습니다. 전체 모델 최종 채택은 아닙니다.
 
+2026-09-12 · [v332 SiuSiu 셰이더 분석·비앙카 작업 계획](avatar_modeling/v332_shader_research/v332_SHADER_REVIEW.md): 원본 재질10개 일치, 실제 Unity 기능 OFF 비교8그림. SiuSiu는 그림자/Rim보다 마스크된 곱셈·가산 MatCap 중심입니다. 비앙카의 기존 디테일을 보존하며 얼굴·머리·천의 반응을 나누는 [제작 순서](avatar_modeling/v332_shader_research/v332_IMPLEMENTATION_PLAN.md)를 정리했습니다. 조사·문서화 완료이며 셰이더 제작·적용은 아직입니다. 기존 모델/재질 보존, 관절 후보 채택 상태 유지.
+
 **남은 일:** 기존 눈 조각과 헤어의 입체적 특성은 채색으로 해결하지 않았습니다. 선택한 작업 방식과 최종 채색 완성 승인을 구분합니다.
 
 <a id="t02"></a>
