@@ -287,7 +287,7 @@ v258–v274 전체 기록이나 v276 이후 진행 중 작업을 포함한 것�
 | v316 | [부피와 면 길이 검수](avatar_modeling/v316_volume_shape_balance/README.md) | 늘어남 감소·셔츠 접촉 회귀, 미채택 |
 | v318 | [안쪽 셔츠 분리 조건](avatar_modeling/v318_inner_shirt_clearance/README.md) | 선택 제약 불성립, 모델 미적용 |
 
-## Mac 텍스처·사진 검수 후속 · v319–v323
+## Mac 텍스처·사진 검수 후속 · v319–v324
 
 | 단계 | 보고서 | 상태 |
 |---|---|---|
@@ -296,3 +296,4 @@ v258–v274 전체 기록이나 v276 이후 진행 중 작업을 포함한 것�
 | v321 | [측면 곡선 비교](avatar_modeling/v321_arm_curve_audit/README.md) | 사용자 첨부 수준 허용 |
 | v322 | [텍스처 재작업](avatar_modeling/v322_texture_rework/v322_TEXTURE_REVIEW.md) | 기존 UV 정리 후보 |
 | v323 | [숨은 표면·새 UV](avatar_modeling/v323_hidden_texture_uv/v323_TEXTURE_UV_REVIEW.md) | 분리 전후 검수, 새 UV 비용·늘어짐 명시한 후보 |
+| v324 | [기존 디테일 복원](avatar_modeling/v324_detail_restore/v324_DETAIL_REVIEW.md) | v323 평탄화 수정, 기존 명암·UV 밀도 복원 검수본 |
