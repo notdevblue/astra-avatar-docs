@@ -10,6 +10,8 @@
 
 비앙카는 텍스처 검수 이후에도 부위별 셰이더 제작이 남아 있습니다. [v332 SiuSiu 표현 분석](avatar_modeling/v332_shader_research/v332_SHADER_REVIEW.md)은 원본의 마스크·MatCap을 실제 기능 OFF 사진으로 분리했고, 기존 디테일과 얼굴 인상을 유지하는 [부위별 작업 순서](avatar_modeling/v332_shader_research/v332_IMPLEMENTATION_PLAN.md)를 정리했습니다. 제작·적용은 아직 하지 않았으며 관절 후보와 별도 단계입니다.
 
+이후 [셰이더 전용 폴더](avatar_shader/README.md)의 [v001 실제 재질 시험](avatar_shader/v001_siusiu_style/v001_SHADER_REVIEW.md)에서 전용 마스크·MatCap과 네 후보를 만들었습니다. 밝은 테두리를 더한 C/D는 광택이 과해 제외하고, E는 더 약한 하이라이트 후보로 남겼습니다. SiuSiu와 같은 색면을 만들려면 기존 그림의 큰 명암과 헤어 묶음별 하이라이트를 함께 설계해야 한다는 한계도 사진으로 기록했습니다.
+
 2026-09-12 · [v321 주름 출처와 측면 휘어짐](avatar_modeling/v321_arm_curve_audit/README.md): 같은 자세에서 원형 전완 주름과 최근 윗소매의 추가 꺾임을 구분했습니다. 본은 일직선이나 소매 표면은 실제로 달라졌습니다. 모델 수정 없이 사진③을 보존한 비교입니다.
 
 2026-09-12 · [v320 팔을 완전히 편 정면·측면 비교](avatar_modeling/v320_straight_arm/README.md): 사진③의 어깨 방향을 유지하고 팔꿈치를 약9.23°→0°로 편 사진을 직접 확인했습니다. 임시 기존 메시 사본의 자세 비교이며 전체 자동 구동 완료는 아닙니다.

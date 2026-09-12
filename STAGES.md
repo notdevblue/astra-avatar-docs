@@ -306,3 +306,11 @@ v258–v274 전체 기록이나 v276 이후 진행 중 작업을 포함한 것�
 | v331 | [팔꿈치 세 이슈 위치·사진](avatar_modeling/v331_elbow_issues/v331_ISSUE_ATLAS.md) | 위치 표시7사진·진단2그림, 읽기 전용·v330 후보 유지 |
 | v332 | [SiuSiu 셰이더 분석·작업 계획](avatar_modeling/v332_shader_research/v332_SHADER_REVIEW.md) | 원본10재질·기능 OFF 사진8그림, 비앙카 제작·적용 전 |
 | v332 | [팔꿈치 ②·③ 분리 보정](avatar_modeling/v332_elbow_fold/v332_FOLD_REVIEW.md) | 정면·모으기4키, 14사진·실제205기록, 부분 개선 후보·① 보류 |
+
+## 셰이더 별도 작업
+
+사용자 요청으로 `avatar_shader`에서 별도 번호를 사용합니다. 위 모델링 버전과 독립된 단계입니다.
+
+| 단계 | 보고서 | 상태 |
+|---|---|---|
+| 셰이더 v001 | [SiuSiu 방식 실제 시험](avatar_shader/v001_siusiu_style/v001_SHADER_REVIEW.md) | B/C/D/E 재질·패키지, 강한광택제외·E잔여있는검수후보 |

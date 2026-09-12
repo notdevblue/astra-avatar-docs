@@ -1,5 +1,7 @@
 # 공유 범위와 갱신
 
+2026-09-12 · [셰이더 v001 · SiuSiu 방식 실제 시험](avatar_shader/v001_siusiu_style/v001_SHADER_REVIEW.md): 사용자 요청으로 avatar_shader에 별도 버전 흐름을 시작했습니다. 현재/B/C/D/E와 참고 모델을 실제 Unity에서 비교했습니다. 테두리 MatCap C/D는 광택 과장으로 제외, E는 테두리를 뺀 검수 후보이며 머리·등의 띠가 남습니다. 기본색·메시·UV·본 보존, 부위 마스크와 재질·프리팹·패키지 저장. SiuSiu 스타일 완성이나 최종 채택은 아닙니다.
+
 2026-09-12 · [v332 팔꿈치 ② 정면·③ 모으기 수정](avatar_modeling/v332_elbow_fold/v332_FOLD_REVIEW.md): 두 보정을 분리해 정면 돌출과 큰 접힘을 완화했습니다. 직접 확인한 전후14사진·시도 기록·부피/교차 검사를 함께 정리했습니다. 기준 측면 유지, 작은 각진 끝·삼각형 주름은 남아 있는 별도 후보이며 ①은 보류합니다. 같은 번호의 셰이더 조사와 별도 작업입니다.
 
 2026-09-12 · [v332 SiuSiu 셰이더 분석·비앙카 작업 계획](avatar_modeling/v332_shader_research/v332_SHADER_REVIEW.md): 원본 재질10개 일치, 실제 Unity 기능 OFF 비교8그림. SiuSiu는 그림자/Rim보다 마스크된 곱셈·가산 MatCap 중심입니다. 비앙카의 기존 디테일을 보존하며 얼굴·머리·천의 반응을 나누는 [제작 순서](avatar_modeling/v332_shader_research/v332_IMPLEMENTATION_PLAN.md)를 정리했습니다. 조사·문서화 완료이며 셰이더 제작·적용은 아직입니다. 기존 모델/재질 보존, 관절 후보 채택 상태 유지.
