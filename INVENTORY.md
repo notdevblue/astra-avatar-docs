@@ -4,18 +4,18 @@
 
 문서의 비공개 작업 파일 링크는 미포함 표기로 바꾸고 로컬 설치 경로를 생략했습니다.
 
-- 원문 Markdown: 290개
-- 본문 비교 이미지: 538개
+- 원문 Markdown: 294개
+- 본문 비교 이미지: 549개
 - 아래 SHA-256은 공유본 내용 기준입니다. 기존 저장소의 Git 이력은 포함하지 않습니다.
 
 | 파일 | 바이트 | SHA-256 |
 |---|---:|---|
 | `.gitignore` | 120 | `e1a9d489cc271e1e8036508c1fc40b68cb7e1eb006e647a30964452f11d5e743` |
-| `PROGRESS.md` | 25994 | `3add08871c1441e52486f6318f4870ac86d5f5b41f10c5159967b390a6f81075` |
-| `README.md` | 40660 | `1b346a153e3d725ee85b8ad04c7411eb1b7ba3e31a1197473a5bcd5186d251f9` |
-| `SHARING.md` | 19913 | `c16930eb22f0914af9a15a544d41c5b8c655fd185ef58e8c22b686ef751cbe96` |
-| `STAGES.md` | 31653 | `5c45a7067397678b165406758de8e74a3e680d76a9831c2d448a80330801b1fa` |
-| `STATUS.md` | 21779 | `6274c1e4a797e5a7e605f88c144ba85841d1de75e025037525a8204878a39410` |
+| `PROGRESS.md` | 26389 | `accec401954b880f511597801d9cab1474387d72864456338442c6d4f57e7457` |
+| `README.md` | 41055 | `c0af4b2af4de46e0630c341bab42253c5b0858d4ab3e5524c3e9df7c97b19b85` |
+| `SHARING.md` | 20308 | `aae931f91062884a95da2d292c3d96f0b2aefb955cfca8f8a79b0991b5739df5` |
+| `STAGES.md` | 32048 | `fbfd85b4a8cf9bf6432728035eeff25fa2ff3434aeaba2b68e7681dd940a3c63` |
+| `STATUS.md` | 22174 | `7b3930d828f743725902d9d3aca9ca86f33e50e763879ec7917a9eaaeefc7ab0` |
 | `avatar_modeling/v001_inspection/REVIEW.md` | 8117 | `620d9818f22eb42f1385752d012abbcba765dbc37f01f303531355f82eae8918` |
 | `avatar_modeling/v001_inspection/rig_trial/01_arms_raised.png` | 664846 | `8826ebeeef920de97836773476767f2d92e290725fdccef45700bdf63be87acb` |
 | `avatar_modeling/v002_refine/05_arms_raised.png` | 649841 | `205a5b29a2063e2ad60fa5741b894e3431f862079893417434d0bed6acbabc5f` |
@@ -827,6 +827,20 @@
 | `avatar_modeling/v321_arm_curve_audit/images/v321_NO_KEYS_STRAIGHT_SIDE.png` | 366285 | `6ad1ef5f00669678c4426ea17e9e8b87b1955d1bde1ae1cd9cdaf55d30f27446` |
 | `avatar_modeling/v321_arm_curve_audit/images/v321_SECTION_PROFILE.png` | 147868 | `6f236374d0894f0f9a89a31c4fea2abfc712493f4e1d531eb7c90bb411c70ce4` |
 | `avatar_modeling/v321_arm_curve_audit/v321_FEEDBACK.md` | 1779 | `41abf3029b81fc157d6a3f46b21b02c643403acceec5a97d75471fa11b309bdd` |
+| `avatar_modeling/v322_texture_rework/IMAGE_PROMPTS.md` | 2251 | `1c2bfbdccd00b85a75c9a383a01731a728ebb555c68f3badda4730704e0ccbf4` |
+| `avatar_modeling/v322_texture_rework/README.md` | 2212 | `f417cf5ffe1765f0b8d644749d6c24a006bb6d3a59f94078f72b54634807f8a6` |
+| `avatar_modeling/v322_texture_rework/images/v322_AFTER_LIT_FULL_FRONT.png` | 371030 | `e1576d154c020541e63ab8915ff436b806b7b9f78039a80f541223ee1debc829` |
+| `avatar_modeling/v322_texture_rework/images/v322_AFTER_LIT_FULL_SIDE.png` | 236410 | `6f82303ad78b8db94aeaec5cd80966669f787742c5b3d2f5cea3787fefc7d4dd` |
+| `avatar_modeling/v322_texture_rework/images/v322_AFTER_UNLIT_COAT_BACK.png` | 642802 | `de51c3ca25a097c0248b266411ea4f4bc03eecec103caf6e28f83dc8ac78dd9b` |
+| `avatar_modeling/v322_texture_rework/images/v322_AFTER_UNLIT_COAT_FRONT.png` | 754309 | `5a8bdb5174d26b2b24b99471cf6e4b8b7810d7438ccb31cdb04e07da8c2fe3ce` |
+| `avatar_modeling/v322_texture_rework/images/v322_AFTER_UNLIT_FACE.png` | 924886 | `3906e5e6e5a31733045c67db44ff95ac6fba246bfde462adaef50e524d76722d` |
+| `avatar_modeling/v322_texture_rework/images/v322_AFTER_UNLIT_LEGS_FRONT.png` | 489374 | `d705b2faf55c3c2d377d3c50dc8c91f72e76c1f38ad8dd20f96706c4ed19f88f` |
+| `avatar_modeling/v322_texture_rework/images/v322_BEFORE_LIT_FULL_FRONT.png` | 376695 | `393a756c479922e9bbad3b209a52f4d425b97ec93306fe2b5aadace4297644e1` |
+| `avatar_modeling/v322_texture_rework/images/v322_BEFORE_UNLIT_COAT_BACK.png` | 660787 | `38c79c93b6cb8863d0474c2cf79dc329ac00cb9cbfa0822fe788347e7ae4562f` |
+| `avatar_modeling/v322_texture_rework/images/v322_BEFORE_UNLIT_COAT_FRONT.png` | 791515 | `e36cff05eae868df7259c760e859d3d7bd00fa9a0d0394c1391ee3d45ec0c3a2` |
+| `avatar_modeling/v322_texture_rework/images/v322_BEFORE_UNLIT_FACE.png` | 950230 | `52b8d0bd93a8bdd09683c5caa7697fd9b043ce37d0a44b911fdf6fbe0bf69201` |
+| `avatar_modeling/v322_texture_rework/images/v322_BEFORE_UNLIT_LEGS_FRONT.png` | 503225 | `ce7c8ab6c5fb70ba28381f42d7c25454adf07eb9495e0681da62442f020d9284` |
+| `avatar_modeling/v322_texture_rework/v322_TEXTURE_REVIEW.md` | 10979 | `7387d04c4cbfe58de1101d5922029282673585c99b6bffa852c40df0cc0eed2a` |
 | `docs/NANO_WORKFLOW_RESEARCH.md` | 19300 | `703991b687a1ebd037dffff68e9c9a34672c851541abad4a9861aad4c486f59d` |
 | `docs/VRCHAT_MAC_SETUP.md` | 1632 | `91883264cad86827b9b540b597125a678b48cc5ca0ebd5a904fd1ce045bff6c0` |
 | `v257_mac_reproduction_SUPPLEMENT.md` | 596 | `d019209f30685c68601b979a6145db3aaefc06748c7663ee6ce27fc5d05ffd6a` |
@@ -839,3 +853,4 @@
 | `v319_issue_review_SUPPLEMENT.md` | 1633 | `349d281379f5de4415c9dfb97f8baf63a3b7f155e4c46cfa163063cf6df27e52` |
 | `v320_straight_arm_SUPPLEMENT.md` | 1174 | `79a7029ce7f5c5245d547437672d01c2130f342918445ac8045f004b3426eefd` |
 | `v321_arm_curve_audit_SUPPLEMENT.md` | 1671 | `afeeb3254199dfe9b5823e7f0d8732ab4ce9aca8bfbc89d94e91c9ef606ad111` |
+| `v322_texture_rework_SUPPLEMENT.md` | 2601 | `ee740a4245f8f0e4250f67182c09b6cb7744862a2aa3b98f1c2b5611f2983f2e` |
