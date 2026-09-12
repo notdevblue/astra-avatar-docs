@@ -2,6 +2,8 @@
 
 # 비앙카 셰이더 작업
 
+**현재 비교:** [v004 · 고정 그림자·2D 셰이더와 SiuSiu](v004_texture_shadow_comparison/v004_WORK_REVIEW.md). v343 텍스처를 유지한 B 검토 후보와 코트 명암을 덜 그린 C 실험 사본. 기존 후보는 아래 역사 기록으로 보존합니다.
+
 **현재 실제 후보:** [v003 · 머리카락·피부·눈 4후보](v003_surface_candidates/v003_SURFACE_REVIEW.md) · [큰 얼굴·눈 사진](v003_surface_candidates/v003_CANDIDATE_GALLERY.md). B부드러움/C윤기/D따뜻함/E차분함, 최종 채택 전 검수본이다.
 
 **소재별 후속 조사:** [v002 · 비앙카 의상 소재에 맞춘 적용 방향](v002_material_mapping/v002_MATERIAL_REVIEW.md). 기존 사진과 마스크 구분을 다시 검토했으며 새 재질 편집은 아직 없다.

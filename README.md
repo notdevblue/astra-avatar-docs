@@ -8,6 +8,17 @@
 
 # 비앙카: 원래 모습을 지키며 움직이는 아바타로
 
+**현재 텍스처 검수본은 v343입니다.** [사진 포함 작업 보고서](avatar_modeling/v343_texture_resolution/v343_WORK_REVIEW.md)에서 의상·신발·헤어·얼굴을 전후로 확인할 수 있습니다. 카라·셔츠의 의도된 접힘은 살리고, 단추 주변 천의 잔상·신발 옆선·머리와 턱 아래 색 연결을 정리했습니다. Head UV를 다시 전개했으나 늘어짐이 큰 차트는 원래 경계로 돌렸습니다. 얼굴을 조각마다 독립 채색한 실패도 기록했습니다.
+
+![v343 얼굴과 머릿결 전후](avatar_modeling/v343_texture_resolution/images/v343_COMPARE_FACE.jpg)
+
+텍스처 후 [셰이더 v004](avatar_shader/v004_texture_shadow_comparison/v004_WORK_REVIEW.md)에서 기존/A, 툰/B, 고정 그림자를 덜 그린 코트/C와 SiuSiu를 비교했습니다. B는 조명 변화를 완화하고 C는 주름 깊이도 줄어 별도 실험으로 남겼습니다. [v344 관절·본 검사](avatar_modeling/v344_texture_rig_retest/v344_WORK_REVIEW.md)는 129본·299정적 자세·121연속 표본·360물리 프레임을 실행했습니다. 아래는 같은 실제 동작에서 텍스처만 전후 비교한 GIF입니다. 바람은 아바타 파라미터이며 월드 바람 자동 감지가 아닙니다.
+
+![이동 시 텍스처 전후](avatar_modeling/v344_texture_rig_retest/images/v344_MOVEMENT_CLOSE.gif)
+
+기존 극단 자세 접촉·손가락 압축과 미세한 색 경계는 보고서에 남겼습니다. 검사 실행 완료와 전체 아바타 최종 채택은 구분합니다. 아래는 이 결과에 이르기까지의 이전 작업 기록입니다.
+
+
 **셰이더 실제 후보:** [v003 · 머리카락·피부·눈 4후보](avatar_shader/v003_surface_candidates/v003_SURFACE_REVIEW.md)와 [큰 얼굴·눈 사진](avatar_shader/v003_surface_candidates/v003_CANDIDATE_GALLERY.md)을 추가했다. B부드러움/C윤기/D따뜻함/E차분함, 의상 소재 유지·최종미채택.
 
 **소재별 적용 방향:** 사용자 지시에 따라 SiuSiu와 비앙카의 의상 소재 차이를 고려한 [v002 질감 조사](avatar_shader/v002_material_mapping/v002_MATERIAL_REVIEW.md)를 추가했다. 기존 사진 재검토·분류 한계·구현 순서이며 새 재질 적용은 아직 없다.

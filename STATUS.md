@@ -1,5 +1,7 @@
 # 공유본의 최신 상태
 
+2026-09-13 · [v343 텍스처·UV 재작업](avatar_modeling/v343_texture_resolution/v343_WORK_REVIEW.md): 의상·신발·장식·헤어·얼굴의 번짐을 정리하고 Head UV를 재전개했습니다. 단추·봉제선·머릿결과 원형·129본 보존. [v344 전체 관절·본 검사와 이동/바람 GIF](avatar_modeling/v344_texture_rig_retest/v344_WORK_REVIEW.md), [셰이더 v004 고정 그림자·2D 대안 비교](avatar_shader/v004_texture_shadow_comparison/v004_WORK_REVIEW.md)도 함께 수록했습니다. 기존 극단 자세 접촉과 일부 부드러운 반사/입선은 남아 있으며 사용자 최종 채택·VRChat 클라이언트 검증은 아닙니다.
+
 2026-09-13 · [v342 텍스처 번짐·아티팩트 조사](avatar_modeling/v342_texture_artifact_audit/v342_ARTIFACT_LIST.md): 가려진 면을 포함해 수정 후보 14항목·판정 보류 3항목을 위치 표시와 확대 사진 17장으로 정리했습니다. 기본색과 형상 음영을 분리해 확인했고, 전체 검사 사진 48장과 범위·한계도 수록했습니다. 이번에는 조사만 진행했으며 현재 모델·UV·텍스처는 v341 그대로입니다.
 
 2026-09-13 · [v341 전체 텍스처·UV 검수](avatar_modeling/v341_full_texture_detail/v341_TEXTURE_REVIEW.md): 머릿결·입술·밑창·작은 장식을 국소 정리하고, 카라 안쪽 넥타이 띠의 잘못된 셔츠 분류와 색을 수정했습니다. Head 1,855조각은 크기 유지한 채 관련 부위별로 모았습니다. 원래 눈·손·의상 디테일·형상·129본 보존, 실제 전후·숨은 면·미채택 시도 기록. 사용자 최종 채택 전입니다.

@@ -321,6 +321,9 @@ v258–v274 전체 기록이나 v276 이후 진행 중 작업을 포함한 것�
 | v341 | [전체 텍스처·Head UV](avatar_modeling/v341_full_texture_detail/v341_TEXTURE_REVIEW.md) | 부위별 Head 배치·국소 디테일·넥타이 분류/색 수정 |
 | v342 | [텍스처 번짐·아티팩트 조사](avatar_modeling/v342_texture_artifact_audit/v342_ARTIFACT_LIST.md) | 수정 후보 14·보류 3, 위치·확대 사진과 숨은 면 검사; 수정 없음 |
 
+| v343 | [텍스처·UV 재작업](avatar_modeling/v343_texture_resolution/v343_WORK_REVIEW.md) | Head 재전개·다방향 채색·디테일 보존·실제 전후 |
+| v344 | [전 관절·129본·움직임 GIF](avatar_modeling/v344_texture_rig_retest/v344_WORK_REVIEW.md) | 정적299·연속121·물리360프레임, 기존 접촉 잔여 |
+
 ## 셰이더 별도 작업
 
 사용자 요청으로 `avatar_shader`에서 별도 번호를 사용합니다. 위 모델링 버전과 독립된 단계입니다.
@@ -334,3 +337,5 @@ v258–v274 전체 기록이나 v276 이후 진행 중 작업을 포함한 것�
 - [셰이더 v002 · 소재별 대응 조사](avatar_shader/v002_material_mapping/v002_MATERIAL_REVIEW.md): 비앙카 디자인과 소재 구분을 우선, SiuSiu 반사 일괄이식 보류. 기존 사진 재검토·새 편집 없음.
 
 - [셰이더 v003 · 머리카락·피부·눈 실제 4후보](avatar_shader/v003_surface_candidates/v003_SURFACE_REVIEW.md): 69렌더/14비교그림, 부위별 비교·잔여문제 포함. 네후보 최종미채택·VRChat미검증.
+
+- [셰이더 v004 · 고정 그림자와 2D 대안](avatar_shader/v004_texture_shadow_comparison/v004_WORK_REVIEW.md): A/B/C와 SiuSiu, 광원별63렌더·고정 명암 감소 사본 비교.
