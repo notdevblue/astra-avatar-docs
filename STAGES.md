@@ -316,6 +316,9 @@ v258–v274 전체 기록이나 v276 이후 진행 중 작업을 포함한 것�
 | v336 | [디테일 보존 UV·텍스처 재작업](avatar_modeling/v336_uv_detail_rework/v336_UV_TEXTURE_REVIEW.md) | 새UV/4K전사 후보·원래디테일보존·잔여왜곡 기록 |
 | v337 | [채색용 UV 작업본](avatar_modeling/v337_paintable_uv/v337_UV_WORK_REVIEW.md) | 541패널·작은204개·디테일 보존·마스크/사진 검수 |
 | v338 | [국소 텍스처 1차 검수](avatar_modeling/v338_local_texture/v338_TEXTURE_REVIEW.md) | 허벅지 손 흔적·신발 반점 정리, 셔츠 시험 미반영·후속 잔여 |
+| v339 | [선·명암 경계 정리](avatar_modeling/v339_texture_clarity/v339_CLARITY_REVIEW.md) | 셔츠·소매·신발 일부, 3강도·미채택 구간 비교 |
+| v340 | [소매 단추 정렬·디테일](avatar_modeling/v340_cuff_buttons/v340_BUTTON_REVIEW.md) | 원래 8개 형상 유지, 전용 UV·봉제 디테일·잔상 정리 |
+| v341 | [전체 텍스처·Head UV](avatar_modeling/v341_full_texture_detail/v341_TEXTURE_REVIEW.md) | 부위별 Head 배치·국소 디테일·넥타이 분류/색 수정 |
 
 ## 셰이더 별도 작업
 
