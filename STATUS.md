@@ -1,5 +1,7 @@
 # 공유본의 최신 상태
 
+현재 절차: [NPR 잔여 작업 플로우](avatar_modeling/v351_conventional_uv/v351_WORKFLOW.md). 눈·명암 우선부터 최종 통합까지의 순서, 중간 공유·독립 검토·재검토 및 후속 iPhone 표정 연결을 별도 문서로 정리했다. 이번은 절차 문서 작성이다.
+
 추가 작업: [소매 안쪽·겨드랑이·코트 옆면의 과한 명암 비교·개선](avatar_modeling/v351_conventional_uv/v351_PAINTED_SHADOW_TASKS.md)을 등록했다. siusiu·lapwing 참고, 원인 분리와 디테일 보존을 포함하며 실제 비교·수정은 미실행이다.
 
 추가 사용자 피드백: [눈동자·흰자위·눈꺼풀 토폴로지/텍스처/UV 우선 점검](avatar_modeling/v351_conventional_uv/v351_EYE_REVIEW_TASKS.md)을 잔여 작업 1번에 등록했다. 사진 위쪽 작은 밝은 흔적도 포함한다. 목록 추가이며 실제 원인 진단·수정 완료가 아니다.

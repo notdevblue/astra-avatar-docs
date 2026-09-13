@@ -4,7 +4,7 @@
 
 문서의 비공개 작업 파일 링크는 미포함 표기로 바꾸고 로컬 설치 경로를 생략했습니다.
 
-- 원문 Markdown: 33개
+- 원문 Markdown: 34개
 - 본문 비교 이미지: 65개
 - 아래 SHA-256은 공유본 내용 기준입니다. 기존 저장소의 Git 이력은 포함하지 않습니다.
 
@@ -38,9 +38,9 @@
 | `avatar_modeling/v349_remaining_npr/reviews/v349_world_contact_empty_gif_review.md` | 8177 | `7f76b2c9dea60f6a8dfcec34df5d358abcadc13396fe2b9aac329503b9c924d0` |
 | `avatar_modeling/v349_remaining_npr/reviews/v349_world_usage_review.md` | 6655 | `38c7c7e4f6ba73a2f6652a64d73b57bccc4e3e139166584ddf01387c9b6555b0` |
 | `avatar_modeling/v349_remaining_npr/reviews/v349_world_wind_review.md` | 7415 | `e27fa9614dbf858fefbabd08b5212146561af6126bc990b28759b5235dce0996` |
-| `avatar_modeling/v349_remaining_npr/v349_WORK_PLAN.md` | 4044 | `e6663f6c5a2ff1ffaaedeeaf60236b6b425f4f2a5f39e1d4a3a48b184913b87c` |
+| `avatar_modeling/v349_remaining_npr/v349_WORK_PLAN.md` | 4328 | `8c1690a006f93b174c1883b8b257c9fe47c25c4bad0fc61d8a0bc7527d0cc433` |
 | `avatar_modeling/v349_remaining_npr/v349_WORK_REVIEW.md` | 11135 | `702708b4c9d8ccb9667e57a52dee1ab039f7a862c255d9dbe226d68df9cf34c6` |
-| `avatar_modeling/v351_conventional_uv/README.md` | 927 | `4cf94318786492d60b497565d9ccfc7237a55c11edbbf2f47b656fff0e236eda` |
+| `avatar_modeling/v351_conventional_uv/README.md` | 1096 | `d054641ab03fd611d60fbbbad99ddbc78a2861211093f76f67174c7ab804b72d` |
 | `avatar_modeling/v351_conventional_uv/images/local/BEFORE_NORMAL_CAMERA_poly3044.png` | 738049 | `242135cd157825030bc5ce848549ae5de663350eee6aa3125839c27e0ca66dd4` |
 | `avatar_modeling/v351_conventional_uv/images/local/FILTERGAP_NORMAL_CAMERA_poly3044.png` | 727342 | `6117cc03b30a672ac7a1509f289ad2db10558194f6636851771dede95bed65cc` |
 | `avatar_modeling/v351_conventional_uv/images/v351_AFTER_SHEET_00.png` | 2368497 | `2cb49a077fb440212fff33b2ef835ae32b9c12f57276f728a2959932120bd764` |
@@ -99,7 +99,8 @@
 | `avatar_modeling/v351_conventional_uv/v351_POSE_GALLERY.md` | 1171 | `1a796443016c1bf720b06aa348f70c319a5fb03ad67345bfc3c700a1406c5053` |
 | `avatar_modeling/v351_conventional_uv/v351_REPORT_INDEPENDENT_REVIEW.md` | 5090 | `91451de840acb961edce03fca5c86c78214fd0276bbbbcf9ce9b61c9c22b7f7d` |
 | `avatar_modeling/v351_conventional_uv/v351_SURFACE_GALLERY.md` | 2170 | `e4ee850f8c01fd569580384100baddbff0f4d0538f5ee21b22635158e6b6ffc0` |
-| `avatar_modeling/v351_conventional_uv/v351_WORK_REVIEW.md` | 13515 | `4d0f3f164be0322448345131dbffc786f34670cc5f4d99c1ffa9d10b56fcf274` |
+| `avatar_modeling/v351_conventional_uv/v351_WORKFLOW.md` | 11716 | `4a42ef92b31eb4bbed0d395d836ba85381ab16d30c135fc1428eabe70c5322be` |
+| `avatar_modeling/v351_conventional_uv/v351_WORK_REVIEW.md` | 13684 | `fd62511d939996b074380a84e7c29b9392e2259a957f03972128e5ca9e0ecded` |
 | `avatar_modeling/v351_conventional_uv/v351_balanced_uv_visual.md` | 5496 | `9a2373786dfb873b3f1c4617b4f6963d92392ec6d1fc49c95bc907dae380eb55` |
 | `avatar_modeling/v351_conventional_uv/v351_c11_thin_line.md` | 6657 | `068c46ec0fefdd0616246aa587e8cf164edb82e73fd77398fd5dad840ea43bf5` |
 | `avatar_modeling/v351_conventional_uv/v351_coat_tangent_w.md` | 7822 | `5fe11c53bd50d2cf1716d8b7616ab27042a63af96d1fe891cc5472d674e29255` |
