@@ -1,5 +1,7 @@
 # 공유본의 최신 상태
 
+추가 사용자 피드백: [눈동자·흰자위·눈꺼풀 토폴로지/텍스처/UV 우선 점검](avatar_modeling/v351_conventional_uv/v351_EYE_REVIEW_TASKS.md)을 잔여 작업 1번에 등록했다. 사진 위쪽 작은 밝은 흔적도 포함한다. 목록 추가이며 실제 원인 진단·수정 완료가 아니다.
+
 ## v349~v351 후속 검수 — 연결 UV·iPhone 준비
 
 [v349 잔여 NPR·물리·바람](avatar_modeling/v349_remaining_npr/v349_WORK_REVIEW.md), [v350 미채택 조각 재배치](avatar_modeling/v350_split_texture_workspace/v350_WORK_REVIEW.md), [v351 연결 UV·분리 텍스처](avatar_modeling/v351_conventional_uv/v351_WORK_REVIEW.md), [iPhone 표정 준비](avatar_modeling/v351_conventional_uv/v351_IPHONE_FACE_TRACKING_PREPARATION.md).

@@ -2,6 +2,8 @@
 
 # v351 작업 기록
 
+추가 사용자 피드백: [눈동자·흰자위 토폴로지/텍스처/UV 및 눈꺼풀 우선 점검 목록](v351_EYE_REVIEW_TASKS.md). 현재는 목록 등록이며 원인 확정·수정 완료가 아니다.
+
 [v351 사진 포함 작업 보고](v351_WORK_REVIEW.md)
 
 [iPhone 얼굴 트래킹 준비](v351_IPHONE_FACE_TRACKING_PREPARATION.md)
