@@ -355,6 +355,8 @@ v258–v274 전체 기록이나 v276 이후 진행 중 작업을 포함한 것�
 
 ## v352 — 눈·NPR 표면 및 최종 통합 검수
 
+공통 최종 기준: **Unity 게임·PC VRChat의 실제 구동과 NPR 시각 품질**로 완료를 판단한다. **Unity 콜라이더·물리 사용도 허용됐으며 대상 환경의 지원·실제 동작을 검수한다.** Blender/Unity Editor/실제 대상 런타임 검수를 분리하고, 클라이언트 이전 전달은 중간 결과로 기록한다. [작업 플로우](avatar_modeling/v351_conventional_uv/v351_WORKFLOW.md)와 [대응 목록](avatar_modeling/v352_eye_shadow_research/v352_REMAINING.md)에 명시했으며 이번은 기준 갱신만이다.
+
 최신 방향: **N01-R 2D 레퍼런스 기반 NPR 텍스처 전면 재작업**을 [대응 목록](avatar_modeling/v352_eye_shadow_research/v352_REMAINING.md)에 등록했다. 기존 텍스처를 베이스로 쓰지 않는 새 제작·UV 재작업이 허용됐고, 사전 조사와 노멀/마테리얼 검증·필요한 셰이더 재작업을 포함한다. 사용자의 정정에 따라 이번은 **목록 등록만이며 실제 제작은 미실행**이다.
 
 추가 대응: **P06-R 팔 올림 양쪽 어깨 함몰**, **S08-R 소매 안쪽·어깨의 이상한 명암**을 [사진 포함 목록](avatar_modeling/v352_eye_shadow_research/v352_REMAINING.md)에 등록했다. 형상·부피 문제와 텍스처/음영 문제를 분리해 검수하며, 이번은 구현 전 목록 갱신이다.
