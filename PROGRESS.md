@@ -1,5 +1,7 @@
 # 문제별 작업 추적
 
+**[v348 상세 작업 보고 — 부위별 전후·시도·미채택 이유·남은 일](avatar_modeling/v348_final_npr_review/v348_DETAILED_WORK_REPORT.md)**: 17개 절에서 계획과 실제 수행을 대조하고, UV 유지 이유·전사 범위·셰이더 비교·헤어/넥타이 수정·검증 한계를 사진과 GIF로 설명합니다. 이번 갱신은 문서 보강이며 모델은 기존 v348 검수본 그대로입니다.
+
 현재 검수 후보는 [v348 NPR 통합·전체 관절·본 검수](avatar_modeling/v348_final_npr_review/v348_WORK_REVIEW.md)입니다. [v346 텍스처](avatar_modeling/v346_npr_texture/v346_WORK_REVIEW.md), [v347 움직임 후보](avatar_modeling/v347_secondary_motion/v347_WORK_REVIEW.md), [셰이더 v005 A/B/C/D](avatar_shader/v005_npr_roles/v005_WORK_REVIEW.md)를 실제 제작·비교했습니다. 뒤목 헤어/넥타이의 새 셔츠 교차를 수정 후 재검사했고, 전후 사진·GIF·30fps 영상과 미채택 이유를 기록했습니다. 승인된 무릎·손가락과 원형을 유지합니다. 내부 미세 경계·기존 접촉과 PC VRChat 미검증 범위는 남아 있으며 사용자 최종 채택 전입니다.
 
 2026-09-12 · [v322 텍스처 재작업·UV 경계 정리](avatar_modeling/v322_texture_rework/v322_TEXTURE_REVIEW.md): 코트·바지·셔츠 재채색, 투영 색 혼입과 패딩 덮어쓰기 수정. 원형·UV 좌표 보존, Unity 실제 전후 사진과 미채택 시험을 기록했습니다. 뒤목의 희미한 윤곽과 셔츠 세부는 남아 최종 채색 채택은 별도입니다.

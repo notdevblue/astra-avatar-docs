@@ -1,5 +1,7 @@
 # SiuSiu Perfect Sync v002
 
+**[v348 상세 작업 보고 — 부위별 전후·시도·미채택 이유·남은 일](avatar_modeling/v348_final_npr_review/v348_DETAILED_WORK_REPORT.md)**: 17개 절에서 계획과 실제 수행을 대조하고, UV 유지 이유·전사 범위·셰이더 비교·헤어/넥타이 수정·검증 한계를 사진과 GIF로 설명합니다. 이번 갱신은 문서 보강이며 모델은 기존 v348 검수본 그대로입니다.
+
 [v002 52채널 연결·전후 사진](avatar_vrm/v002_perfect_sync/v002_PERFECT_SYNC_REVIEW.md) — 빈21개에 실제 변형 추가, 좌우 방향 수정. MouthClose 과입력 실패·실기 조정 잔여. 모델/원시자료는 비공개 보관.
 
 # SiuSiu VRM 추가 검수
