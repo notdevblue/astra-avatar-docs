@@ -5,3 +5,5 @@
 [사진 포함 실행·실패 원인·중간 검수](v353_WORK_REVIEW.md) · [레퍼런스 아트 방향과 조사](v353_ART_DIRECTION.md)
 
 현재 전체 실행 중이다. 단추/전사/눈 구조/UV/재질/물리의 실제 시험을 기록하며 최종 통합이나 PC VRChat 클라이언트 합격으로 표시하지 않는다. 원본 보존, 기존 메시 수정, Blender Computer Use, 독립 검토, Unity 실제 구동 기준을 따른다.
+
+[눈·얼굴 실제 63장 후속 검수](reviews/eye/v353_NATIVE_EYE_N_AND_FACE_LIGHT_REVIEW.md) · [단추 실제 32장 독립 검수](reviews/eye/v353_BUTTON_NORMAL_INDEPENDENT_REVIEW.md)

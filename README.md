@@ -1,5 +1,7 @@
 # SiuSiu Perfect Sync v002
 
+후속 실제 검수: [눈·얼굴 63장](avatar_modeling/v353_npr_rebuild/reviews/eye/v353_NATIVE_EYE_N_AND_FACE_LIGHT_REVIEW.md), [단추 32장](avatar_modeling/v353_npr_rebuild/reviews/eye/v353_BUTTON_NORMAL_INDEPENDENT_REVIEW.md). 눈에 필요한 268점만 남기고 불필요한 후방 이동을 복원했다. 최소 NEW4 노멀과 얼굴 국소 명암 OFF를 후속 후보로 선택했다. 단추는 세부 채색과 노멀 수정을 유지하며 미관 이득이 작은 요철 맵은 기본 OFF로 둔다. 실제 사진·미채택 이유를 기록했으며 헤어/물리/어깨/최종 통합은 계속 작업 중이다.
+
 ## v353 — 신규 NPR 채색과 근본 원인 수정 진행
 
 [사진 포함 실행 보고](avatar_modeling/v353_npr_rebuild/v353_WORK_REVIEW.md) · [레퍼런스 아트 방향](avatar_modeling/v353_npr_rebuild/v353_ART_DIRECTION.md)
