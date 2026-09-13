@@ -355,6 +355,8 @@ v258–v274 전체 기록이나 v276 이후 진행 중 작업을 포함한 것�
 
 ## v352 — 눈·NPR 표면 및 최종 통합 검수
 
+2026-09-14: 사용자 표시 사진의 **팔 올림 코트 옆면 음영·정수리 틈·눈 위 앞머리 틈**을 [해결 필요 목록](avatar_modeling/v352_eye_shadow_research/v352_REMAINING.md)에 반영했다. 이번은 대응 항목 등록이며 새 모델 수정은 미실행이다.
+
 [사진 포함 전체 보고](avatar_modeling/v352_eye_shadow_research/v352_WORK_REVIEW.md) · [물리 전후 영상](avatar_modeling/v352_eye_shadow_research/v352_PHYSICS_REVIEW.md) · [미해결 목록](avatar_modeling/v352_eye_shadow_research/v352_REMAINING.md)
 
 눈 중복 채색·커프·코트/바지 넓은 얼룩을 정리하고129본 최종540기록·물리80초×2를 새로 검증했다. 작은 눈꼬리·소매 고정 명암·헤어 접촉·숨은 넥타이 교차는 남는다. 실패 후보를 합치지 않은 검수 전달이며 전체 완료/사용자 최종 채택은 아니다. 선별 보고·렌더·GIF·MP4를 수록하고 모델/텍스처/코드는 작업 저장소에 보관한다.
