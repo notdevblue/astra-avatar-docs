@@ -128,8 +128,8 @@
 | `avatar_modeling/v352_eye_shadow_research/v352_LIGHT_REVIEW.md` | 8854 | `ea2029f0ca5b60b9b9612c3abe16f731bae9d25727982fccb28d2c5862416db9` |
 | `avatar_modeling/v352_eye_shadow_research/v352_PHYSICS_REVIEW.md` | 7061 | `ed82f8d866409dfc8eaf3b9ac094e497bfdfbe5d56d8eece1c2a87206b681306` |
 | `avatar_modeling/v352_eye_shadow_research/v352_POSE_GALLERY.md` | 4637 | `4f4d1e56b53fe6e633959674c6a08c729ed3ab68eef0b659c5f5412bfa39ed1c` |
-| `avatar_modeling/v352_eye_shadow_research/v352_PROGRESS.md` | 2301 | `4d0ca4cb26ec31d6cb15ecd138fd95f6733e6bd7575077d9b50207e962fd52ef` |
-| `avatar_modeling/v352_eye_shadow_research/v352_REMAINING.md` | 17694 | `5f929102d5f3d53e7a298e9e6560540ca051996dff872056b5a9825444b25d1b` |
+| `avatar_modeling/v352_eye_shadow_research/v352_PROGRESS.md` | 2823 | `91318917000ad5b801cd97143d2c4960bc932b58c6aa98375117eac57a585176` |
+| `avatar_modeling/v352_eye_shadow_research/v352_REMAINING.md` | 23455 | `4fef147d26a32e3a6913796a55c13ef445c57a185c59d2d2f396b2de13679427` |
 | `avatar_modeling/v352_eye_shadow_research/v352_SURFACE_GALLERY.md` | 1744 | `01ad24e0b83faeb74fa159cf9d814ada5904dbc58b6343ecef07b40df5269803` |
 | `avatar_modeling/v352_eye_shadow_research/v352_SURFACE_REVIEW.md` | 16719 | `0fe067f1592aba049f95640c6f50d5492ce873271bb4b381c575b1fdd9ad4a3e` |
 | `avatar_modeling/v352_eye_shadow_research/v352_WORK_REVIEW.md` | 8006 | `c2280aeb7e6c44d53e40fc8184cd9eb193435513a3fabd481de43ab966356199` |
