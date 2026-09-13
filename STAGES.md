@@ -370,3 +370,8 @@ v258–v274 전체 기록이나 v276 이후 진행 중 작업을 포함한 것�
 [사진 포함 전체 보고](avatar_modeling/v352_eye_shadow_research/v352_WORK_REVIEW.md) · [물리 전후 영상](avatar_modeling/v352_eye_shadow_research/v352_PHYSICS_REVIEW.md) · [미해결 목록](avatar_modeling/v352_eye_shadow_research/v352_REMAINING.md)
 
 눈 중복 채색·커프·코트/바지 넓은 얼룩을 정리하고129본 최종540기록·물리80초×2를 새로 검증했다. 작은 눈꼬리·소매 고정 명암·헤어 접촉·숨은 넥타이 교차는 남는다. 실패 후보를 합치지 않은 검수 전달이며 전체 완료/사용자 최종 채택은 아니다. 선별 보고·렌더·GIF·MP4를 수록하고 모델/텍스처/코드는 작업 저장소에 보관한다.
+
+
+## v353 · 레퍼런스 기반 NPR 전면 제작 실행
+
+[실제 전후·문제 원인·미채택 이유](avatar_modeling/v353_npr_rebuild/v353_WORK_REVIEW.md) · [아트 기준](avatar_modeling/v353_npr_rebuild/v353_ART_DIRECTION.md). 단추·원화 배경 혼입·눈 구조·헤어 UV·Unity 재질과 물리의 검수 기록. 전체 작업 진행 중, 최종 통합/PC 클라이언트 합격 아님.
