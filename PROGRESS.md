@@ -1,6 +1,6 @@
 # 문제별 작업 추적
 
-현재는 [v345 NPR 작업 계획과 독립 검토 절차](avatar_modeling/v345_npr_work_plan/v345_WORK_PLAN.md)를 우선합니다. 헤드 전체·몸 안쪽 재작업, 그림자/노멀 비교와 시각·기술 검토 에이전트의 중간/최종/수정 후 재검토를 계획에 추가했습니다. **계획만 작성했으며 제작·에이전트 실행은 보류 상태입니다.**
+현재 검수 후보는 [v348 NPR 통합·전체 관절·본 검수](avatar_modeling/v348_final_npr_review/v348_WORK_REVIEW.md)입니다. [v346 텍스처](avatar_modeling/v346_npr_texture/v346_WORK_REVIEW.md), [v347 움직임 후보](avatar_modeling/v347_secondary_motion/v347_WORK_REVIEW.md), [셰이더 v005 A/B/C/D](avatar_shader/v005_npr_roles/v005_WORK_REVIEW.md)를 실제 제작·비교했습니다. 뒤목 헤어/넥타이의 새 셔츠 교차를 수정 후 재검사했고, 전후 사진·GIF·30fps 영상과 미채택 이유를 기록했습니다. 승인된 무릎·손가락과 원형을 유지합니다. 내부 미세 경계·기존 접촉과 PC VRChat 미검증 범위는 남아 있으며 사용자 최종 채택 전입니다.
 
 2026-09-12 · [v322 텍스처 재작업·UV 경계 정리](avatar_modeling/v322_texture_rework/v322_TEXTURE_REVIEW.md): 코트·바지·셔츠 재채색, 투영 색 혼입과 패딩 덮어쓰기 수정. 원형·UV 좌표 보존, Unity 실제 전후 사진과 미채택 시험을 기록했습니다. 뒤목의 희미한 윤곽과 셔츠 세부는 남아 최종 채색 채택은 별도입니다.
 
@@ -288,3 +288,8 @@ Windows 인계6후보 → Mac 지문/동작 재생 → [v257 Mac 재현 검증](
 - [셰이더 v002 · 소재별 대응 조사](avatar_shader/v002_material_mapping/v002_MATERIAL_REVIEW.md): 비앙카 디자인과 소재 구분을 우선, SiuSiu 반사 일괄이식 보류. 기존 사진 재검토·새 편집 없음.
 
 - [셰이더 v003 · 머리카락·피부·눈 실제 4후보](avatar_shader/v003_surface_candidates/v003_SURFACE_REVIEW.md): 69렌더/14비교그림, 부위별 비교·잔여문제 포함. 네후보 최종미채택·VRChat미검증.
+
+
+## v348 후속 — T01·T08·T11·T14 검증 확장
+
+T01의 형상/채색 분리 원칙을 유지해 v346은 좌표·UV·본을 바꾸지 않고 헤드·안쪽 채색을 재작업했다. 반복 빗살은 UV 재배치 대신 전사 가림 판정의 원인을 수정했다. T08은 실제 웨이트·PhysBone·바람 후보를 비교했고, 목 뒤 새 가닥과 넥타이 시작부의 숨은 셔츠 교차를 발견해 제한 후 실제80시각에서0을 확인했다. T11의 SDK 검증은 최종299자세·121연속입력 표본과 별도60Hz 물리로 확장했다. T14처럼 수치 통과를 외형 완성으로 대신하지 않고 시각/기술 독립 검토와 잔여를 기록했다. [최종 결과와 검증 범위](avatar_modeling/v348_final_npr_review/v348_WORK_REVIEW.md).

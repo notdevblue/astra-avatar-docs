@@ -2,6 +2,8 @@
 
 # 비앙카 셰이더 작업
 
+**현재 통합 후보:** [v005 NPR A/B/C/D·SiuSiu 비교](v005_npr_roles/v005_WORK_REVIEW.md). 최신 텍스처와 실제186렌더를 비교해 D를 선택했다. 노멀 독립 이득은 작고, 어두운 환경에서 선·색층 안정성을 우선했다. 아래는 이전 시점 기록이다.
+
 **현재 비교:** [v004 · 고정 그림자·2D 셰이더와 SiuSiu](v004_texture_shadow_comparison/v004_WORK_REVIEW.md). v343 텍스처를 유지한 B 검토 후보와 코트 명암을 덜 그린 C 실험 사본. 기존 후보는 아래 역사 기록으로 보존합니다.
 
 **현재 실제 후보:** [v003 · 머리카락·피부·눈 4후보](v003_surface_candidates/v003_SURFACE_REVIEW.md) · [큰 얼굴·눈 사진](v003_surface_candidates/v003_CANDIDATE_GALLERY.md). B부드러움/C윤기/D따뜻함/E차분함, 최종 채택 전 검수본이다.

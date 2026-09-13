@@ -325,6 +325,9 @@ v258–v274 전체 기록이나 v276 이후 진행 중 작업을 포함한 것�
 | v344 | [전 관절·129본·움직임 GIF](avatar_modeling/v344_texture_rig_retest/v344_WORK_REVIEW.md) | 정적299·연속121·물리360프레임, 기존 접촉 잔여 |
 
 | v345 | [NPR 계획·독립 검토 절차](avatar_modeling/v345_npr_work_plan/v345_WORK_PLAN.md) | 계획만 작성, 제작·에이전트 실행 보류 |
+| v346 | [NPR 텍스처 재작업](avatar_modeling/v346_npr_texture/v346_WORK_REVIEW.md) | 헤드·안쪽·신발, 전사 원인 수정·디테일 보존 |
+| v347 | [헤어·넥타이 실제 후보 비교](avatar_modeling/v347_secondary_motion/v347_WORK_REVIEW.md) | 물리·웨이트·바람 분리, 미채택 시도 |
+| v348 | [NPR 통합·129본·관절·영상](avatar_modeling/v348_final_npr_review/v348_WORK_REVIEW.md) | 새 셔츠 교차 수정·실제 재검사, 잔여 범위 기록 |
 
 ## 셰이더 별도 작업
 
@@ -341,3 +344,5 @@ v258–v274 전체 기록이나 v276 이후 진행 중 작업을 포함한 것�
 - [셰이더 v003 · 머리카락·피부·눈 실제 4후보](avatar_shader/v003_surface_candidates/v003_SURFACE_REVIEW.md): 69렌더/14비교그림, 부위별 비교·잔여문제 포함. 네후보 최종미채택·VRChat미검증.
 
 - [셰이더 v004 · 고정 그림자와 2D 대안](avatar_shader/v004_texture_shadow_comparison/v004_WORK_REVIEW.md): A/B/C와 SiuSiu, 광원별63렌더·고정 명암 감소 사본 비교.
+
+- [셰이더 v005 · NPR 명암/노멀 A/B/C/D](avatar_shader/v005_npr_roles/v005_WORK_REVIEW.md): 186 실제 렌더, D 통합 후보·B/C 미채택·SiuSiu 참고.

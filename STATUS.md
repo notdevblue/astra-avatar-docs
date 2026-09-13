@@ -1,6 +1,6 @@
 # 공유본의 최신 상태
 
-현재는 [v345 NPR 작업 계획과 독립 검토 절차](avatar_modeling/v345_npr_work_plan/v345_WORK_PLAN.md)를 우선합니다. 헤드 전체·몸 안쪽 재작업, 그림자/노멀 비교와 시각·기술 검토 에이전트의 중간/최종/수정 후 재검토를 계획에 추가했습니다. **계획만 작성했으며 제작·에이전트 실행은 보류 상태입니다.**
+현재 검수 후보는 [v348 NPR 통합·전체 관절·본 검수](avatar_modeling/v348_final_npr_review/v348_WORK_REVIEW.md)입니다. [v346 텍스처](avatar_modeling/v346_npr_texture/v346_WORK_REVIEW.md), [v347 움직임 후보](avatar_modeling/v347_secondary_motion/v347_WORK_REVIEW.md), [셰이더 v005 A/B/C/D](avatar_shader/v005_npr_roles/v005_WORK_REVIEW.md)를 실제 제작·비교했습니다. 뒤목 헤어/넥타이의 새 셔츠 교차를 수정 후 재검사했고, 전후 사진·GIF·30fps 영상과 미채택 이유를 기록했습니다. 승인된 무릎·손가락과 원형을 유지합니다. 내부 미세 경계·기존 접촉과 PC VRChat 미검증 범위는 남아 있으며 사용자 최종 채택 전입니다.
 
 2026-09-13 · [v343 텍스처·UV 재작업](avatar_modeling/v343_texture_resolution/v343_WORK_REVIEW.md): 의상·신발·장식·헤어·얼굴의 번짐을 정리하고 Head UV를 재전개했습니다. 단추·봉제선·머릿결과 원형·129본 보존. [v344 전체 관절·본 검사와 이동/바람 GIF](avatar_modeling/v344_texture_rig_retest/v344_WORK_REVIEW.md), [셰이더 v004 고정 그림자·2D 대안 비교](avatar_shader/v004_texture_shadow_comparison/v004_WORK_REVIEW.md)도 함께 수록했습니다. 기존 극단 자세 접촉과 일부 부드러운 반사/입선은 남아 있으며 사용자 최종 채택·VRChat 클라이언트 검증은 아닙니다.
 
