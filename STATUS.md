@@ -1,5 +1,12 @@
 # 공유본의 최신 상태
 
+## v352 — 눈·NPR 표면 및 최종 통합 검수
+
+[사진 포함 전체 보고](avatar_modeling/v352_eye_shadow_research/v352_WORK_REVIEW.md) · [물리 전후 영상](avatar_modeling/v352_eye_shadow_research/v352_PHYSICS_REVIEW.md) · [미해결 목록](avatar_modeling/v352_eye_shadow_research/v352_REMAINING.md)
+
+눈 중복 채색·커프·코트/바지 넓은 얼룩을 정리하고129본 최종540기록·물리80초×2를 새로 검증했다. 작은 눈꼬리·소매 고정 명암·헤어 접촉·숨은 넥타이 교차는 남는다. 실패 후보를 합치지 않은 검수 전달이며 전체 완료/사용자 최종 채택은 아니다. 선별 보고·렌더·GIF·MP4를 수록하고 모델/텍스처/코드는 작업 저장소에 보관한다.
+
+
 현재 절차: [NPR 잔여 작업 플로우](avatar_modeling/v351_conventional_uv/v351_WORKFLOW.md). 눈·명암 우선부터 최종 통합까지의 순서, 중간 공유·독립 검토·재검토 및 후속 iPhone 표정 연결을 별도 문서로 정리했다. 이번은 절차 문서 작성이다.
 
 추가 작업: [소매 안쪽·겨드랑이·코트 옆면의 과한 명암 비교·개선](avatar_modeling/v351_conventional_uv/v351_PAINTED_SHADOW_TASKS.md)을 등록했다. siusiu·lapwing 참고, 원인 분리와 디테일 보존을 포함하며 실제 비교·수정은 미실행이다.

@@ -1,5 +1,12 @@
 # SiuSiu Perfect Sync v002
 
+## v352 — 눈·NPR 표면 및 최종 통합 검수
+
+[사진 포함 전체 보고](avatar_modeling/v352_eye_shadow_research/v352_WORK_REVIEW.md) · [물리 전후 영상](avatar_modeling/v352_eye_shadow_research/v352_PHYSICS_REVIEW.md) · [미해결 목록](avatar_modeling/v352_eye_shadow_research/v352_REMAINING.md)
+
+눈 중복 채색·커프·코트/바지 넓은 얼룩을 정리하고129본 최종540기록·물리80초×2를 새로 검증했다. 작은 눈꼬리·소매 고정 명암·헤어 접촉·숨은 넥타이 교차는 남는다. 실패 후보를 합치지 않은 검수 전달이며 전체 완료/사용자 최종 채택은 아니다. 선별 보고·렌더·GIF·MP4를 수록하고 모델/텍스처/코드는 작업 저장소에 보관한다.
+
+
 현재 절차: [NPR 잔여 작업 플로우](avatar_modeling/v351_conventional_uv/v351_WORKFLOW.md). 눈·명암 우선부터 최종 통합까지의 순서, 중간 공유·독립 검토·재검토 및 후속 iPhone 표정 연결을 별도 문서로 정리했다. 이번은 절차 문서 작성이다.
 
 추가 작업: [소매 안쪽·겨드랑이·코트 옆면의 과한 명암 비교·개선](avatar_modeling/v351_conventional_uv/v351_PAINTED_SHADOW_TASKS.md)을 등록했다. siusiu·lapwing 참고, 원인 분리와 디테일 보존을 포함하며 실제 비교·수정은 미실행이다.
@@ -81,7 +88,7 @@ Mac 재개 환경의 별도 검증은 [v257 Mac 재현 검증](avatar_modeling/v
 
 **공유 기준: 2026-09-11, v186까지.** Blender와 Unity Editor에서 검토한 단계이며, 어깨·골반·손에는 남은 문제가 있습니다. 실제 VRChat 클라이언트 테스트와 업로드는 아직 하지 않았습니다. 진행 중인 v187 이후 작업은 이 공유본에 포함하지 않았습니다.
 
-[현재 검토 결과](avatar_modeling/v186_review_bundle/START_HERE.md) · [문제별 작업 추적](PROGRESS.md) · [전체 단계 색인](STAGES.md) · [상태·결정 이력](STATUS.md)
+[현재 검토 결과](avatar_modeling/v352_eye_shadow_research/v352_WORK_REVIEW.md) · [문제별 작업 추적](PROGRESS.md) · [전체 단계 색인](STAGES.md) · [상태·결정 이력](STATUS.md)
 
 처음 읽는다면 아래 본문을 순서대로 보면 됩니다. 특정 문제를 이어서 보고 싶다면 **[작업 추적표](PROGRESS.md)**에서 해당 항목을 찾으세요. 각 항목에 출발 기준, 실패한 접근, 반영한 수정, 검증 근거와 남은 일을 연결했습니다. 여기의 그림은 해당 단계에서 만든 자체 비교 렌더이며, 초기 모습과 최신 모습을 한 번에 비교한 그림은 아닙니다.
 
@@ -319,7 +326,7 @@ v186 패키지는 자체 자산 13개를 묶어 다시 가져오는 과정까지
 
 ## 자세한 기록은 필요할 때 찾아보세요
 
-처음부터 모든 버전을 읽을 필요는 없습니다. **현재 결과는 [v186 종합 문서](avatar_modeling/v186_review_bundle/START_HERE.md)**에서, 관심 있는 문제의 실험 과정은 [문제별 작업 추적](PROGRESS.md)에서 시작하면 됩니다. 추적표의 T01–T14는 버전을 가로질러 같은 문제를 이어 읽기 위한 번호입니다. 버전별 보고서·연구·계획·추가 비교는 [전체 단계 색인](STAGES.md)에 시간순으로 모았습니다.
+처음부터 모든 버전을 읽을 필요는 없습니다. **현재 결과는 [v352 종합 문서](avatar_modeling/v352_eye_shadow_research/v352_WORK_REVIEW.md)**에서, 관심 있는 문제의 실험 과정은 [문제별 작업 추적](PROGRESS.md)에서 시작하면 됩니다. 추적표의 T01–T14는 버전을 가로질러 같은 문제를 이어 읽기 위한 번호입니다. 버전별 보고서·연구·계획·추가 비교는 [전체 단계 색인](STAGES.md)에 시간순으로 모았습니다.
 
 검사 숫자를 읽을 때는 세 가지를 구분해 주세요. “새 경고0”은 기존 문제까지 모두 없어졌다는 뜻이 아닙니다. 같은 면이 여러 프레임에서 경고된 사건 수는 결함 개수와 다릅니다. 정적 자세·반복 동작·무작위 검사도 모두 독립 표본으로 더할 수는 없습니다. 보고서에는 이런 조건과 실패 결과를 함께 남겼습니다.
 
