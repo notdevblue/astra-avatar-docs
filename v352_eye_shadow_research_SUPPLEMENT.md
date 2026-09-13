@@ -5,7 +5,7 @@
 문서의 비공개 작업 파일 링크는 미포함 표기로 바꾸고 로컬 설치 경로를 생략했습니다.
 
 - 원문 Markdown: 11개
-- 본문 비교 이미지: 110개
+- 본문 비교 이미지: 111개
 - 아래 SHA-256은 공유본 내용 기준입니다. 기존 저장소의 Git 이력은 포함하지 않습니다.
 
 | 파일 | 바이트 | SHA-256 |
@@ -84,6 +84,7 @@
 | `avatar_modeling/v352_eye_shadow_research/images/v352_USER_CROWN_UPPER_EYE_GAPS.jpg` | 68898 | `0228e14cbc3f99b3093b7384debcf21d623bcf642f7e77713de0d1fa048bc9a6` |
 | `avatar_modeling/v352_eye_shadow_research/images/v352_USER_JACKET_BEND_DECORATION.jpg` | 103381 | `a94135fcf4e35e4329c81b6914bf53bcefde779fcf56bcb0f8a503e303c6af6b` |
 | `avatar_modeling/v352_eye_shadow_research/images/v352_USER_RAISED_ARM_SHADOW.jpg` | 28353 | `ffd686c107d5c8b67a8acc43516dd158aee715d397c164f8b74d0790ed7be9cd` |
+| `avatar_modeling/v352_eye_shadow_research/images/v352_USER_TIE_GRAVITY.jpg` | 76199 | `c19ee854cb7a82a1b9cc34ef11ea55f136e9db6bf13e39088987352dcd2debd1` |
 | `avatar_modeling/v352_eye_shadow_research/images/v352_eye_skinprotected_-35.png` | 1314598 | `b5ceaa5eee3e6e7fd1c64a4b539fb1749aee3832c4d31cf78c7b58f6f8357257` |
 | `avatar_modeling/v352_eye_shadow_research/images/v352_eye_skinprotected_0.png` | 1315230 | `4ee65e6708b56a426a266800dd487e1e65e27bcb668ecc856faa19522c4f9776` |
 | `avatar_modeling/v352_eye_shadow_research/images/v352_eye_skinprotected_35.png` | 1310795 | `88a8c05dd52d608069523bc96ea9c989eb91f6d5835241be5b28eca2722165bf` |
@@ -126,8 +127,8 @@
 | `avatar_modeling/v352_eye_shadow_research/v352_LIGHT_REVIEW.md` | 8854 | `ea2029f0ca5b60b9b9612c3abe16f731bae9d25727982fccb28d2c5862416db9` |
 | `avatar_modeling/v352_eye_shadow_research/v352_PHYSICS_REVIEW.md` | 7061 | `ed82f8d866409dfc8eaf3b9ac094e497bfdfbe5d56d8eece1c2a87206b681306` |
 | `avatar_modeling/v352_eye_shadow_research/v352_POSE_GALLERY.md` | 4637 | `4f4d1e56b53fe6e633959674c6a08c729ed3ab68eef0b659c5f5412bfa39ed1c` |
-| `avatar_modeling/v352_eye_shadow_research/v352_PROGRESS.md` | 1470 | `d2714bd5d3ff06dfbba41d82d59779910377b5acd8cbca28dd5892c1852084ea` |
-| `avatar_modeling/v352_eye_shadow_research/v352_REMAINING.md` | 10725 | `242fdcdbe5c2104e5051d15c63135e8ae797b2bb1ed7af4980941ea8bdf99865` |
+| `avatar_modeling/v352_eye_shadow_research/v352_PROGRESS.md` | 1907 | `bc82e0726e4a8e58bff66158f34762e24598ee3b127138f87da7c1e2bdcf0efb` |
+| `avatar_modeling/v352_eye_shadow_research/v352_REMAINING.md` | 14113 | `93f1d967d17a9dfbf3219fa7a8d1257b660a1e6ab8e3b8b5e1d7c3c439214ec3` |
 | `avatar_modeling/v352_eye_shadow_research/v352_SURFACE_GALLERY.md` | 1744 | `01ad24e0b83faeb74fa159cf9d814ada5904dbc58b6343ecef07b40df5269803` |
 | `avatar_modeling/v352_eye_shadow_research/v352_SURFACE_REVIEW.md` | 16719 | `0fe067f1592aba049f95640c6f50d5492ce873271bb4b381c575b1fdd9ad4a3e` |
 | `avatar_modeling/v352_eye_shadow_research/v352_WORK_REVIEW.md` | 8006 | `c2280aeb7e6c44d53e40fc8184cd9eb193435513a3fabd481de43ab966356199` |
