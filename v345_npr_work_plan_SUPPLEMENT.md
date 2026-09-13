@@ -10,5 +10,5 @@
 
 | 파일 | 바이트 | SHA-256 |
 |---|---:|---|
-| `avatar_modeling/v345_npr_work_plan/README.md` | 574 | `6e034560a1276981d0d20089f494c39bf3740908b4b96424c2cc04cd8536c7ca` |
-| `avatar_modeling/v345_npr_work_plan/v345_WORK_PLAN.md` | 9156 | `d2b42a74fc0c69af85198b55aad2259fdf154db758135c25eab5174433a07dda` |
+| `avatar_modeling/v345_npr_work_plan/README.md` | 858 | `ccc93d807b49fd6f40b5b0ec0504bc82e867c58fdb18c08fd90ae2c7e05504b5` |
+| `avatar_modeling/v345_npr_work_plan/v345_WORK_PLAN.md` | 12581 | `41e2bdf0e20c87d06abed364bcbbd48505af597f8b6ea3ea235b40f0ef336629` |
