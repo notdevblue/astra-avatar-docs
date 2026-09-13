@@ -4,8 +4,8 @@
 
 문서의 비공개 작업 파일 링크는 미포함 표기로 바꾸고 로컬 설치 경로를 생략했습니다.
 
-- 원문 Markdown: 32개
-- 본문 비교 이미지: 64개
+- 원문 Markdown: 33개
+- 본문 비교 이미지: 65개
 - 아래 SHA-256은 공유본 내용 기준입니다. 기존 저장소의 Git 이력은 포함하지 않습니다.
 
 | 파일 | 바이트 | SHA-256 |
@@ -38,9 +38,9 @@
 | `avatar_modeling/v349_remaining_npr/reviews/v349_world_contact_empty_gif_review.md` | 8177 | `7f76b2c9dea60f6a8dfcec34df5d358abcadc13396fe2b9aac329503b9c924d0` |
 | `avatar_modeling/v349_remaining_npr/reviews/v349_world_usage_review.md` | 6655 | `38c7c7e4f6ba73a2f6652a64d73b57bccc4e3e139166584ddf01387c9b6555b0` |
 | `avatar_modeling/v349_remaining_npr/reviews/v349_world_wind_review.md` | 7415 | `e27fa9614dbf858fefbabd08b5212146561af6126bc990b28759b5235dce0996` |
-| `avatar_modeling/v349_remaining_npr/v349_WORK_PLAN.md` | 3694 | `6c4b28dbd68826bb59d6032f84e6a6fe33f307722b019fe524b22ce849763b51` |
+| `avatar_modeling/v349_remaining_npr/v349_WORK_PLAN.md` | 4044 | `e6663f6c5a2ff1ffaaedeeaf60236b6b425f4f2a5f39e1d4a3a48b184913b87c` |
 | `avatar_modeling/v349_remaining_npr/v349_WORK_REVIEW.md` | 11135 | `702708b4c9d8ccb9667e57a52dee1ab039f7a862c255d9dbe226d68df9cf34c6` |
-| `avatar_modeling/v351_conventional_uv/README.md` | 637 | `2d58d287c9af7f41740549ed644551563dcfe92c0db82e6aa71391612f8d0a81` |
+| `avatar_modeling/v351_conventional_uv/README.md` | 927 | `4cf94318786492d60b497565d9ccfc7237a55c11edbbf2f47b656fff0e236eda` |
 | `avatar_modeling/v351_conventional_uv/images/local/BEFORE_NORMAL_CAMERA_poly3044.png` | 738049 | `242135cd157825030bc5ce848549ae5de663350eee6aa3125839c27e0ca66dd4` |
 | `avatar_modeling/v351_conventional_uv/images/local/FILTERGAP_NORMAL_CAMERA_poly3044.png` | 727342 | `6117cc03b30a672ac7a1509f289ad2db10558194f6636851771dede95bed65cc` |
 | `avatar_modeling/v351_conventional_uv/images/v351_AFTER_SHEET_00.png` | 2368497 | `2cb49a077fb440212fff33b2ef835ae32b9c12f57276f728a2959932120bd764` |
@@ -80,6 +80,7 @@
 | `avatar_modeling/v351_conventional_uv/images/v351_ISOLATED_FINAL_shoe_R.png` | 3841996 | `23db6e18762728a38fd2cea02b52418a4f5d564cfbb05d59da77bf3c4a61c591` |
 | `avatar_modeling/v351_conventional_uv/images/v351_ISOLATED_FINAL_sleeves.png` | 3705668 | `2ec30cdfb148c6a9a93e8b2fd2d304214b7812905c6b6dc5b5aa6e41a92bd768` |
 | `avatar_modeling/v351_conventional_uv/images/v351_USER_EYE_FEEDBACK.jpg` | 98894 | `ad266bb394b1a6d8f626349334dfc03b1cfd9070bbbba72c7f6d1b92394afe2a` |
+| `avatar_modeling/v351_conventional_uv/images/v351_USER_SHADOW_FEEDBACK.jpg` | 115775 | `51d5dd483c50b439a0c530081c077b24387c2e1d592a1c66add42f69145d1e58` |
 | `avatar_modeling/v351_conventional_uv/images/v351_coat_PACKED_UV.png` | 1119809 | `db3943c9bc3fa64c4cc47f0e6eec1734799b75939184c149960cb859f4c13f77` |
 | `avatar_modeling/v351_conventional_uv/images/v351_face_PACKED_UV.png` | 1065412 | `b1000b712a74ebe9fd87cc7ebcfabcb194f020558d828913e2908a798ba2029e` |
 | `avatar_modeling/v351_conventional_uv/images/v351_hair_PACKED_UV.png` | 2097028 | `c82632caac901c334311f011405698221d37f84ff9e40538d694617a307571ce` |
@@ -93,11 +94,12 @@
 | `avatar_modeling/v351_conventional_uv/v351_FINAL_VISUAL_REVIEW.md` | 6882 | `e2bb34d2ac6f4fa932ae8d0155c28feb4bba42495ef560cfe35abb9b1aa73794` |
 | `avatar_modeling/v351_conventional_uv/v351_IPHONE_FACE_TRACKING_PREPARATION.md` | 7952 | `a538c308266845a75826681e27be42dfaa0f1fee98ab276e7026de3a9ca0c38f` |
 | `avatar_modeling/v351_conventional_uv/v351_MOUTH_CLASSIFICATION_REVIEW.md` | 2874 | `78b74d2f835c3c2ad63a96f6cca1c9cbe58f55d928fce7b3173cc2158ae9d042` |
+| `avatar_modeling/v351_conventional_uv/v351_PAINTED_SHADOW_TASKS.md` | 4396 | `36e1484d2e870194d143a2e1b0cdff22b0ab69bc36a7d399f83e97ad1aa2bcdc` |
 | `avatar_modeling/v351_conventional_uv/v351_PLAN.md` | 2083 | `9f9510972cd58b9f34756df4384a05cf680e7ce4a4aac4eebf06dbd6969c8875` |
 | `avatar_modeling/v351_conventional_uv/v351_POSE_GALLERY.md` | 1171 | `1a796443016c1bf720b06aa348f70c319a5fb03ad67345bfc3c700a1406c5053` |
 | `avatar_modeling/v351_conventional_uv/v351_REPORT_INDEPENDENT_REVIEW.md` | 5090 | `91451de840acb961edce03fca5c86c78214fd0276bbbbcf9ce9b61c9c22b7f7d` |
 | `avatar_modeling/v351_conventional_uv/v351_SURFACE_GALLERY.md` | 2170 | `e4ee850f8c01fd569580384100baddbff0f4d0538f5ee21b22635158e6b6ffc0` |
-| `avatar_modeling/v351_conventional_uv/v351_WORK_REVIEW.md` | 13225 | `b08a83b79095f15d68a08202abb21175065e8a4315d76e4014fb8d047986cd4a` |
+| `avatar_modeling/v351_conventional_uv/v351_WORK_REVIEW.md` | 13515 | `4d0f3f164be0322448345131dbffc786f34670cc5f4d99c1ffa9d10b56fcf274` |
 | `avatar_modeling/v351_conventional_uv/v351_balanced_uv_visual.md` | 5496 | `9a2373786dfb873b3f1c4617b4f6963d92392ec6d1fc49c95bc907dae380eb55` |
 | `avatar_modeling/v351_conventional_uv/v351_c11_thin_line.md` | 6657 | `068c46ec0fefdd0616246aa587e8cf164edb82e73fd77398fd5dad840ea43bf5` |
 | `avatar_modeling/v351_conventional_uv/v351_coat_tangent_w.md` | 7822 | `5fe11c53bd50d2cf1716d8b7616ab27042a63af96d1fe891cc5472d674e29255` |
