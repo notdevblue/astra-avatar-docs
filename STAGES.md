@@ -355,6 +355,8 @@ v258–v274 전체 기록이나 v276 이후 진행 중 작업을 포함한 것�
 
 ## v352 — 눈·NPR 표면 및 최종 통합 검수
 
+추가 대응: **P04-R 자켓의 비현실적인 몸통 추종·접힘과 중력 처짐**, **D01-R 자켓 버튼/장식의 흐림·늘어짐**을 [사진 포함 목록](avatar_modeling/v352_eye_shadow_research/v352_REMAINING.md)에 등록했다. 필요하면 Unity 대응도 허용하며, 이번 갱신은 구현 전 목록 정리다.
+
 2026-09-14: 사용자 표시 사진의 **팔 올림 코트 옆면 음영·정수리 틈·눈 위 앞머리 틈**을 [해결 필요 목록](avatar_modeling/v352_eye_shadow_research/v352_REMAINING.md)에 반영했다. 이번은 대응 항목 등록이며 새 모델 수정은 미실행이다.
 
 [사진 포함 전체 보고](avatar_modeling/v352_eye_shadow_research/v352_WORK_REVIEW.md) · [물리 전후 영상](avatar_modeling/v352_eye_shadow_research/v352_PHYSICS_REVIEW.md) · [미해결 목록](avatar_modeling/v352_eye_shadow_research/v352_REMAINING.md)
