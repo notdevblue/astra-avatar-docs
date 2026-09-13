@@ -4,8 +4,8 @@
 
 문서의 비공개 작업 파일 링크는 미포함 표기로 바꾸고 로컬 설치 경로를 생략했습니다.
 
-- 원문 Markdown: 32개
-- 본문 비교 이미지: 42개
+- 원문 Markdown: 34개
+- 본문 비교 이미지: 65개
 - 아래 SHA-256은 공유본 내용 기준입니다. 기존 저장소의 Git 이력은 포함하지 않습니다.
 
 | 파일 | 바이트 | SHA-256 |
@@ -49,18 +49,41 @@
 | `avatar_modeling/v351_conventional_uv/images/local/BEFORE_NORMAL_CAMERA_poly3044.png` | 738049 | `242135cd157825030bc5ce848549ae5de663350eee6aa3125839c27e0ca66dd4` |
 | `avatar_modeling/v351_conventional_uv/images/local/FILTERGAP_NORMAL_CAMERA_poly3044.png` | 727342 | `6117cc03b30a672ac7a1509f289ad2db10558194f6636851771dede95bed65cc` |
 | `avatar_modeling/v351_conventional_uv/images/v351_AFTER_SHEET_00.png` | 2368497 | `2cb49a077fb440212fff33b2ef835ae32b9c12f57276f728a2959932120bd764` |
+| `avatar_modeling/v351_conventional_uv/images/v351_AFTER_SHEET_01.png` | 1627384 | `482c6641193368893dad2176deecd901f941c8253327e2d0be2e4bbd85a0aacb` |
+| `avatar_modeling/v351_conventional_uv/images/v351_AFTER_SHEET_02.png` | 1580072 | `0260a638f404e3ef046e67549a8c5ddd4a817bc1292fdb2ecbfde54a2a195771` |
+| `avatar_modeling/v351_conventional_uv/images/v351_AFTER_SHEET_03.png` | 1443998 | `1601d8283d0a3312cc8a3e1612064cf405db5596ce512997cfa6d7cc613d1ebf` |
+| `avatar_modeling/v351_conventional_uv/images/v351_AFTER_SHEET_04.png` | 1796223 | `989b589fd207ff921e7fe038ab62818023bbdeb0f509e41676a249664b35d94d` |
+| `avatar_modeling/v351_conventional_uv/images/v351_AFTER_SHEET_05.png` | 1649500 | `64eec70c74ffc5f1f6725ecae96de1892564e2d99c7b579e323093739502e314` |
 | `avatar_modeling/v351_conventional_uv/images/v351_BEFORE_SHEET_00.png` | 2379479 | `a30c08bfde333ca316612999cf64a15616af804fe33fc9bd1c94e62eee15a63d` |
+| `avatar_modeling/v351_conventional_uv/images/v351_BEFORE_SHEET_01.png` | 1629825 | `37a7fd5da0d75c051abe7416e87acdac46dd22a7217f7f37ae83c7a64347e594` |
+| `avatar_modeling/v351_conventional_uv/images/v351_BEFORE_SHEET_02.png` | 1504177 | `5929e067d41e9013bb0f650b2a1fd4b402f02e08f5677f09b64135a45ac73ccd` |
+| `avatar_modeling/v351_conventional_uv/images/v351_BEFORE_SHEET_03.png` | 1385948 | `3d90e2465bf52c4edf5979f0742a283dacb2fdc3215fc53c8cc6aadd15ae0119` |
+| `avatar_modeling/v351_conventional_uv/images/v351_BEFORE_SHEET_04.png` | 1708251 | `973bfd0b038fd776c91098edc61e2d3043353e05bc5eca8f353a237eae9e6959` |
+| `avatar_modeling/v351_conventional_uv/images/v351_BEFORE_SHEET_05.png` | 1623167 | `2fa1c1797a2a7b5d9d43c7d15175481d6d7d47eac2941a114a228b015d7dc950` |
+| `avatar_modeling/v351_conventional_uv/images/v351_ISOLATED_BEFORE_coat_back_open.png` | 3641655 | `e4c87b80abdcf3c31bd7cf6fd548be353fa383baefde4af7307349baf5b7e1d4` |
+| `avatar_modeling/v351_conventional_uv/images/v351_ISOLATED_BEFORE_coat_front_open.png` | 3690140 | `6a725b8ff4507ddfb484bc05ba6b7d3037c7b579ea861c7b6d56361ca635df08` |
+| `avatar_modeling/v351_conventional_uv/images/v351_ISOLATED_BEFORE_details.png` | 3475016 | `f90bbfdb828168a17fc7aed57413dc9b45658dffc39114db08ade0b6a2248fdd` |
 | `avatar_modeling/v351_conventional_uv/images/v351_ISOLATED_BEFORE_face.png` | 4051976 | `85ebcbb8b5ed49fd81ff75cc594a62008df04f1b65b1c10a398bfb2ec6c0f59a` |
 | `avatar_modeling/v351_conventional_uv/images/v351_ISOLATED_BEFORE_hair.png` | 4739078 | `739bc2c2991da81b79340f105f9c4ee3b99d70f8afb1c3467d60380ef0090409` |
+| `avatar_modeling/v351_conventional_uv/images/v351_ISOLATED_BEFORE_hand_L.png` | 3744699 | `3e69fdf9902ad78b401ca9d768af47335ec605d939e05a427f594304f3e06913` |
+| `avatar_modeling/v351_conventional_uv/images/v351_ISOLATED_BEFORE_hand_R.png` | 3749476 | `cd39c4aedb1adb9b3af41920f0308bca20253edb6a7f62638950c1f060155ff9` |
 | `avatar_modeling/v351_conventional_uv/images/v351_ISOLATED_BEFORE_pants.png` | 3791459 | `00bcdec13758be1d093058bd665767b7d1e17975d3477b9793e038de5ce624db` |
+| `avatar_modeling/v351_conventional_uv/images/v351_ISOLATED_BEFORE_shirt.png` | 3715040 | `581a8255c78d0dd63327991a70664973924032c8814e3fc38bad5fe58bdc815a` |
+| `avatar_modeling/v351_conventional_uv/images/v351_ISOLATED_BEFORE_shoe_L.png` | 3864936 | `ebb030917217a177faa999712916ad447c619bdcb874078cf2d588ea0673f654` |
+| `avatar_modeling/v351_conventional_uv/images/v351_ISOLATED_BEFORE_shoe_R.png` | 3852623 | `6c22c88ff3fce2135019cec8b6edd57d690185894b29a8cb63a70d72079d8cc3` |
 | `avatar_modeling/v351_conventional_uv/images/v351_ISOLATED_BEFORE_sleeves.png` | 3703268 | `2c69a0dfbf6bd99ed37be42c18f28e8b76d6beed252e03c24bd32f1abc5cafae` |
 | `avatar_modeling/v351_conventional_uv/images/v351_ISOLATED_FINAL_coat_back_open.png` | 3640713 | `17eaa1782f2bd2d4f2d7810c22e17ee94117b48d7c0b85ebc79518a91e2a8828` |
+| `avatar_modeling/v351_conventional_uv/images/v351_ISOLATED_FINAL_coat_front_open.png` | 3689510 | `3c497f6e1899c3823aeab274f54ee2d414d9c2a0f304d833ebb2143fc01b878b` |
 | `avatar_modeling/v351_conventional_uv/images/v351_ISOLATED_FINAL_details.png` | 3474936 | `e5778ecfe339f6541d1cf88d6fa0d5458d013863bc4b2de2a43652fc62925483` |
 | `avatar_modeling/v351_conventional_uv/images/v351_ISOLATED_FINAL_face.png` | 4060736 | `6ee26ffa65ab421209723144f640a6f2185ea314faec17f7e6e34cb9a91858ce` |
 | `avatar_modeling/v351_conventional_uv/images/v351_ISOLATED_FINAL_hair.png` | 4734911 | `5ec7febc4cf6cc3bced99c70f0cd8cd4a11a99ba729b9a0c160c0b67f2795281` |
+| `avatar_modeling/v351_conventional_uv/images/v351_ISOLATED_FINAL_hand_L.png` | 3747246 | `7e020f590369db087d240140375d88fb3cb6b95b320dbd58327699c79cec81cc` |
 | `avatar_modeling/v351_conventional_uv/images/v351_ISOLATED_FINAL_hand_R.png` | 3751813 | `93d7e08a836013e2f2243b801cac0d4d6fe43172b5bf61a0d6584368eb8a4eae` |
 | `avatar_modeling/v351_conventional_uv/images/v351_ISOLATED_FINAL_pants.png` | 3807231 | `edfe01895928433b2d86b03bd330efce6024265738755bdd675b77c818387c84` |
+| `avatar_modeling/v351_conventional_uv/images/v351_ISOLATED_FINAL_shirt.png` | 3715792 | `48e2f7dd99400b8bfd0a9e1d979caef9abd07f9c4cd36a0ad3ee6c15a39efa0a` |
 | `avatar_modeling/v351_conventional_uv/images/v351_ISOLATED_FINAL_shoe_L.png` | 3856134 | `db4fec1dceea338562faa34fbcafd1daefc286f46f51eae6afd3e8d03ab54cfe` |
+| `avatar_modeling/v351_conventional_uv/images/v351_ISOLATED_FINAL_shoe_R.png` | 3841996 | `23db6e18762728a38fd2cea02b52418a4f5d564cfbb05d59da77bf3c4a61c591` |
+| `avatar_modeling/v351_conventional_uv/images/v351_ISOLATED_FINAL_sleeves.png` | 3705668 | `2ec30cdfb148c6a9a93e8b2fd2d304214b7812905c6b6dc5b5aa6e41a92bd768` |
 | `avatar_modeling/v351_conventional_uv/images/v351_coat_PACKED_UV.png` | 1119809 | `db3943c9bc3fa64c4cc47f0e6eec1734799b75939184c149960cb859f4c13f77` |
 | `avatar_modeling/v351_conventional_uv/images/v351_face_PACKED_UV.png` | 1065412 | `b1000b712a74ebe9fd87cc7ebcfabcb194f020558d828913e2908a798ba2029e` |
 | `avatar_modeling/v351_conventional_uv/images/v351_hair_PACKED_UV.png` | 2097028 | `c82632caac901c334311f011405698221d37f84ff9e40538d694617a307571ce` |
@@ -74,8 +97,10 @@
 | `avatar_modeling/v351_conventional_uv/v351_IPHONE_FACE_TRACKING_PREPARATION.md` | 7739 | `0efbab2bb5ba6e3ff97ce6f0f43169f5bd48d30b17d9e1cb8f5babe0a21356a0` |
 | `avatar_modeling/v351_conventional_uv/v351_MOUTH_CLASSIFICATION_REVIEW.md` | 2874 | `78b74d2f835c3c2ad63a96f6cca1c9cbe58f55d928fce7b3173cc2158ae9d042` |
 | `avatar_modeling/v351_conventional_uv/v351_PLAN.md` | 2083 | `9f9510972cd58b9f34756df4384a05cf680e7ce4a4aac4eebf06dbd6969c8875` |
+| `avatar_modeling/v351_conventional_uv/v351_POSE_GALLERY.md` | 1171 | `1a796443016c1bf720b06aa348f70c319a5fb03ad67345bfc3c700a1406c5053` |
 | `avatar_modeling/v351_conventional_uv/v351_REPORT_INDEPENDENT_REVIEW.md` | 5090 | `91451de840acb961edce03fca5c86c78214fd0276bbbbcf9ce9b61c9c22b7f7d` |
-| `avatar_modeling/v351_conventional_uv/v351_WORK_REVIEW.md` | 12851 | `17c90e024e91a67da716330dc09a5fea1c19324d8baf9c76f5c02c3453e32afe` |
+| `avatar_modeling/v351_conventional_uv/v351_SURFACE_GALLERY.md` | 2170 | `e4ee850f8c01fd569580384100baddbff0f4d0538f5ee21b22635158e6b6ffc0` |
+| `avatar_modeling/v351_conventional_uv/v351_WORK_REVIEW.md` | 13012 | `0fc168d923397731147aebdd457ffefe3bf986de037415bf89332cac6b12ca6c` |
 | `avatar_modeling/v351_conventional_uv/v351_balanced_uv_visual.md` | 5496 | `9a2373786dfb873b3f1c4617b4f6963d92392ec6d1fc49c95bc907dae380eb55` |
 | `avatar_modeling/v351_conventional_uv/v351_c11_thin_line.md` | 6657 | `068c46ec0fefdd0616246aa587e8cf164edb82e73fd77398fd5dad840ea43bf5` |
 | `avatar_modeling/v351_conventional_uv/v351_coat_tangent_w.md` | 7822 | `5fe11c53bd50d2cf1716d8b7616ab27042a63af96d1fe891cc5472d674e29255` |
