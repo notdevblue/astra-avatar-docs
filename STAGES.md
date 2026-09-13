@@ -330,6 +330,9 @@ v258–v274 전체 기록이나 v276 이후 진행 중 작업을 포함한 것�
 | v346 | [NPR 텍스처 재작업](avatar_modeling/v346_npr_texture/v346_WORK_REVIEW.md) | 헤드·안쪽·신발, 전사 원인 수정·디테일 보존 |
 | v347 | [헤어·넥타이 실제 후보 비교](avatar_modeling/v347_secondary_motion/v347_WORK_REVIEW.md) | 물리·웨이트·바람 분리, 미채택 시도 |
 | v348 | [NPR 통합·129본·관절·영상](avatar_modeling/v348_final_npr_review/v348_WORK_REVIEW.md) | 새 셔츠 교차 수정·실제 재검사, 잔여 범위 기록 |
+| v349 | [NPR 잔여·물리·바람](avatar_modeling/v349_remaining_npr/v349_WORK_REVIEW.md) | 실험 검수·잔여 구분 |
+| v350 | [조각 재배치](avatar_modeling/v350_split_texture_workspace/v350_WORK_REVIEW.md) | 미채택 |
+| v351 | [연결 UV·iPhone 준비](avatar_modeling/v351_conventional_uv/v351_WORK_REVIEW.md) | 작업 후보·표정 미구현 |
 
 ## 셰이더 별도 작업
 

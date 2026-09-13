@@ -1,5 +1,11 @@
 # SiuSiu Perfect Sync v002
 
+## v349~v351 후속 검수 — 연결 UV·iPhone 준비
+
+[v349 잔여 NPR·물리·바람](avatar_modeling/v349_remaining_npr/v349_WORK_REVIEW.md), [v350 미채택 조각 재배치](avatar_modeling/v350_split_texture_workspace/v350_WORK_REVIEW.md), [v351 연결 UV·분리 텍스처](avatar_modeling/v351_conventional_uv/v351_WORK_REVIEW.md), [iPhone 표정 준비](avatar_modeling/v351_conventional_uv/v351_IPHONE_FACE_TRACKING_PREPARATION.md).
+
+v348은 보존 기준이다. 새 UV는 형상·관절 키를 유지한 작업 후보이며 얼굴 표정은 아직 없다. 국소 필터 혼입 수정, 0.3mm 보호 여유와 실제 SDK 접촉 바람을 검토했다. 기존 작은 헤어–코트 접촉, 얇은 내부 면, 코트 새 UV 노멀, PC 최적화·통합 및 iPhone 실기는 남아 있다. 완료한 실험 기록을 전체 아바타 완료/사용자 채택으로 해석하지 않는다.
+
 **[v348 상세 작업 보고 — 부위별 전후·시도·미채택 이유·남은 일](avatar_modeling/v348_final_npr_review/v348_DETAILED_WORK_REPORT.md)**: 17개 절에서 계획과 실제 수행을 대조하고, UV 유지 이유·전사 범위·셰이더 비교·헤어/넥타이 수정·검증 한계를 사진과 GIF로 설명합니다. 이번 갱신은 문서 보강이며 모델은 기존 v348 검수본 그대로입니다.
 
 [v002 52채널 연결·전후 사진](avatar_vrm/v002_perfect_sync/v002_PERFECT_SYNC_REVIEW.md) — 빈21개에 실제 변형 추가, 좌우 방향 수정. MouthClose 과입력 실패·실기 조정 잔여. 모델/원시자료는 비공개 보관.
