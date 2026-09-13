@@ -324,6 +324,8 @@ v258–v274 전체 기록이나 v276 이후 진행 중 작업을 포함한 것�
 | v343 | [텍스처·UV 재작업](avatar_modeling/v343_texture_resolution/v343_WORK_REVIEW.md) | Head 재전개·다방향 채색·디테일 보존·실제 전후 |
 | v344 | [전 관절·129본·움직임 GIF](avatar_modeling/v344_texture_rig_retest/v344_WORK_REVIEW.md) | 정적299·연속121·물리360프레임, 기존 접촉 잔여 |
 
+| v345 | [NPR 계획·독립 검토 절차](avatar_modeling/v345_npr_work_plan/v345_WORK_PLAN.md) | 계획만 작성, 제작·에이전트 실행 보류 |
+
 ## 셰이더 별도 작업
 
 사용자 요청으로 `avatar_shader`에서 별도 번호를 사용합니다. 위 모델링 버전과 독립된 단계입니다.

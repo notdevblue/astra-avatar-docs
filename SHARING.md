@@ -1,5 +1,7 @@
 # 공유 범위와 갱신
 
+현재는 [v345 NPR 작업 계획과 독립 검토 절차](avatar_modeling/v345_npr_work_plan/v345_WORK_PLAN.md)를 우선합니다. 헤드 전체·몸 안쪽 재작업, 그림자/노멀 비교와 시각·기술 검토 에이전트의 중간/최종/수정 후 재검토를 계획에 추가했습니다. **계획만 작성했으며 제작·에이전트 실행은 보류 상태입니다.**
+
 2026-09-13 · [v343 텍스처·UV 재작업](avatar_modeling/v343_texture_resolution/v343_WORK_REVIEW.md): 의상·신발·장식·헤어·얼굴의 번짐을 정리하고 Head UV를 재전개했습니다. 단추·봉제선·머릿결과 원형·129본 보존. [v344 전체 관절·본 검사와 이동/바람 GIF](avatar_modeling/v344_texture_rig_retest/v344_WORK_REVIEW.md), [셰이더 v004 고정 그림자·2D 대안 비교](avatar_shader/v004_texture_shadow_comparison/v004_WORK_REVIEW.md)도 함께 수록했습니다. 기존 극단 자세 접촉과 일부 부드러운 반사/입선은 남아 있으며 사용자 최종 채택·VRChat 클라이언트 검증은 아닙니다.
 
 2026-09-13 · [v342 텍스처 번짐·아티팩트 조사](avatar_modeling/v342_texture_artifact_audit/v342_ARTIFACT_LIST.md): 가려진 면을 포함해 수정 후보 14항목·판정 보류 3항목을 위치 표시와 확대 사진 17장으로 정리했습니다. 기본색과 형상 음영을 분리해 확인했고, 전체 검사 사진 48장과 범위·한계도 수록했습니다. 이번에는 조사만 진행했으며 현재 모델·UV·텍스처는 v341 그대로입니다.
