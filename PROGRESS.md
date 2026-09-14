@@ -1,5 +1,8 @@
 # 문제별 작업 추적
 
+[v353 넥타이 목띠 교정·헤어 투영·Cloth 후속 검수](avatar_modeling/v353_npr_rebuild/v353_SURFACE_PHYSICS_FOLLOWUP.md) — 실제 전후 사진·GIF와 실패 원인. 전체 작업은 계속 진행 중.
+
+
 [v353 후속 헤어 전후·Unity 표면·Cloth 원인 분리](avatar_modeling/v353_npr_rebuild/v353_CONTINUATION_REVIEW.md) — 측면 헤어와 Cloth는 미완료, 실제 시험과 미채택 사유 기록.
 
 ## v353 — 신규 NPR 채색과 근본 원인 수정 진행

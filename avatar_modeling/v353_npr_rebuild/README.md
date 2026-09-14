@@ -2,6 +2,9 @@
 
 # v353 NPR 전면 재작업
 
+[v353 넥타이 목띠 교정·헤어 투영·Cloth 후속 검수](v353_SURFACE_PHYSICS_FOLLOWUP.md) — 실제 전후 사진·GIF와 실패 원인. 전체 작업은 계속 진행 중.
+
+
 [후속 헤어 전후·얼굴 환경광·카라·Cloth 진단](v353_CONTINUATION_REVIEW.md) — 전체 계속 진행, 측면 헤어·자켓 미완료.
 
 [사진 포함 실행·실패 원인·중간 검수](v353_WORK_REVIEW.md) · [레퍼런스 아트 방향과 조사](v353_ART_DIRECTION.md)
