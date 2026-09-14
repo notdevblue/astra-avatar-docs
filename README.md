@@ -1,3 +1,5 @@
+[별도 R&D · v005 정돈한 헤어·속옷형 T 포즈 4방향](rnd/v005_groomed_underwear/README.md) — 사용자 지적 후 오른쪽·후면 수정과 개별 PNG ZIP.
+
 [별도 R&D · v004 옷주름 없는 T 포즈 삼면도](rnd/v004_wrinkle_free/README.md) — 전체 착장과 분리 의상 비교안.
 
 [별도 R&D · v003 Tripo용 T 포즈 기본 몸·독립 의상 4방향](rnd/v003_tripo_modular/README.md) — 24개 PNG와 입력 ZIP.
