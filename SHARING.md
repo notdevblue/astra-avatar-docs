@@ -1,5 +1,8 @@
 # 공유 범위와 갱신
 
+[v353 헤어29·어깨 자동 구동·자켓 후속 검수](avatar_modeling/v353_npr_rebuild/v353_HAIR29_RUNTIME_COAT_REVIEW.md) — Unity64사진 직접·독립 검수, 전달 검증과 실제 물리 실패 원인. [다른 모델과 비교한 공통 한계 기록](avatar_modeling/v353_npr_rebuild/v353_COMMON_MODEL_LIMITS.md). 전체 작업 진행 중.
+
+
 [v353 어깨·헤어 안쪽·자켓 물리 후속 보고](avatar_modeling/v353_npr_rebuild/v353_SHOULDER_HAIR_COAT_REVIEW.md) — 실제 전후 사진, 배경 혼입의 선형 베이크 수정, 어깨 노멀과 Cloth 원인 대조. 남은 채색 경계와 동작 회귀를 계속 수정 중.
 
 [v353 머리 안쪽·물리 반복 및 역순 검수](avatar_modeling/v353_npr_rebuild/v353_INNER_HAIR_PHYSICS_REVIEW.md) — hair20 Unity64장과 조명 제거 전후, 넥타이 중력·실행 순서 영향, Cloth 실패 원인과 어깨 후속 사본. 전체 작업 계속 진행 중.
