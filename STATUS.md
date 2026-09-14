@@ -1,5 +1,8 @@
 # 공유본의 최신 상태
 
+[v353 헤어 알베도·관절·물리 후속 검수](avatar_modeling/v353_npr_rebuild/v353_ALBEDO_RIG_ROOT_REVIEW.md) — 새 일곱 시점 헤어와 Unity 48장 비교, 어깨 540표본 회귀, 넥타이 지지·Cloth 원인 대조. 전체 작업 진행 중.
+
+
 [v353 넥타이 목띠 교정·헤어 투영·Cloth 후속 검수](avatar_modeling/v353_npr_rebuild/v353_SURFACE_PHYSICS_FOLLOWUP.md) — 실제 전후 사진·GIF와 실패 원인. 전체 작업은 계속 진행 중.
 
 
