@@ -4,13 +4,13 @@
 
 문서의 비공개 작업 파일 링크는 미포함 표기로 바꾸고 로컬 설치 경로를 생략했습니다.
 
-- 원문 Markdown: 13개
-- 본문 비교 이미지: 75개
+- 원문 Markdown: 14개
+- 본문 비교 이미지: 90개
 - 아래 SHA-256은 공유본 내용 기준입니다. 기존 저장소의 Git 이력은 포함하지 않습니다.
 
 | 파일 | 바이트 | SHA-256 |
 |---|---:|---|
-| `avatar_modeling/v353_npr_rebuild/README.md` | 935 | `d962d14df4d263ab4262d63a2ca88d7d183c0706f3deb952e84a6cc0147238a8` |
+| `avatar_modeling/v353_npr_rebuild/README.md` | 1087 | `9240f2651795c59cf0e63a3e06554f43c179b9f60478badca2bc9fc7ac2b0b7f` |
 | `avatar_modeling/v353_npr_rebuild/images/v353_HAIR_DEFINED_UNLIT_head.png` | 1153662 | `34ae6d5d3d58c6918e8e211059e01001f3078ca6e75f3ad0f726cf9e0f0e7a15` |
 | `avatar_modeling/v353_npr_rebuild/images/v353_HAIR_DEFINED_UNLIT_head_back.png` | 1107756 | `8956eff0e898b39e017fec542e3f49e354486c44c987982aa003c31c4fdc0add` |
 | `avatar_modeling/v353_npr_rebuild/images/v353_HAIR_DEFINED_V2_180.png` | 1099095 | `7d0b8346d8afab044c62dd309f4bbfcf3c12399aeb7d9c4b9369b7167d605fce` |
@@ -83,9 +83,24 @@
 | `avatar_modeling/v353_npr_rebuild/reviews/rig/button_normal/native_v5_actual_buttons/FIXED_N_NO_MAP_CUFF_BUTTONS_LEFT.png` | 182495 | `90855e24bccbe4981a7aa34a60d9f4257c3c3a91fd417fa774c44e4ff8e6135b` |
 | `avatar_modeling/v353_npr_rebuild/reviews/rig/button_normal/native_v5_actual_buttons/FIXED_N_NO_MAP_FULL_FRONT.png` | 206641 | `2f8e15da1ec90b05642af66a5602c992d2a409ca2518201e2ef11649cf72c528` |
 | `avatar_modeling/v353_npr_rebuild/reviews/rig/button_normal/native_v5_actual_buttons/FIXED_N_NO_MAP_NECKLINE_RIGHT.png` | 630006 | `f6ebb63ca3092a4a59b9fb15b0a002df377e4dd13f6f9748907d14a3223803df` |
+| `avatar_modeling/v353_npr_rebuild/reviews/rig/hair_flow/multiview_hair_v6_views/v353_HAIR_MULTIVIEW_BASE_-35.png` | 1123742 | `e8bf4d73643301d9d2eb233655979e60931e994c124f637a71861b16434aac1a` |
+| `avatar_modeling/v353_npr_rebuild/reviews/rig/hair_flow/multiview_hair_v6_views/v353_HAIR_MULTIVIEW_BASE_0.png` | 1139423 | `dd4097583bd4b2f3d8d535c7e31b3062d971a7e56d35fba587fe288db9a2e197` |
+| `avatar_modeling/v353_npr_rebuild/reviews/rig/hair_flow/multiview_hair_v6_views/v353_HAIR_MULTIVIEW_BASE_180.png` | 1098990 | `352ecc2775c982af6a19defd1523d32e827803d0f3648964b2188ac48379b734` |
+| `avatar_modeling/v353_npr_rebuild/reviews/rig/hair_flow/multiview_hair_v6_views/v353_HAIR_MULTIVIEW_BASE_35.png` | 1148285 | `7b3e6fe5920200783bc10045e8898eb54e634b3ef34add9614061dac1873f547` |
+| `avatar_modeling/v353_npr_rebuild/reviews/rig/hair_flow/multiview_hair_v6_views/v353_HAIR_MULTIVIEW_PROJECTED_-35.png` | 1198474 | `469282189d176dd31ba48a8de630c6779e594deb717f664d1de061e831a9350f` |
+| `avatar_modeling/v353_npr_rebuild/reviews/rig/hair_flow/multiview_hair_v6_views/v353_HAIR_MULTIVIEW_PROJECTED_-90.png` | 1184727 | `48819c023cc8425bd46b0915af291d5013e75ac7671303495ab07b8598b91290` |
+| `avatar_modeling/v353_npr_rebuild/reviews/rig/hair_flow/multiview_hair_v6_views/v353_HAIR_MULTIVIEW_PROJECTED_0.png` | 1221111 | `8b11e19b5ff2addc183f9bcaeaca3820a2c710d6eac21b13384a91c6369ae769` |
+| `avatar_modeling/v353_npr_rebuild/reviews/rig/hair_flow/multiview_hair_v6_views/v353_HAIR_MULTIVIEW_PROJECTED_180.png` | 1172014 | `134668db5de44d08ea5b9e193649ba06670beae1bc906d2ffde7a799ea9beeb6` |
+| `avatar_modeling/v353_npr_rebuild/reviews/rig/hair_flow/multiview_hair_v6_views/v353_HAIR_MULTIVIEW_PROJECTED_35.png` | 1222847 | `8640f2b9d6f3aea84a3a1bc559e24aaae9415975945db1bbf20d7da9a6956dbe` |
+| `avatar_modeling/v353_npr_rebuild/reviews/rig/hair_flow/multiview_hair_v6_views/v353_HAIR_MULTIVIEW_PROJECTED_90.png` | 1176663 | `9048621ac0d4899335438b2a5b4f8fc091012269c6651141622c521e4898ed4b` |
 | `avatar_modeling/v353_npr_rebuild/reviews/rig/hair_flow/v353_HAIR_DEFINED_VISUAL_REVIEW.md` | 4657 | `2c65fc1519802434bed66c8d9dce5c866f23f8b946359ab79553b846c650bbbe` |
 | `avatar_modeling/v353_npr_rebuild/reviews/rig/hair_flow/v353_HAIR_FAILURE_CAUSES.md` | 10417 | `707aedc695872c224211915fa9ce85e3187a9c930cb93b55c54c3b0ab58bc3d7` |
 | `avatar_modeling/v353_npr_rebuild/reviews/rig/pants_seam/v353_PANTS_V7_HALO_REVIEW.md` | 6185 | `69e800c0f0b62a915d9d3cf9f2e7d2f4987134070b0f1cff2fd01e372ebcdc80` |
+| `avatar_modeling/v353_npr_rebuild/reviews/shader/native_collar_shadow_v1/DETAILS0_SHIRT0_NECKLINE_LEFT.png` | 594355 | `e3e21d1d684ee55a1254777c31129c62a7d0ce5c2ca1e438031350bc25109708` |
+| `avatar_modeling/v353_npr_rebuild/reviews/shader/native_collar_shadow_v1/DETAILS1_SHIRT1_NECKLINE_LEFT.png` | 614511 | `d83ab700fcc760dd532c5eceb3ba6ebed1f8bc421d8feb26ecaf655b53af1919` |
+| `avatar_modeling/v353_npr_rebuild/reviews/shader/native_face_environment_v1/FACE_AU000_PORTRAIT_DIM.png` | 429128 | `8c296870fb7f7dc41aaa70ae560d95eeb67b3d759dea384195a3b40cd73fd1e9` |
+| `avatar_modeling/v353_npr_rebuild/reviews/shader/native_face_environment_v1/FACE_AU025_PORTRAIT_DIM.png` | 429592 | `4ec9cb89d48c354ff6e79ae837080ff4a53e115d7c8c54d1a32a561413eb8ddf` |
+| `avatar_modeling/v353_npr_rebuild/reviews/shader/native_face_environment_v1/FACE_AU045_PORTRAIT_DIM.png` | 429397 | `91e570e66980c24846af5f9e98ffdc0307c0a9305983a9b0abf9f92b42201933` |
 | `avatar_modeling/v353_npr_rebuild/reviews/shader/native_face_lighting_v1/CURRENT_SHADOW022_35_RIGHT.png` | 386368 | `32330e3198de9365214fa67053cff85d87f0578465a256e2fc99209c291e14ff` |
 | `avatar_modeling/v353_npr_rebuild/reviews/shader/native_face_lighting_v1/CURRENT_SHADOW022_55_RIGHT.png` | 430360 | `2fe6089a90e32632f31ebe555f14ea181a5b85ae1ee1f7d7b730307a372bfe9e` |
 | `avatar_modeling/v353_npr_rebuild/reviews/shader/native_face_lighting_v1/CURRENT_SHADOW022_55_TOP.png` | 415518 | `665812ecdb926ab98f56ef0c5ae544df3179b21d0c987d113a1850db318674e8` |
@@ -97,4 +112,5 @@
 | `avatar_modeling/v353_npr_rebuild/reviews/shader/native_face_lighting_v1/SOFT_SHADOW010_35_RIGHT.png` | 368251 | `ebc5282a3f8b513b2d4163de8c2a464b96a86bc346c9ad5bfe2c7a20d216747a` |
 | `avatar_modeling/v353_npr_rebuild/reviews/shader/native_face_lighting_v1/SOFT_SHADOW010_55_TOP.png` | 402677 | `08921ef3aa60708bd785d4c29fc8f18d4c08d157e33f741fb002a4fba8a53647` |
 | `avatar_modeling/v353_npr_rebuild/v353_ART_DIRECTION.md` | 4790 | `a20e06af056f96e57268a7e40a3ffd68190813769f08901e362add151979c11f` |
-| `avatar_modeling/v353_npr_rebuild/v353_WORK_REVIEW.md` | 18545 | `8bc4fbf8d74270902f794f6d516fec8bcae425d2fee3f37786013e393f10733a` |
+| `avatar_modeling/v353_npr_rebuild/v353_CONTINUATION_REVIEW.md` | 11275 | `fdf335c3acf85a8a76c9e405e6495d55d6b252d91cb9b970101da105c7252e6a` |
+| `avatar_modeling/v353_npr_rebuild/v353_WORK_REVIEW.md` | 18697 | `0cf332ae4759968a5c8c1e0da476b121ffbf593e794f2d7da61349139add23b5` |

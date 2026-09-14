@@ -1,5 +1,7 @@
 # 문제별 작업 추적
 
+[v353 후속 헤어 전후·Unity 표면·Cloth 원인 분리](avatar_modeling/v353_npr_rebuild/v353_CONTINUATION_REVIEW.md) — 측면 헤어와 Cloth는 미완료, 실제 시험과 미채택 사유 기록.
+
 ## v353 — 신규 NPR 채색과 근본 원인 수정 진행
 
 [사진 포함 실행 보고](avatar_modeling/v353_npr_rebuild/v353_WORK_REVIEW.md) · [레퍼런스 아트 방향](avatar_modeling/v353_npr_rebuild/v353_ART_DIRECTION.md)

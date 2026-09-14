@@ -1,5 +1,7 @@
 # 전체 단계 색인
 
+[v353 후속 헤어 전후·Unity 표면·Cloth 원인 분리](avatar_modeling/v353_npr_rebuild/v353_CONTINUATION_REVIEW.md) — 측면 헤어와 Cloth는 미완료, 실제 시험과 미채택 사유 기록.
+
 후속 실제 검수: [눈·얼굴 63장](avatar_modeling/v353_npr_rebuild/reviews/eye/v353_NATIVE_EYE_N_AND_FACE_LIGHT_REVIEW.md), [단추 32장](avatar_modeling/v353_npr_rebuild/reviews/eye/v353_BUTTON_NORMAL_INDEPENDENT_REVIEW.md). 눈에 필요한 268점만 남기고 불필요한 후방 이동을 복원했다. 최소 NEW4 노멀과 얼굴 국소 명암 OFF를 후속 후보로 선택했다. 단추는 세부 채색과 노멀 수정을 유지하며 미관 이득이 작은 요철 맵은 기본 OFF로 둔다. 실제 사진·미채택 이유를 기록했으며 헤어/물리/어깨/최종 통합은 계속 작업 중이다.
 
 **[v348 상세 작업 보고 — 부위별 전후·시도·미채택 이유·남은 일](avatar_modeling/v348_final_npr_review/v348_DETAILED_WORK_REPORT.md)**: 17개 절에서 계획과 실제 수행을 대조하고, UV 유지 이유·전사 범위·셰이더 비교·헤어/넥타이 수정·검증 한계를 사진과 GIF로 설명합니다. 이번 갱신은 문서 보강이며 모델은 기존 v348 검수본 그대로입니다.

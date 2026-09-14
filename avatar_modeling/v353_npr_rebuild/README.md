@@ -2,6 +2,8 @@
 
 # v353 NPR 전면 재작업
 
+[후속 헤어 전후·얼굴 환경광·카라·Cloth 진단](v353_CONTINUATION_REVIEW.md) — 전체 계속 진행, 측면 헤어·자켓 미완료.
+
 [사진 포함 실행·실패 원인·중간 검수](v353_WORK_REVIEW.md) · [레퍼런스 아트 방향과 조사](v353_ART_DIRECTION.md)
 
 현재 전체 실행 중이다. 단추/전사/눈 구조/UV/재질/물리의 실제 시험을 기록하며 최종 통합이나 PC VRChat 클라이언트 합격으로 표시하지 않는다. 원본 보존, 기존 메시 수정, Blender Computer Use, 독립 검토, Unity 실제 구동 기준을 따른다.
