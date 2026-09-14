@@ -4,13 +4,13 @@
 
 문서의 비공개 작업 파일 링크는 미포함 표기로 바꾸고 로컬 설치 경로를 생략했습니다.
 
-- 원문 Markdown: 54개
+- 원문 Markdown: 55개
 - 본문 비교 이미지: 283개
 - 아래 SHA-256은 공유본 내용 기준입니다. 기존 저장소의 Git 이력은 포함하지 않습니다.
 
 | 파일 | 바이트 | SHA-256 |
 |---|---:|---|
-| `avatar_modeling/v353_npr_rebuild/README.md` | 3815 | `91c5fc9bb92339f023451d278e29a856d3e875d6e22b5bd0c6a3743e00ac30a4` |
+| `avatar_modeling/v353_npr_rebuild/README.md` | 3975 | `cb80fa00aceb1b5557aa942da17604bdc60f816e66f87787f3424d67cdb9dcb0` |
 | `avatar_modeling/v353_npr_rebuild/images/v353_HAIR_DEFINED_UNLIT_head.png` | 1153662 | `34ae6d5d3d58c6918e8e211059e01001f3078ca6e75f3ad0f726cf9e0f0e7a15` |
 | `avatar_modeling/v353_npr_rebuild/images/v353_HAIR_DEFINED_UNLIT_head_back.png` | 1107756 | `8956eff0e898b39e017fec542e3f49e354486c44c987982aa003c31c4fdc0add` |
 | `avatar_modeling/v353_npr_rebuild/images/v353_HAIR_DEFINED_V2_180.png` | 1099095 | `7d0b8346d8afab044c62dd309f4bbfcf3c12399aeb7d9c4b9369b7167d605fce` |
@@ -342,8 +342,9 @@
 | `avatar_modeling/v353_npr_rebuild/v353_INNER_HAIR_PHYSICS_REVIEW.md` | 14029 | `a096e6cde4d96adde2c7916563d98810e892664754d768ad76bef0884921d06e` |
 | `avatar_modeling/v353_npr_rebuild/v353_MIDPOINT_REVIEW.md` | 8948 | `b27a838144fc50402f1df04f32e22bbbf42df7541cafe2571ec124129016e2f0` |
 | `avatar_modeling/v353_npr_rebuild/v353_REFERENCE_MOTION_REVIEW.md` | 9455 | `b5efbb786d181c3c086765a601c19921cc91fa8cba79fbcbb2c77f5925c8286c` |
+| `avatar_modeling/v353_npr_rebuild/v353_RETROSPECTIVE.md` | 10789 | `8ffa6f0498720d3695100e52a08706c64f808dc8967379db7302cb273c7eda95` |
 | `avatar_modeling/v353_npr_rebuild/v353_SHOULDER_HAIR_COAT_REVIEW.md` | 13893 | `cbadbff668813abc024c7d2b45f7e53aef4e568fddf643ce9bf42751b68b790c` |
 | `avatar_modeling/v353_npr_rebuild/v353_SURFACE_COMPRESSION_REVIEW.md` | 5811 | `0a23ddd25a4c67f07cddb540ea85addf3e89f841f34c2efb31bb4259d8400afd` |
 | `avatar_modeling/v353_npr_rebuild/v353_SURFACE_PHYSICS_FOLLOWUP.md` | 10020 | `9d5d6095676cf4e6876c008eedd5b1425a4384da5f9517ca56a230f75a3ca053` |
-| `avatar_modeling/v353_npr_rebuild/v353_TEXTURE_REBUILD_REJECTED.md` | 2642 | `a4f68b7b9ddf248ea9c7b5f5cc4951d793c4106f3915c67f6f3da109e9f6f195` |
+| `avatar_modeling/v353_npr_rebuild/v353_TEXTURE_REBUILD_REJECTED.md` | 2717 | `74f9894fa8c508c8be99b8b5e5fdfbc472eaccc65f95fc31e90040a469b90b7e` |
 | `avatar_modeling/v353_npr_rebuild/v353_WORK_REVIEW.md` | 18939 | `e3d75c9dd0772c8ef182ce5ac351dbe5cfa4aae5778fa827d1c988f25bd46705` |

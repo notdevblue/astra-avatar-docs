@@ -1,3 +1,5 @@
+2026-09-15: [v353 텍스처 재작업 회고](avatar_modeling/v353_npr_rebuild/v353_RETROSPECTIVE.md) — 디테일 손실의 원인, 검수의 한계, 다음 작업의 확인 절차. 폐기 상태 유지·문서 작성만 진행.
+
 ## 최신 결정 · v353 텍스처 재작업 전면 폐기
 
 사용자가 전체 시각 품질을 거부하여 얼굴·헤어·옷·신발 새 채색 및 파생 표면 후보를 모두 미채택·중단했다. [결정과 재작업 전 기준 확인](avatar_modeling/v353_npr_rebuild/v353_TEXTURE_REBUILD_REJECTED.md). 아래는 이전 이력이며 현재 선택본을 뜻하지 않는다.

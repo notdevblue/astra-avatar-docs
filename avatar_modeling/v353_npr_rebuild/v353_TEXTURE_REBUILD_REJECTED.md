@@ -21,3 +21,5 @@ v352의 보존된 `trials/bianca_v352_NPR_REVIEW.blend`와 Unity `Assets/BiancaV
 [눈꺼풀 퇴행 조사](v353_EYELID_REGRESSION_REVIEW.md) · [옷·신발 디테일 약화 기록](reviews/detail_regression_v1/REPORT.md)
 
 이후 작업은 이번 텍스처 재작업을 계속 다듬는 것으로 자동 재개하지 않는다. 아래 이전 보고들은 실행 이력이며 현재 채택 상태는 이 문서가 우선한다.
+
+[별도 회고: 확인한 교훈과 다음 절차](v353_RETROSPECTIVE.md)
