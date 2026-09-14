@@ -1,3 +1,7 @@
+## 2026-09-14 · v353 중간 점검 / 피드백 대기
+
+[v353 사진 포함 중간 점검](avatar_modeling/v353_npr_rebuild/v353_MIDPOINT_REVIEW.md) — 얼굴·헤어·디테일 피드백 단계. 어깨 V7과 Ribbon은 미채택이며 추가 실행은 사용자 피드백까지 중지.
+
 # 캐릭터 제작·검수 기록
 
 [v353 표면 근접·BC7 압축 비교](avatar_modeling/v353_npr_rebuild/v353_SURFACE_COMPRESSION_REVIEW.md) — 실제 GPU8맵/NPR6쌍과 양손 재촬영 검수. 원본 PNG·해상도 유지, SDK 텍스처554.67→138.67MiB. 현재 표면 통합 시험용 선택이며 어깨·허리·물리 최종 통합과 PC 클라이언트는 별도 미완료.

@@ -2,6 +2,8 @@
 
 # v353 NPR 전면 재작업
 
+[v353 사진 포함 중간 점검](v353_MIDPOINT_REVIEW.md) — 얼굴·헤어·디테일 피드백 단계. 어깨 V7과 Ribbon은 미채택이며 추가 실행은 사용자 피드백까지 중지.
+
 [v353 표면 근접·BC7 압축 비교](v353_SURFACE_COMPRESSION_REVIEW.md) — 실제 GPU8맵·NPR6쌍·손 재촬영 확인, 원본 PNG/해상도 유지·텍스처 비용75% 감소. 현재 표면의 통합 시험용 선택이며 어깨·허리·물리 최종 합본은 검증 중.
 
 [v353 실제 참고 모델 동작 비교](v353_REFERENCE_MOTION_REVIEW.md) — 네 동작의 영상·직접 검토와 헤어 물리 유지 범위. 다른 모델로 수용할 수 없는 자켓 접힘은 별도로 수정 중.
@@ -25,6 +27,6 @@
 
 [사진 포함 실행·실패 원인·중간 검수](v353_WORK_REVIEW.md) · [레퍼런스 아트 방향과 조사](v353_ART_DIRECTION.md)
 
-현재 전체 실행 중이다. 단추/전사/눈 구조/UV/재질/물리의 실제 시험을 기록하며 최종 통합이나 PC VRChat 클라이언트 합격으로 표시하지 않는다. 원본 보존, 기존 메시 수정, Blender Computer Use, 독립 검토, Unity 실제 구동 기준을 따른다.
+현재는 사용자 요청에 따라 중간 점검을 위해 추가 실행을 멈췄다. 아래는 단계별 이력이다. 단추/전사/눈 구조/UV/재질/물리의 실제 시험을 기록하며 최종 통합이나 PC VRChat 클라이언트 합격으로 표시하지 않는다. 원본 보존, 기존 메시 수정, Blender Computer Use, 독립 검토, Unity 실제 구동 기준을 따른다.
 
 [눈·얼굴 실제 63장 후속 검수](reviews/eye/v353_NATIVE_EYE_N_AND_FACE_LIGHT_REVIEW.md) · [단추 실제 32장 독립 검수](reviews/eye/v353_BUTTON_NORMAL_INDEPENDENT_REVIEW.md)
