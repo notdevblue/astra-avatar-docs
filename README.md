@@ -1,3 +1,5 @@
+[별도 R&D · v002 원화 기준 삼면도](rnd/v002_character_turnaround/README.md) — 정면·측면·후면 생성 참고안. 기존 모델 변경 없음.
+
 [별도 R&D · v001 몸·의상 분리 방식 조사](rnd/v001_body_clothing_separation/v001_RESEARCH.md) — SiuSiu·Lapwing 실제 구조와 공식 자료를 비교하고 전환 비용·단계별 권장안을 정리했습니다. 조사 완료, 모델 전환 미실행.
 
 [v354 기존 외형 복귀·관절·물리 계획](avatar_modeling/v354_rig_recovery/v354_WORK_PLAN.md) — 실행 승인, 기준 사본 저장·재열기 확인. v353 텍스처 폐기는 유지하며 전체 작업은 진행 중.
