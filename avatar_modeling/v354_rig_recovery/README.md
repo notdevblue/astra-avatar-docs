@@ -2,6 +2,8 @@
 
 # v354 기존 외형 복귀와 관절·물리 마무리
 
+**2026-09-15 중간 점검 대기:** 사용자 요청으로 추가 실행 중지. [사진·영상 포함 중간 보고](v354_MIDPOINT_REVIEW.md)가 현재 상태의 기준이다. 아래 실행 순서와 진행 기록은 재개 승인이 아닌 작업 이력/계획이다.
+
 [승인된 작업 계획](v354_WORK_PLAN.md) · [진행 기록](v354_WORK_LOG.md)
 
 [넥타이 물리 검수·전후 사진과 영상](v354_TIE_RECOVERY_REVIEW.md) · [SiuSiu/Lapwing 물리 구현 조사](reviews/physics_reference/v354_REFERENCE_PHYSICS_REVIEW.md)
