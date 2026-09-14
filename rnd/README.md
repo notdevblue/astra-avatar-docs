@@ -2,6 +2,7 @@
 
 제작본과 별도로 구조·워크플로를 조사하는 폴더입니다. 조사 제안은 모델 수정이나 채택을 뜻하지 않습니다.
 
+- [v008 · 170cm 설정·헤어 포함 전신 사면도](v008_170cm_hair_turnaround/README.md) — 정돈한 헤어, 속옷형 T 포즈, 개별 PNG 4장과 키 기준.
 - [v007 · 머리·몸 분리 제작용 4방향](v007_head_body_four_views/README.md) — PNG 8장, 속옷형 T 포즈, 팔 비대칭 수정 전후·잔여 차이 포함.
 - [v006 · 얼굴·몸 분리 제작 검토](v006_head_body_separation/README.md) — 머리 작업 단위·Tripo 역할·표정·목 연결·후속 비교안.
 - [v005 · 헤어를 정돈한 속옷형 T 포즈 4방향](v005_groomed_underwear/README.md) — 잔머리·컬 정돈, 오른쪽 팔 오류와 후면 재구성 포함.
