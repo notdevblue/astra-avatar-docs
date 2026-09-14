@@ -33,3 +33,16 @@ python3 tools/restore_v354_cleanup.py --restore --prefix avatar_modeling/v353_np
 옛 `share_exports/v...` 임시 폴더에는 중복 매체가 빠져 있을 수 있다. 보고서는 작업 원본 또는 `share_exports/astra-avatar-docs`의 게시 체크아웃에서 연다. 필요하면 고정 커밋을 다시 내보내거나 삭제 목록의 `retained_source`에서 복사한다.
 
 파일별 경로·크기·SHA·남긴 압축본·구성원·검증 결과는 작업 저장소 `docs/maintenance/v354_WORKSPACE_CLEANUP.json`에 기록했다. 복원 도구는 `tools/restore_v354_cleanup.py`, 새 압축본은 `avatar_modeling/v353_npr_rebuild/reviews/maintenance_archives/v354_large_raw/`에 보관한다. 문서 저장소에는 이 설명만 공유하고 원시 검증 데이터는 게시하지 않는다.
+
+## 추가 요청 — .git 정리 확인
+
+사용자의 추가 요청으로 `.git` 내부를 점검했다. 실행 중이던 Git의 기본 자동 repack이 자연 종료되면서 새 압축 묶음과 함께 임시로 남아 있던 이전 묶음이 정리됐다. 새 pack 약19GiB와 이전 pack들이 한동안 동시에 존재한 것이 급증의 원인이었다.
+
+- 점검 중 기록 시점 `.git` **50.22GiB → 종료 25.25GiB**, 관찰된 감소 **24.97GiB**. 이 감소의 대부분은 기존 Git 자동 정리가 완료된 결과이며 앞선 원시 파일 정리 16.20GiB와 구분한다.
+- 직접 제거한 것은 Git이 garbage로 보고하고 열린 프로세스가 없는 것을 확인한 `tmp_obj` 2개, 약9.2MiB다. 실행 중인 pack은 제거하지 않았다.
+- 종료 후 garbage 0, 연결 무결성 검사와 multi-pack-index 검증 통과. 전체 pack의 모든 바이트를 다시 읽는 full fsck를 수행했다는 뜻은 아니다.
+- 남은 일반 pack은 약21.48GiB로 과거 모델·텍스처·검증 자료 등의 이력을 포함한다. 최근 도달 불가능 객체를 잠시 보관하는 cruft pack은 약3.73GiB다. pack 간 고유 객체가 있으므로 단순 중복 파일로 삭제할 수 없다.
+- 브랜치·커밋 이력 재작성, 강제 prune, reflog 강제 만료, `.git` 재생성은 하지 않았다. 작업 중인 index·파일도 보존했다. 더 큰 영구 축소는 로컬에 보관할 과거 이력/복구 범위를 바꾸는 별도 결정이 필요하다.
+- 정리 직후 디스크 여유 공간은 약45GiB였다. 다른 작업이나 Git 작업에 따라 변동할 수 있다.
+
+세부 점검 기록은 작업 저장소 `docs/maintenance/v354_GIT_CLEANUP.json`에 있다.
