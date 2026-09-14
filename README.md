@@ -1,3 +1,7 @@
+## 최신 결정 · v353 텍스처 재작업 전면 폐기
+
+사용자가 전체 시각 품질을 거부하여 얼굴·헤어·옷·신발 새 채색 및 파생 표면 후보를 모두 미채택·중단했다. [결정과 재작업 전 기준 확인](avatar_modeling/v353_npr_rebuild/v353_TEXTURE_REBUILD_REJECTED.md). 아래는 이전 이력이며 현재 선택본을 뜻하지 않는다.
+
 ## 2026-09-14 · 눈꺼풀 복원 및 디테일 재검토
 
 [v353 눈꺼풀 복원·옷/신발 디테일 검토](avatar_modeling/v353_npr_rebuild/v353_EYELID_RESTORE_AND_DETAIL_REVIEW.md) — face8 사선 결함 미채택, face9 실제 전후 검수본. 옷·신발10항목 약화와 복원 우선순위 기록.
