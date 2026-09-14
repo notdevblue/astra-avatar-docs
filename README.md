@@ -1,5 +1,7 @@
 # 캐릭터 제작·검수 기록
 
+[v353 실제 참고 모델 동작 비교](avatar_modeling/v353_npr_rebuild/v353_REFERENCE_MOTION_REVIEW.md) — 네 동작의 영상·직접 검토와 헤어 물리 유지 범위. 다른 모델로 수용할 수 없는 자켓 접힘은 별도로 수정 중.
+
 [v353 헤어29·어깨 자동 구동·자켓 후속 검수](avatar_modeling/v353_npr_rebuild/v353_HAIR29_RUNTIME_COAT_REVIEW.md) — Unity64사진 직접·독립 검수, 전달 검증과 실제 물리 실패 원인. [다른 모델과 비교한 공통 한계 기록](avatar_modeling/v353_npr_rebuild/v353_COMMON_MODEL_LIMITS.md). 전체 작업 진행 중.
 
 
