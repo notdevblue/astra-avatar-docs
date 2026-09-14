@@ -1,3 +1,8 @@
+## 2026-09-14 · v353 표면 압축 검수
+
+
+[v353 표면 근접·BC7 압축 비교](avatar_modeling/v353_npr_rebuild/v353_SURFACE_COMPRESSION_REVIEW.md) — 실제 GPU8맵/NPR6쌍과 양손 재촬영 검수. 원본 PNG·해상도 유지, SDK 텍스처554.67→138.67MiB. 현재 표면 통합 시험용 선택이며 어깨·허리·물리 최종 통합과 PC 클라이언트는 별도 미완료.
+
 # 공유본의 최신 상태
 
 [v353 실제 참고 모델 동작 비교](avatar_modeling/v353_npr_rebuild/v353_REFERENCE_MOTION_REVIEW.md) — 네 동작의 영상·직접 검토와 헤어 물리 유지 범위. 다른 모델로 수용할 수 없는 자켓 접힘은 별도로 수정 중.
