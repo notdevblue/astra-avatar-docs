@@ -4,4 +4,6 @@
 
 [승인된 작업 계획](v354_WORK_PLAN.md) · [진행 기록](v354_WORK_LOG.md)
 
+[넥타이 물리 검수·전후 사진과 영상](v354_TIE_RECOVERY_REVIEW.md) · [SiuSiu/Lapwing 물리 구현 조사](reviews/physics_reference/v354_REFERENCE_PHYSICS_REVIEW.md)
+
 v353 텍스처 전면 재작업은 폐기 상태를 유지한다. v352 외형을 보존한 사본에서 넥타이·어깨·자켓·국소 구조 문제를 분리해 해결하고 실제 Unity 결과를 검수한다. 아직 최종 통합본이 아니다.
