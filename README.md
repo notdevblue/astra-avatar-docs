@@ -1,3 +1,5 @@
+[별도 R&D · v003 Tripo용 T 포즈 기본 몸·독립 의상 4방향](rnd/v003_tripo_modular/README.md) — 24개 PNG와 입력 ZIP.
+
 [v354 중간 점검 · 사진/영상과 실제 완료 범위](avatar_modeling/v354_rig_recovery/v354_MIDPOINT_REVIEW.md) — v352 외형 복귀·넥타이 검수 완료, 어깨/자켓/눈/헤어는 후보 또는 준비 단계. 사용자 피드백 전 추가 실행 중지.
 
 [v354 넥타이 물리 복구·참고 모델 조사](avatar_modeling/v354_rig_recovery/v354_TIE_RECOVERY_REVIEW.md) — v352 원래 외형 유지, 실제 전후 검수 후 넥타이 통합 후보 선택. SiuSiu·Lapwing의 Unity PhysBone 구조를 기준으로 후속 작업 진행 중.
