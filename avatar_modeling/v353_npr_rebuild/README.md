@@ -2,6 +2,8 @@
 
 # v353 NPR 전면 재작업
 
+[v353 눈꺼풀 복원·옷/신발 디테일 검토](v353_EYELID_RESTORE_AND_DETAIL_REVIEW.md) — face8 사선 결함 미채택, face9 실제 전후 검수본. 옷·신발10항목 약화와 복원 우선순위 기록.
+
 [v353 사진 포함 중간 점검](v353_MIDPOINT_REVIEW.md) — 얼굴·헤어·디테일 피드백 단계. 어깨 V7과 Ribbon은 미채택이며 추가 실행은 사용자 피드백까지 중지.
 
 [v353 표면 근접·BC7 압축 비교](v353_SURFACE_COMPRESSION_REVIEW.md) — 실제 GPU8맵·NPR6쌍·손 재촬영 확인, 원본 PNG/해상도 유지·텍스처 비용75% 감소. 현재 표면의 통합 시험용 선택이며 어깨·허리·물리 최종 합본은 검증 중.

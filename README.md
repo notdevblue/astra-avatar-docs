@@ -1,3 +1,7 @@
+## 2026-09-14 · 눈꺼풀 복원 및 디테일 재검토
+
+[v353 눈꺼풀 복원·옷/신발 디테일 검토](avatar_modeling/v353_npr_rebuild/v353_EYELID_RESTORE_AND_DETAIL_REVIEW.md) — face8 사선 결함 미채택, face9 실제 전후 검수본. 옷·신발10항목 약화와 복원 우선순위 기록.
+
 ## 2026-09-14 · v353 중간 점검 / 피드백 대기
 
 [v353 사진 포함 중간 점검](avatar_modeling/v353_npr_rebuild/v353_MIDPOINT_REVIEW.md) — 얼굴·헤어·디테일 피드백 단계. 어깨 V7과 Ribbon은 미채택이며 추가 실행은 사용자 피드백까지 중지.
