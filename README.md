@@ -1,3 +1,5 @@
+[별도 R&D · v004 옷주름 없는 T 포즈 삼면도](rnd/v004_wrinkle_free/README.md) — 전체 착장과 분리 의상 비교안.
+
 [별도 R&D · v003 Tripo용 T 포즈 기본 몸·독립 의상 4방향](rnd/v003_tripo_modular/README.md) — 24개 PNG와 입력 ZIP.
 
 [v354 중간 점검 · 사진/영상과 실제 완료 범위](avatar_modeling/v354_rig_recovery/v354_MIDPOINT_REVIEW.md) — v352 외형 복귀·넥타이 검수 완료, 어깨/자켓/눈/헤어는 후보 또는 준비 단계. 사용자 피드백 전 추가 실행 중지.
