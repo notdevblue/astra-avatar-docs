@@ -4,13 +4,13 @@
 
 문서의 비공개 작업 파일 링크는 미포함 표기로 바꾸고 로컬 설치 경로를 생략했습니다.
 
-- 원문 Markdown: 18개
-- 본문 비교 이미지: 118개
+- 원문 Markdown: 21개
+- 본문 비교 이미지: 150개
 - 아래 SHA-256은 공유본 내용 기준입니다. 기존 저장소의 Git 이력은 포함하지 않습니다.
 
 | 파일 | 바이트 | SHA-256 |
 |---|---:|---|
-| `avatar_modeling/v353_npr_rebuild/README.md` | 1504 | `4f27f9240b4255c5561216ebdd1111be219cb510b681db746b970aa311693eb2` |
+| `avatar_modeling/v353_npr_rebuild/README.md` | 1748 | `fb5c2dc91b695f7a486987c40c2f12391ba266b83eca82f167322a30cae260b4` |
 | `avatar_modeling/v353_npr_rebuild/images/v353_HAIR_DEFINED_UNLIT_head.png` | 1153662 | `34ae6d5d3d58c6918e8e211059e01001f3078ca6e75f3ad0f726cf9e0f0e7a15` |
 | `avatar_modeling/v353_npr_rebuild/images/v353_HAIR_DEFINED_UNLIT_head_back.png` | 1107756 | `8956eff0e898b39e017fec542e3f49e354486c44c987982aa003c31c4fdc0add` |
 | `avatar_modeling/v353_npr_rebuild/images/v353_HAIR_DEFINED_V2_180.png` | 1099095 | `7d0b8346d8afab044c62dd309f4bbfcf3c12399aeb7d9c4b9369b7167d605fce` |
@@ -76,14 +76,36 @@
 | `avatar_modeling/v353_npr_rebuild/reviews/hair_albedo_unity17/media/v353_HAIR_UNITY17_02.jpg` | 525094 | `f3dc7b31672f084935197074640d1998328293efa8892cd9d60ba09803c723a2` |
 | `avatar_modeling/v353_npr_rebuild/reviews/hair_albedo_unity17/media/v353_HAIR_UNITY17_03.jpg` | 501491 | `3e8fef4e91c90d1740544de5b4f760c3ef51854a61cfd3e4afebbff8b524fa18` |
 | `avatar_modeling/v353_npr_rebuild/reviews/hair_albedo_unity17/media/v353_HAIR_UNITY17_04.jpg` | 448788 | `3880a63e4f1c29c3c2391835287f2ded2ec343f915347f8f208e411754ff6781` |
+| `avatar_modeling/v353_npr_rebuild/reviews/hair_albedo_unity18/media/v353_HAIR_UNITY18_01.jpg` | 380574 | `920994146a30042835e698349adae00de7a2197ebf7659357f5a03d6e2d5aecc` |
+| `avatar_modeling/v353_npr_rebuild/reviews/hair_albedo_unity18/media/v353_HAIR_UNITY18_02.jpg` | 371540 | `53d6c876c78946f05ce8baf04d90c7e6bec6ada31e687f38c9f1b9302fe73e8e` |
+| `avatar_modeling/v353_npr_rebuild/reviews/hair_albedo_unity18/media/v353_HAIR_UNITY18_03.jpg` | 349247 | `8c3964129799adbf7e90fb7521e56847dd8f1a20aabf2ff86d7e9397fd12fdbb` |
+| `avatar_modeling/v353_npr_rebuild/reviews/hair_albedo_unity18/media/v353_HAIR_UNITY18_04.jpg` | 268663 | `d7d368f1437a4516978780c97ea5cbc5c75fb5f090da1510bad68d07caad27b8` |
+| `avatar_modeling/v353_npr_rebuild/reviews/hair_albedo_unity18/media/v353_HAIR_UNITY18_05.jpg` | 344077 | `c0ddcd80a47d65d1b177b61eae99a6c1e3979b1544648b35c103e6fa338f6615` |
+| `avatar_modeling/v353_npr_rebuild/reviews/hair_albedo_unity18/media/v353_HAIR_UNITY18_06.jpg` | 349586 | `acddd68264240e256783fdb5d3b14971e08bfe83ee22c101522a1f4136ad89d0` |
+| `avatar_modeling/v353_npr_rebuild/reviews/hair_albedo_unity18/media/v353_HAIR_UNITY18_07.jpg` | 353844 | `b0218bd59dc7ea1e5c672203f1ce61baee7ea8048c3213272a8953bddf33ad17` |
+| `avatar_modeling/v353_npr_rebuild/reviews/hair_albedo_unity18/media/v353_HAIR_UNITY18_08.jpg` | 325734 | `452d0f64973c80f98b7421b5b29dad684e1a89e4e563ea84a920401b6d30eda3` |
+| `avatar_modeling/v353_npr_rebuild/reviews/hair_albedo_unity19/ALBEDO19_LOW_90_LEFT.png` | 568199 | `44776631ecb9cb661970866875e7e368d21cf4b26bbd578503ac7ece93e06518` |
+| `avatar_modeling/v353_npr_rebuild/reviews/hair_albedo_unity19/ALBEDO19_LOW_BACK_RIGHT.png` | 551205 | `a0a000b818dacdf28379f7c14ef783bc7ddd8e2d2ae6480fb2b1d1530674443a` |
+| `avatar_modeling/v353_npr_rebuild/reviews/hair_albedo_unity19/media/v353_HAIR_UNITY19_01.jpg` | 423814 | `ca3d871e0e38b9ddaa2eb8206357c81f53b8aaf09f6e353e3066ad0fb0a7a7de` |
+| `avatar_modeling/v353_npr_rebuild/reviews/hair_albedo_unity19/media/v353_HAIR_UNITY19_02.jpg` | 413675 | `f43aecc14c88a60798223635cf4c81272433843acbc776ee5243df1e83fead5d` |
+| `avatar_modeling/v353_npr_rebuild/reviews/hair_albedo_unity19/media/v353_HAIR_UNITY19_03.jpg` | 388083 | `f35a36eee4cba65fafc39c933cee3940923706f7fe99e15ca23266b0f6762542` |
+| `avatar_modeling/v353_npr_rebuild/reviews/hair_albedo_unity19/media/v353_HAIR_UNITY19_04.jpg` | 296606 | `e683b6aa50b675f364b38c0dad81f43811867a183887ea8c9e5d03eba96f8303` |
+| `avatar_modeling/v353_npr_rebuild/reviews/hair_albedo_unity19/media/v353_HAIR_UNITY19_05.jpg` | 393017 | `03a441679f7bf9c8a1f931a289fc76e5a4bcce55a2e252b28bbfb219f66c1ef5` |
+| `avatar_modeling/v353_npr_rebuild/reviews/hair_albedo_unity19/media/v353_HAIR_UNITY19_06.jpg` | 397425 | `d6453b1412ca7f86e8778dd76a8c310044eea1a2f1f24b8e3cc305221c22c16e` |
+| `avatar_modeling/v353_npr_rebuild/reviews/hair_albedo_unity19/media/v353_HAIR_UNITY19_07.jpg` | 392641 | `8692f615db4c12059e404bcc1506460239e5959bfe4dda6ed79c2085dc6da6b6` |
+| `avatar_modeling/v353_npr_rebuild/reviews/hair_albedo_unity19/media/v353_HAIR_UNITY19_08.jpg` | 359436 | `a9c1f7d17c9bd9f91e8e3ba177a3c547f27f4221f1cdf5b9bdd77fb5c4c031f0` |
 | `avatar_modeling/v353_npr_rebuild/reviews/physics/media/v353_HAIR_SURFACE_GUIDE_WIND_SAMPLED.gif` | 2565433 | `3ca263a6120b528c1734325cd80511112c46de90c9dbed4eecbe90472ca0dd0a` |
 | `avatar_modeling/v353_npr_rebuild/reviews/physics/media/v353_HAIR_SURFACE_GUIDE_WIND_SAMPLED.mp4` | 335784 | `670ef1bf53eb44c4e637c84fd604612d28e09864d712abbb2b3247d794fba414` |
+| `avatar_modeling/v353_npr_rebuild/reviews/physics/media/v353_SURFACE19_TIE_CONTINUOUS.mp4` | 942438 | `c126bb2937003fb40a4d193f62cfd57949fa9230f8ad4f59d797d3b31eb0d3cb` |
+| `avatar_modeling/v353_npr_rebuild/reviews/physics/media/v353_SURFACE19_TIE_DECODE_SHEET.jpg` | 446335 | `03ea6017da0702b82c81a286eb4ed4d16dbf538cf46426ae941729e4f664d127` |
+| `avatar_modeling/v353_npr_rebuild/reviews/physics/media/v353_TIE_CONTINUOUS_DECODE_SHEET.jpg` | 569989 | `56830d24a6529bf88dff08f04f3c52c4fd8d7db9f90bad6eba8e2359edf2e373` |
 | `avatar_modeling/v353_npr_rebuild/reviews/physics/media/v353_TIE_GRAVITY_LeanForward_SIDE.jpg` | 110665 | `24670701946dc50868647b4eda2dec16ee1871d362c1e984872bf97fd804d465` |
 | `avatar_modeling/v353_npr_rebuild/reviews/physics/media/v353_TIE_GRAVITY_LeanLeft_SIDE.jpg` | 102142 | `52e51786a588e218ac3e62c9c964d5655849ffb35c20db7f5d8ae8b2e6d6782a` |
 | `avatar_modeling/v353_npr_rebuild/reviews/physics/media/v353_TIE_GRAVITY_LeanRight_SIDE.jpg` | 101185 | `d1b719826ab6de6d5069fc383bd540fc9d9aa34ac6ab45fde68cadad08037788` |
 | `avatar_modeling/v353_npr_rebuild/reviews/physics/media/v353_TIE_MARGIN_LeanForward.jpg` | 249211 | `455ca180f071a4ea94f0fb9c032fc97ce4178b8bb7c299e2f93c0ebee2d0eca7` |
 | `avatar_modeling/v353_npr_rebuild/reviews/physics/media/v353_TIE_MARGIN_LeanLeft.jpg` | 239510 | `9661e1322d9a1bd5fdb31c508cc9a523c564aa97581a655109ecf0eb710fa80f` |
 | `avatar_modeling/v353_npr_rebuild/reviews/physics/media/v353_TIE_MARGIN_LeanRight.jpg` | 246800 | `cd7ee011c0fce8500e780812b1a1d2a7ae5bc2123daba5a8481b0355c61e794c` |
+| `avatar_modeling/v353_npr_rebuild/reviews/physics/media/v353_TIE_WEIGHTED_PAD1_CONTINUOUS.mp4` | 1058070 | `ff7e6da4ce4e1ca608526631fa8906c8897c8576829e56142151132a2c8accf2` |
 | `avatar_modeling/v353_npr_rebuild/reviews/physics/v353_CLOTH_EVALUATION_RESEARCH.md` | 4831 | `54a9bbfdbfb3f8f4d5c2a299387274c33fac03b0d0e47537985f59ae09c386d1` |
 | `avatar_modeling/v353_npr_rebuild/reviews/physics/v353_GRAVITY_REFINED_REVIEW.md` | 11289 | `f6a48d576611be0d4009f0a07f812eb15e03f0505ff515c07c58866546b57564` |
 | `avatar_modeling/v353_npr_rebuild/reviews/physics/v353_HAIR_NEIGHBOR_REVIEW.md` | 4876 | `1cc6a9237391ac590bfd8a0f532bdc27f62832ebadf77fc6468374967d08b900` |
@@ -98,6 +120,14 @@
 | `avatar_modeling/v353_npr_rebuild/reviews/rig/button_normal/native_v5_actual_buttons/FIXED_N_NO_MAP_NECKLINE_RIGHT.png` | 630006 | `f6ebb63ca3092a4a59b9fb15b0a002df377e4dd13f6f9748907d14a3223803df` |
 | `avatar_modeling/v353_npr_rebuild/reviews/rig/hair_flow/media/v353_HAIR_ALBEDO17_back_side.jpg` | 580789 | `7a6c784c248794c526258d1749b76159d8af4d3546260f1c30bd676e53bcdaef` |
 | `avatar_modeling/v353_npr_rebuild/reviews/rig/hair_flow/media/v353_HAIR_ALBEDO17_front_side.jpg` | 630641 | `de23a49562dce7a6d5b51bc9dd12c1fe961937e91c6676bb0682af07d84c6ae4` |
+| `avatar_modeling/v353_npr_rebuild/reviews/rig/hair_flow/media/v353_HAIR_ALBEDO18_ELEVATION_1.jpg` | 412503 | `131638a2730177d23ae9ec2d2b1bbfb5192d770652afbb49dfdbed9ef0a8787f` |
+| `avatar_modeling/v353_npr_rebuild/reviews/rig/hair_flow/media/v353_HAIR_ALBEDO18_ELEVATION_2.jpg` | 417280 | `07562def3c4d31fde4096db89fa9146b531f849e9fb4b036b69e4440402ee7ff` |
+| `avatar_modeling/v353_npr_rebuild/reviews/rig/hair_flow/media/v353_HAIR_ALBEDO18_STANDARD_1.jpg` | 437571 | `14c5831c35994ad11d7e566e9cf8034d84474863847259ba112cbf91eafd89ac` |
+| `avatar_modeling/v353_npr_rebuild/reviews/rig/hair_flow/media/v353_HAIR_ALBEDO18_STANDARD_2.jpg` | 423614 | `b36688a26ff02ff709dcb785b925ec92a8b7200d95ab55477198bd28223bf797` |
+| `avatar_modeling/v353_npr_rebuild/reviews/rig/hair_flow/media/v353_HAIR_ALBEDO19_ELEVATION_1.jpg` | 426276 | `9169d93ec4ea87a766a1b8fdb8b27409051e209c4d7d04b6ac11d189ed55fa98` |
+| `avatar_modeling/v353_npr_rebuild/reviews/rig/hair_flow/media/v353_HAIR_ALBEDO19_ELEVATION_2.jpg` | 423186 | `540b858852a76483eb7478fa03df0da539d1389a0cfc2f343d361af9b440829a` |
+| `avatar_modeling/v353_npr_rebuild/reviews/rig/hair_flow/media/v353_HAIR_ALBEDO19_STANDARD_1.jpg` | 444869 | `64c3d7c6c059d63cc45668af0c2c7ca9bb2f205ffbb9d023c513665cfaf205c3` |
+| `avatar_modeling/v353_npr_rebuild/reviews/rig/hair_flow/media/v353_HAIR_ALBEDO19_STANDARD_2.jpg` | 429065 | `22a66fede724dfd9ff98d4287d34855048a59f8e5467584ca9f2ff0c4d532706` |
 | `avatar_modeling/v353_npr_rebuild/reviews/rig/hair_flow/media/v353_HAIR_ALBEDO_back_side.jpg` | 592552 | `65f72aadeb579132c9791579d8789b7df3adc0829cd3a89b82eb1b9f766d8b22` |
 | `avatar_modeling/v353_npr_rebuild/reviews/rig/hair_flow/media/v353_HAIR_ALBEDO_front_side.jpg` | 610749 | `5372139c956b9ebbf72c1618ec1421de1787dd6609b5f64eb3d952e514d82ee8` |
 | `avatar_modeling/v353_npr_rebuild/reviews/rig/hair_flow/multiview_hair_v10_views/v353_HAIR_MULTIVIEW_PROJECTED_180.png` | 1165959 | `84577564741d53cc579ea3337c842fe23e9949b5bf2ac6a62e5a60df9807f959` |
@@ -117,9 +147,13 @@
 | `avatar_modeling/v353_npr_rebuild/reviews/rig/hair_flow/v353_HAIR_DEFINED_VISUAL_REVIEW.md` | 4657 | `2c65fc1519802434bed66c8d9dce5c866f23f8b946359ab79553b846c650bbbe` |
 | `avatar_modeling/v353_npr_rebuild/reviews/rig/hair_flow/v353_HAIR_FAILURE_CAUSES.md` | 10417 | `707aedc695872c224211915fa9ce85e3187a9c930cb93b55c54c3b0ab58bc3d7` |
 | `avatar_modeling/v353_npr_rebuild/reviews/rig/hair_flow/v353_HAIR_MULTIVIEW_REVIEW.md` | 2987 | `4788701e307d25fd26bdbfcdcf75ad64872dfa23d146382f44db6f0b665f80c2` |
+| `avatar_modeling/v353_npr_rebuild/reviews/rig/integration_latest/v353_HAIR_V19_INDEPENDENT_VISUAL_REVIEW.md` | 9003 | `3663b5b7dcbfb4278e6318a3f7e7b9736e297e1e3dfd28be1dc60aa2959c73b4` |
+| `avatar_modeling/v353_npr_rebuild/reviews/rig/integration_latest/v353_SURFACE19_INDEPENDENT_REVIEW.md` | 9282 | `32e900ef028230724882f8d0792fdf92b665d9937ad855ae79f1527479d0bb11` |
 | `avatar_modeling/v353_npr_rebuild/reviews/rig/pants_seam/v353_PANTS_V7_HALO_REVIEW.md` | 6185 | `69e800c0f0b62a915d9d3cf9f2e7d2f4987134070b0f1cff2fd01e372ebcdc80` |
 | `avatar_modeling/v353_npr_rebuild/reviews/rig/shoulder35_rig540_v2/frames/177_ArmsUp_SHOULDER.png` | 490490 | `4fe6810b3e5d7f922125d9100a73655d7dff785ca81b28aa59fc975c5ed83deb` |
 | `avatar_modeling/v353_npr_rebuild/reviews/rig/shoulder65_rig540_v2/frames/177_ArmsUp_SHOULDER.png` | 492165 | `65bea77e7a121f3698088e64693d123dc3dfa7bc02ae2fbe8cde60a177ab6591` |
+| `avatar_modeling/v353_npr_rebuild/reviews/rig/shoulder_cap100_rig540/frames/177_ArmsUp_SHOULDER.png` | 488494 | `b6c7daae687247f2a3111d9872e3c60105ffb44b6edc00e7091fd7f8898d213b` |
+| `avatar_modeling/v353_npr_rebuild/reviews/rig/shoulder_cap35_rig540/frames/177_ArmsUp_SHOULDER.png` | 488078 | `6fd359bc476438d86c13db5d51ed036bd7306eb4b9442a333bde5f29fa93db72` |
 | `avatar_modeling/v353_npr_rebuild/reviews/shader/native_collar_shadow_v1/DETAILS0_SHIRT0_NECKLINE_LEFT.png` | 594355 | `e3e21d1d684ee55a1254777c31129c62a7d0ce5c2ca1e438031350bc25109708` |
 | `avatar_modeling/v353_npr_rebuild/reviews/shader/native_collar_shadow_v1/DETAILS1_SHIRT1_NECKLINE_LEFT.png` | 614511 | `d83ab700fcc760dd532c5eceb3ba6ebed1f8bc421d8feb26ecaf655b53af1919` |
 | `avatar_modeling/v353_npr_rebuild/reviews/shader/native_face_environment_v1/FACE_AU000_PORTRAIT_DIM.png` | 429128 | `8c296870fb7f7dc41aaa70ae560d95eeb67b3d759dea384195a3b40cd73fd1e9` |
@@ -144,5 +178,6 @@
 | `avatar_modeling/v353_npr_rebuild/v353_ALBEDO_RIG_ROOT_REVIEW.md` | 18875 | `db96673cf5bfb2ec9a3c5d7892d1b67afb59046ea26f118ae54c45c0ec74f6a3` |
 | `avatar_modeling/v353_npr_rebuild/v353_ART_DIRECTION.md` | 4790 | `a20e06af056f96e57268a7e40a3ffd68190813769f08901e362add151979c11f` |
 | `avatar_modeling/v353_npr_rebuild/v353_CONTINUATION_REVIEW.md` | 11275 | `fdf335c3acf85a8a76c9e405e6495d55d6b252d91cb9b970101da105c7252e6a` |
+| `avatar_modeling/v353_npr_rebuild/v353_CROWN_TIE_CONTINUOUS_REVIEW.md` | 19822 | `c3ee8c800cfc253e8092b8933b69931131157e193bc0124300c8a5e21ce8a613` |
 | `avatar_modeling/v353_npr_rebuild/v353_SURFACE_PHYSICS_FOLLOWUP.md` | 10020 | `9d5d6095676cf4e6876c008eedd5b1425a4384da5f9517ca56a230f75a3ca053` |
 | `avatar_modeling/v353_npr_rebuild/v353_WORK_REVIEW.md` | 18697 | `0cf332ae4759968a5c8c1e0da476b121ffbf593e794f2d7da61349139add23b5` |
