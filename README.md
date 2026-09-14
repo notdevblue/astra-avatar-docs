@@ -1,4 +1,6 @@
-# SiuSiu Perfect Sync v002
+# 캐릭터 제작·검수 기록
+
+[v353 머리 안쪽·물리 반복 및 역순 검수](avatar_modeling/v353_npr_rebuild/v353_INNER_HAIR_PHYSICS_REVIEW.md) — hair20 Unity64장과 조명 제거 전후, 넥타이 중력·실행 순서 영향, Cloth 실패 원인과 어깨 후속 사본. 전체 작업 계속 진행 중.
 
 [v353 정수리·머리 안쪽 및 넥타이 연속 검수](avatar_modeling/v353_npr_rebuild/v353_CROWN_TIE_CONTINUOUS_REVIEW.md) — 신규 V18/V19 채색, 각 Unity 64장, 30fps 넥타이 전후 영상, 어깨 회귀와 Cloth 추가 원인 대조. 전체 계속 진행 중.
 
