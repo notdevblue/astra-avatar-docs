@@ -4,6 +4,6 @@
 
 - [조사 보고서](v001_RESEARCH.md)
 - [출처와 확인 범위](v001_SOURCES.md)
-- [로컬 구조·해시 확인](evidence/v001_LOCAL_AUDIT.json)
+- [확인 결과 요약](v001_VERIFICATION.md)
 
 `audit_local.py`는 기존 파일을 읽고 구조 요약과 해시만 기록합니다. Blender·Unity 실행이나 모델 수정은 하지 않습니다. 사진은 기존 v335 비교 렌더를 그대로 복사해 이번에 다시 직접 확인했습니다. 현재 v352 외형이나 분리 후 결과 사진으로 사용하지 않습니다.

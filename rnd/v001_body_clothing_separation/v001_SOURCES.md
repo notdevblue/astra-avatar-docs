@@ -22,6 +22,6 @@
 - 보존 확인: `avatar_modeling/v352_eye_shadow_research/DELIVERY.json`의 원본 Blend 및 Final.prefab과 현재 SHA-256을 비교했다.
 - 참고 구조: `avatar_modeling/v335_uv_texture_audit/AUDIT.json`과 SiuSiu/Lapwing 원본 해시 기록. 현재 프리팹·메시 원본만 비교했으며 전체 텍스처·패키지·실행 환경이 같다는 주장은 하지 않는다.
 - 사진: 같은 v335 폴더의 세 모델 `*_TORSO_ORIGINAL.png`. 원본과 복사본 바이트 일치. 이번에 직접 다시 열어 착장 차이를 확인했다.
-- 결과: [v001_LOCAL_AUDIT.json](evidence/v001_LOCAL_AUDIT.json). 재실행 스크립트 `audit_local.py`는 작업 저장소 R&D 폴더에 보존한다.
+- 결과: [공개용 확인 결과 요약](v001_VERIFICATION.md). 재실행 스크립트 `audit_local.py`는 작업 저장소 R&D 폴더에 보존한다.
 
 공유 문서에는 보고서·설명용 사진·구조/해시 요약만 게시한다. 모델, 텍스처 원본, 참고 모델 정점/UV/웨이트 배열은 이 R&D 공개 선별본에 포함하지 않는다. 본문에 제시한 다음 단계의 작업 순서와 비용 평가는 위 자료를 종합한 판단이며 실제 수행 결과와 구분한다.
