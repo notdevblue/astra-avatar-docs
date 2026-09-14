@@ -1,3 +1,5 @@
+[v354 기존 외형 복귀·관절·물리 계획](avatar_modeling/v354_rig_recovery/v354_WORK_PLAN.md) — 실행 승인, 기준 사본 저장·재열기 확인. v353 텍스처 폐기는 유지하며 전체 작업은 진행 중.
+
 2026-09-15: [v353 텍스처 재작업 회고](avatar_modeling/v353_npr_rebuild/v353_RETROSPECTIVE.md) — 디테일 손실의 원인, 검수의 한계, 다음 작업의 확인 절차. 폐기 상태 유지·문서 작성만 진행.
 
 ## 최신 결정 · v353 텍스처 재작업 전면 폐기
