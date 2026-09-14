@@ -4,8 +4,8 @@
 
 문서의 비공개 작업 파일 링크는 미포함 표기로 바꾸고 로컬 설치 경로를 생략했습니다.
 
-- 원문 Markdown: 47개
-- 본문 비교 이미지: 250개
+- 원문 Markdown: 48개
+- 본문 비교 이미지: 252개
 - 아래 SHA-256은 공유본 내용 기준입니다. 기존 저장소의 Git 이력은 포함하지 않습니다.
 
 | 파일 | 바이트 | SHA-256 |
@@ -80,6 +80,8 @@
 | `avatar_modeling/v353_npr_rebuild/reviews/eye/current_surface_hands_mid_repair_v1/v353_HANDS_MID_INDEPENDENT_REVIEW.md` | 1089 | `3d24998265aa34e7461708c92ad4d7d3fd5ae64decbd2b4f6166e7b909b4cb4c` |
 | `avatar_modeling/v353_npr_rebuild/reviews/eye/depth_trials/v353_DEPTH25_EYE_35.png` | 977442 | `83b75b501e059f43f6444b68a21ea6175ca777d59a4c263a0cec3ddd69e0773d` |
 | `avatar_modeling/v353_npr_rebuild/reviews/eye/depth_trials/v353_DEPTH50_EYE_35.png` | 977881 | `e2914a94daeb53080fc07b70167be05a54e530194ef4e4a381f9e9cbd35590bd` |
+| `avatar_modeling/v353_npr_rebuild/reviews/eye/eyelid_regression_v1/V352_BEFORE_EYE_CLOSE.png` | 1310795 | `88a8c05dd52d608069523bc96ea9c989eb91f6d5835241be5b28eca2722165bf` |
+| `avatar_modeling/v353_npr_rebuild/reviews/eye/eyelid_regression_v1/V352_BEFORE_HEAD_MINUS35.png` | 628477 | `949ad38c01acc9fe006541be0fa5a418827564a13a9bd5c0f070c4b2c9380dd7` |
 | `avatar_modeling/v353_npr_rebuild/reviews/eye/images/v353_V5_EYE_NEUTRAL_0.png` | 981814 | `90544e9c05bfbbb92855c72d00e3486e8abada029c1329fc8f2d575be024b1bd` |
 | `avatar_modeling/v353_npr_rebuild/reviews/eye/images/v353_V5_EYE_NEUTRAL_35.png` | 948144 | `59b5b7b57bf1be48832c2a920bad6c70bd6ce59c3eacde6e4fbedb1ef2cbc9f8` |
 | `avatar_modeling/v353_npr_rebuild/reviews/eye/images/v353_V5_EYE_NEUTRAL_55.png` | 946715 | `9b3ef9a1f92f23e9f8ec7bd8c8069a3999f641af7514e30bb3ac3fd2fb41acb5` |
@@ -299,9 +301,10 @@
 | `avatar_modeling/v353_npr_rebuild/v353_COMMON_MODEL_LIMITS.md` | 4517 | `abcacc832464a993d44653c759a15a365fc5c03722ca86672f6e645478f2a4e6` |
 | `avatar_modeling/v353_npr_rebuild/v353_CONTINUATION_REVIEW.md` | 11275 | `fdf335c3acf85a8a76c9e405e6495d55d6b252d91cb9b970101da105c7252e6a` |
 | `avatar_modeling/v353_npr_rebuild/v353_CROWN_TIE_CONTINUOUS_REVIEW.md` | 19822 | `c3ee8c800cfc253e8092b8933b69931131157e193bc0124300c8a5e21ce8a613` |
+| `avatar_modeling/v353_npr_rebuild/v353_EYELID_REGRESSION_REVIEW.md` | 5198 | `8759b7d85ef6234e094a9b13ce2c30deaa402aa675e038fbe3244199e90948d1` |
 | `avatar_modeling/v353_npr_rebuild/v353_HAIR29_RUNTIME_COAT_REVIEW.md` | 13908 | `8d97cb99637853307434605f0798a9ddf5f025c8ca0da6775e4c297edbb98764` |
 | `avatar_modeling/v353_npr_rebuild/v353_INNER_HAIR_PHYSICS_REVIEW.md` | 14029 | `a096e6cde4d96adde2c7916563d98810e892664754d768ad76bef0884921d06e` |
-| `avatar_modeling/v353_npr_rebuild/v353_MIDPOINT_REVIEW.md` | 8128 | `8644b0ea49da2aa179ce102ebc647da972e6cb2824ee1039e975a3cfb58a4947` |
+| `avatar_modeling/v353_npr_rebuild/v353_MIDPOINT_REVIEW.md` | 8460 | `3067ba16a8e4075878396454654a3c69c2624b4139976a5854b1b94d63898042` |
 | `avatar_modeling/v353_npr_rebuild/v353_REFERENCE_MOTION_REVIEW.md` | 9455 | `b5efbb786d181c3c086765a601c19921cc91fa8cba79fbcbb2c77f5925c8286c` |
 | `avatar_modeling/v353_npr_rebuild/v353_SHOULDER_HAIR_COAT_REVIEW.md` | 13893 | `cbadbff668813abc024c7d2b45f7e53aef4e568fddf643ce9bf42751b68b790c` |
 | `avatar_modeling/v353_npr_rebuild/v353_SURFACE_COMPRESSION_REVIEW.md` | 5569 | `d19607c1091f361f0cd75300a7c1f8faef39ee7514fe8fc9a5757bdea162836a` |
