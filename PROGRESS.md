@@ -1,3 +1,5 @@
+[v355 어깨 함몰 수정 · 전후/참고 모델/영상](avatar_modeling/v355_shoulder_reference_fix/v355_WORK_REVIEW.md) — 새 어깨 보정 실제 SDK720×2 검수, 원래 외형·P1 넥타이 보존. 국소 소매 폭·기존 주름/교차 잔여, 사용자 외형 확인·PC VRChat 검수 전. 어깨 외 대기 작업과 v353 표면 폐기 유지.
+
 [v354 중간 점검 · 사진/영상과 실제 완료 범위](avatar_modeling/v354_rig_recovery/v354_MIDPOINT_REVIEW.md) — v352 외형 복귀·넥타이 검수 완료, 어깨/자켓/눈/헤어는 후보 또는 준비 단계. 사용자 피드백 전 추가 실행 중지.
 
 [v354 넥타이 물리 복구·참고 모델 조사](avatar_modeling/v354_rig_recovery/v354_TIE_RECOVERY_REVIEW.md) — v352 원래 외형 유지, 실제 전후 검수 후 넥타이 통합 후보 선택. SiuSiu·Lapwing의 Unity PhysBone 구조를 기준으로 후속 작업 진행 중.

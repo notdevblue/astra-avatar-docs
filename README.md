@@ -1,12 +1,4 @@
-[별도 R&D · v011 Tripo 세 파츠 조립 검수](rnd/v011_tripo_assembly/v011_WORK_REVIEW.md) — 170cm T 포즈·실제 사면 사진, 목/헤어 잔여 문제.
-
-[별도 R&D · v006 얼굴·몸 분리 제작 검토](rnd/v006_head_body_separation/README.md) — 머리 별도 제작·표정·목 연결 계획.
-
-[별도 R&D · v005 정돈한 헤어·속옷형 T 포즈 4방향](rnd/v005_groomed_underwear/README.md) — 사용자 지적 후 오른쪽·후면 수정과 개별 PNG ZIP.
-
-[별도 R&D · v004 옷주름 없는 T 포즈 삼면도](rnd/v004_wrinkle_free/README.md) — 전체 착장과 분리 의상 비교안.
-
-[별도 R&D · v003 Tripo용 T 포즈 기본 몸·독립 의상 4방향](rnd/v003_tripo_modular/README.md) — 24개 PNG와 입력 ZIP.
+[v355 어깨 함몰 수정 · 전후/참고 모델/영상](avatar_modeling/v355_shoulder_reference_fix/v355_WORK_REVIEW.md) — 새 어깨 보정 실제 SDK720×2 검수, 원래 외형·P1 넥타이 보존. 국소 소매 폭·기존 주름/교차 잔여, 사용자 외형 확인·PC VRChat 검수 전. 어깨 외 대기 작업과 v353 표면 폐기 유지.
 
 [v354 중간 점검 · 사진/영상과 실제 완료 범위](avatar_modeling/v354_rig_recovery/v354_MIDPOINT_REVIEW.md) — v352 외형 복귀·넥타이 검수 완료, 어깨/자켓/눈/헤어는 후보 또는 준비 단계. 사용자 피드백 전 추가 실행 중지.
 
